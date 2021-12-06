@@ -7,6 +7,13 @@ Please see discussions here:
 * Formal Discussion (V2): https://radicle.community/t/formal-review-radicle-grants-program-v2/2582/22
 * Snapshot Pull (94% Approval): https://snapshot.org/#/gov.radicle.eth/proposal/0xe9158c0e656918f207f76af0b05feefce2cf07c02e582944825373eebd4ddaff
 
+## Notes
+
+* `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract.
+* `0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3` is the RAD contract.
+* `0x055E29502153aEDcFDaE8Fc15a710FF6fb5e10C9` is the Radicle Foundation address.
+* `0xRADICLE_GRANTS_ADDRESS` is the Radicle Grants Program's multi-sig address.
+
 ---
 
 **Additional resources**
@@ -14,6 +21,6 @@ Please see discussions here:
 ## ACTIONS ##
 
 ```
-0xRADICLE_TREASURY_ADDRESS 0 "approve(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 3500000000000 (USDC)
-0xRADICLE_TREASURY_ADDRESS 0 "approve(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 3750000000000000000000000 (RAD)
+0x055E29502153aEDcFDaE8Fc15a710FF6fb5e10C9 0 "approve(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 1000000 (USDC)
+0x055E29502153aEDcFDaE8Fc15a710FF6fb5e10C9 0 "approve(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 44108  (RAD)
 ```
