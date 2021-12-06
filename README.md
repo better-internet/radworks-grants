@@ -94,28 +94,19 @@ This group will act as signers of the Radicle Grant Program's multi-sig, which w
 The Radicle Grants Committee is made up of core Radicle team members, Radicle community members, and outside folks who
 have some sort of related domain expertise. 
 
-- Bordumb
--  <!--- TODO -->
--  <!--- TODO -->
-
-#### Radicle Grants Evaluators 
-
-Evaluators will technically evaluate specific milestones within grant projects.
-
-They will be [maintainers](https://docs.radicle.xyz/docs/connecting-to-ethereum/adding-members) of the Radicle Grant 
-Program's repo and have the ability to approve [Radicle patches](https://docs.radicle.xyz/docs/using-radicle/creating-patches).
-
--  <!--- Volunteers from Core Dev team -->
--  <!--- TODO -->
--  <!--- TODO -->
+-  **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
+- [Abbey Titcomb](https://twitter.com/abbey_titcomb) (Core Team)
+- [Kei Kreutler](https://twitter.com/keikreutler) (Ecosystem)
+- [Nader Dabit](https://twitter.com/dabit3) (Ecosystem)
+- [Nassar Hayat](https://twitter.com/nassarhayat) (Core Team)
+- Reverie (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radicle Community)
 
 #### Radicle Operations Team<!-- omit in toc -->
 
 Speak to anyone on this list if you need help with legal documents or remittances.
 
-- Bordumb
--  <!--- TODO -->
--  <!--- TODO -->
+-  **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
+- [Abbey Titcomb](https://twitter.com/abbey_titcomb) (Core Team)
 
 ## Levels
 
@@ -125,21 +116,18 @@ The Radicle Grants Program offers different grant levels to help you best depend
   - **Target:** Individuals & small teams
   - **Amount:** Up to $10,000
   - **Requirements:** 2 approvals 
-  - **Benefits:** Feedback during application process and evaluation, introduction to related teams/projects
 
 ### Level 2
 
 - **Target:** Small teams/start-ups 
 - **Amount:** Up to $50,000
 - **Requirements:** 3 approvals 
-- **Benefits:** All of the above + ... + ...
 
 ### Level 3 
 
 - **Target:** Companies/foundations with a proven track record 
 - **Amount:** Unlimited (up to $500,000)
 - **Requirements:** Pitch call + 5 approvals
-- **Benefits:** All of the above + ... + ...
 
 ## Process
 
@@ -174,14 +162,6 @@ If you have a contribution that is not technical in nature, please feel free to 
 below:
 <!--- TODO Add a Google/Airtable application/form to fill out-->
 
-
-### Real-time conversation
-
-We have dedicated Matrix and Discord channels for grant recipients. 
-
--  <!--- TODO -->
--  <!--- TODO Should they have a funding/drip NFT that unlocks access? -->
-
 ## Alt Funding Sources
 
 In leu of a grant, you may find info below helpful to fund any projects you have in mind.
@@ -195,11 +175,9 @@ These can be a great avenue for funding.
 Below is a list of hackathons Radicle has sponsored in the past:
 * [ETHGlobal](https://online.ethglobal.com/)
 * [Ceramic - Sovereign Data Hackathon](https://gitcoin.co/hackathon/ceramic-identity/onboard)
-* ...
-* ...
-* ...
 
-In leu of specific plans, we also recommend following Radicle's various social channels:
+### Contact Us
+We also recommend following Radicle's various social channels:
 * [@radicle](https://twitter.com/radicle) on Twitter
 * [Discord](discord.gg/HRdnwAwGbG)
 * [Discourse](https://radicle.community/)
@@ -208,4 +186,4 @@ In leu of specific plans, we also recommend following Radicle's various social c
 
 ## License
 
-[Apache License 2.0](LICENSE) © Radicle
+[MIT Licence](https://github.com/radicle-dev/radicle-grants/blob/main/LICENSE) © Radicle
