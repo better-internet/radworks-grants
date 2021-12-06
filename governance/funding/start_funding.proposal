@@ -1,5 +1,10 @@
 # Radicle Grants Wave 1 - Start Funding
 
+If executed, this proposal will:
+
+1. Transfer 1.0M USDC from the Radicle Foundation to the Radicle Grant Program's multi-sig
+2. Transfer 44,108 RAD from the Radicle Foundation to the Radicle Grant Program's multi-sig
+
 **How was this proposal discussed?**
 Please see discussions here:
 * Temperature Check: https://radicle.community/t/temperature-check-radicle-grants-program/2461/8
@@ -9,18 +14,14 @@ Please see discussions here:
 
 ## Notes
 
-* `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract.
-* `0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3` is the RAD contract.
+* `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48#tokenTrade).
+* `0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3` is the RAD contract (https://etherscan.io/token/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3#readContract).
 * `0x055E29502153aEDcFDaE8Fc15a710FF6fb5e10C9` is the Radicle Foundation address.
 * `0xRADICLE_GRANTS_ADDRESS` is the Radicle Grants Program's multi-sig address.
 
----
-
-**Additional resources**
 
 ## ACTIONS ##
-
 ```
-0x055E29502153aEDcFDaE8Fc15a710FF6fb5e10C9 0 "approve(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 1000000 (USDC)
-0x055E29502153aEDcFDaE8Fc15a710FF6fb5e10C9 0 "approve(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 44108  (RAD)
+0x055E29502153aEDcFDaE8Fc15a710FF6fb5e10C9 0 "transfer(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 1000000000000
+0x055E29502153aEDcFDaE8Fc15a710FF6fb5e10C9 0 "transfer(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 44108000000000000000000
 ```
