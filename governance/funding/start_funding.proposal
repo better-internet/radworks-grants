@@ -1,0 +1,19 @@
+# Radicle Grants Wave 1 - Start Funding
+
+**How was this proposal discussed?**
+Please see discussions here:
+* Temperature Check: https://radicle.community/t/temperature-check-radicle-grants-program/2461/8
+* Formal Discussion (V1): https://radicle.community/t/formal-review-radicle-grants-program-v1/2548
+* Formal Discussion (V2): https://radicle.community/t/formal-review-radicle-grants-program-v2/2582/22
+* Snapshot Pull (94% Approval): https://snapshot.org/#/gov.radicle.eth/proposal/0xe9158c0e656918f207f76af0b05feefce2cf07c02e582944825373eebd4ddaff
+
+---
+
+**Additional resources**
+
+## ACTIONS ##
+
+```
+0xRADICLE_TREASURY_ADDRESS 0 "approve(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 3750000000000000000000000
+0xRADICLE_TREASURY_ADDRESS 0 "approve(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 3750000000000000000000000
+```
