@@ -13,15 +13,16 @@ Please see discussions here:
 * Snapshot Pull (94% Approval): https://snapshot.org/#/gov.radicle.eth/proposal/0xe9158c0e656918f207f76af0b05feefce2cf07c02e582944825373eebd4ddaff
 
 ## Notes
-
 * `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48#tokenTrade).
 * `0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3` is the RAD contract (https://etherscan.io/token/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3#readContract).
 * `0x055E29502153aEDcFDaE8Fc15a710FF6fb5e10C9` is the Radicle Foundation address.
-* `0xRADICLE_GRANTS_ADDRESS` is the Radicle Grants Program's multi-sig address.
+* `0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c` is the Radicle Grants Program's multi-sig address.
 
+## Radicle Grants Org
+Please find pertinent metadata for the Org here: https://app.radicle.network/orgs/0x8e9c37cc9a8fbb96400954c1ef2b351176fe0803
 
 ## ACTIONS ##
 ```
-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 1000000000000
-0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3 0 "transfer(address,uint256)" 0xRADICLE_GRANTS_ADDRESS 44108000000000000000000
+0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c 1000000000000
+0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3 0 "transfer(address,uint256)" 0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c 44108000000000000000000
 ```
