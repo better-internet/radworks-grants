@@ -51,7 +51,9 @@ If your work affects core components of Radicle, please make sure to follow [the
 A codebase that is easy to read is also easy to use. We suggest adopting one style from Day 1 and adhering to it across the entire team.
 This helps to keep the commit history clean and facilitates any reviews of the introduced changes.
 
-For **Rust**, we encourage formatting any additional support libraries or helpers by following the [Style Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html).
+Some recommendations for linting/formatting solutions:
+* **JS/Typescript/CSS/HTML/JSON/Vue**: consider using [Prettier](https://github.com/jlongster/prettier) 
+* **Rust**: we encourage formatting any additional support libraries or helpers by following the [Style Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html).
 
 For **any other** deliveries, please commit to a particular style & let us know which official guidelines you adopt.
 
