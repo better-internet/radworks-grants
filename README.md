@@ -85,6 +85,20 @@ We are expecting individuals and teams who are planning to own the work from sta
 If you have specific issues during development, for example understanding a certain implementation in the Radicle source
 code, the core development will be available to answer questions via [Discord](discord.gg/HRdnwAwGbG) or [Matrix](matrix.radicle.community).
 
+## Process
+
+As noted, we expect applications to be based on existing RFPs or an open application.
+
+The entire process includes these 3 steps:
+
+#### 1. Application & Review
+
+#### 2. Milestone Delivery & Review
+
+#### 3. Payment
+
+See more details in the [Grantees](/grantees) section.
+
 ### Team
 
 #### Radicle Grants Committee
@@ -128,22 +142,6 @@ The Radicle Grants Program offers different grant levels to help you best depend
 - **Target:** Companies/foundations with a proven track record 
 - **Amount:** Unlimited (up to $500,000)
 - **Requirements:** Pitch call + 5 approvals
-
-## Process
-
-As noted, we expect applications to be based on existing RFPs or an open application.
-
-The process consists of the following 4 steps:
-
-#### 1. Application
-
-#### 2. Application Review
-
-#### 3. Milestone Delivery
-
-#### 4. Payment
-
-See more details in the [Grantees](/grantees) section.
 
 ## Alt Funding Sources
 
