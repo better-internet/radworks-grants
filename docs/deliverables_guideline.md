@@ -26,6 +26,7 @@ The submission should contain the following information:
 ## License
 
 In order to successfully receive grant funding for your application it is necessary for the project to have open source code.
+
 We prefer Apache 2.0, but MIT or Unlicense are also acceptable. If your delivery comprises multiple repositories, make sure to include the license for each of them.
 
 ## Documentation
@@ -62,7 +63,7 @@ We require that each milestone delivery includes a comprehensive test suite, con
 
 Please provide documentation on how to install, compile, run and test the deliverable(s). Make sure to include all necessary prerequisites. Common issues while replicating test results involve, among others, undocumented dependencies, version numbers, local database setups, breaking changes in the main branch since delivery, OS- and browser-specific incompatibilities.
 
-Depending on the deliverable, this could include (but is not limited to)
+Depending on the deliverable, this could include (but is not limited to):
 
 - how to embed your library in another application,
 - how to make example API calls to your service,
