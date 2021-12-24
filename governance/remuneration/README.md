@@ -20,7 +20,7 @@ If you take issue with anything in it, please do the following:
 At the end of each month, please do the following:
 * Clone the ``radicle-grants`` repository
 * Create a branch with your that follows the format ``invoice-firstName-lastName``. Pseudonymous names are fine (e.g. ``git checkout -b invoice-bordumb``)
-* Duplicate the ``template.md`` file and rename similarly with the format ``month1-firstName-lastName.md`` (e.g. ``month1-bordumb.md``)
+* Duplicate the [``template.md``](template.md) file and rename similarly with the format ``month1-firstName-lastName.md`` (e.g. ``month1-bordumb.md``)
 * Fill the template with detailed notes on the work done, how many hours worked per task, and the sum total for the month
 * Place this file in the respective ``wave_N/month_N`` directory (e.g. ``wave_1/month_1``)
 * Start a PR for review
