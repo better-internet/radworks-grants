@@ -52,8 +52,9 @@ A codebase that is easy to read is also easy to use. We suggest adopting one sty
 This helps to keep the commit history clean and facilitates any reviews of the introduced changes.
 
 Some recommendations for linting/formatting solutions:
-* **JS/Typescript/CSS/HTML/JSON/Vue**: consider using [Prettier](https://github.com/jlongster/prettier) 
-* **Rust**: we encourage formatting any additional support libraries or helpers by following the [Style Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html).
+
+- **JS/Typescript/CSS/HTML/JSON/Vue**: consider using [Prettier](https://github.com/jlongster/prettier)
+- **Rust**: we encourage formatting any additional support libraries or helpers by following the [Style Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html).
 
 For **any other** deliveries, please commit to a particular style & let us know which official guidelines you adopt.
 
@@ -97,13 +98,13 @@ Each item in the list should include a link to the deliverable itself, e.g.:
 
 Please ensure the repo has the correct open-source license.
 
-| Number | Deliverable | Link | Notes |
-| ------------- | ------------- | ------------- | ------------- |
-| 0a. | License | https://github.com/.../LICENSE | ... |
-| 0b. | Documentation | ... | ... |
-| 0c. | Testing Guide | ... | ... |
-| 1. | ... | ... | ... |
-| 2. | ... | ... | ... |
+| Number | Deliverable   | Link                           | Notes |
+| ------ | ------------- | ------------------------------ | ----- |
+| 0a.    | License       | https://github.com/.../LICENSE | ...   |
+| 0b.    | Documentation | ...                            | ...   |
+| 0c.    | Testing Guide | ...                            | ...   |
+| 1.     | ...           | ...                            | ...   |
+| 2.     | ...           | ...                            | ...   |
 
 ## Additional Information
 
