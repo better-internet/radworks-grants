@@ -13,20 +13,13 @@
 - [Alt Funding Sources](#alt-funding-sources)
   - [Hackathons](#hackathons)
 
-<p align="center">
-<a href="#badge">
-    <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
-</p>
-
 ## Introduction
 
-If you're reading this, you're as interested as we are in promoting Free and Open Source Software (FOSS) and the
-ever growing Web3 ecosystem.
+If you're reading this, you're as interested as we are in promoting Free and Open Source Software (FOSS) and the ever growing Web3 ecosystem.
 
 To this end, Radicle is introducing its own grants program, the Radicle Grants Program.
 
-The aim is to directly support open source initiatives that help grow the Radicle product, the Radicle community, and
-the greater FOSS and Web3 community at large.
+The aim is to directly support open source initiatives that help grow the Radicle product, the Radicle community, and the greater FOSS and Web3 community at large.
 
 This page will cover the basics of the Radicle Grants Program's ethos, application processes, and structure.
 
