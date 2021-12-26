@@ -81,8 +81,7 @@ Outside of these 3 Fs, the grant will not provide a hands-on assistance or mento
 
 We are expecting individuals and teams who are planning to own the work from start to finish.
 
-If you have specific issues during development, for example understanding a certain implementation in the Radicle source
-code, the core development will be available to answer questions via [Discord](discord.gg/HRdnwAwGbG) or [Matrix](matrix.radicle.community).
+If you have specific issues during development, for example understanding a certain implementation in the Radicle source code, the core development will be available to answer questions via [Discord](discord.gg/HRdnwAwGbG) or [Matrix](matrix.radicle.community).
 
 ## Process
 
