@@ -46,8 +46,7 @@ Below are high level things we look for:
 
 Lastly, all work **must** adhere to the following criteria:
 
-- All code produced during your grant must be **open-sourced** with proper licensing (Apache 2.0, GPLv3, MIT or
-  Unlicense).
+- All code produced during your grant must be **open-sourced** with proper licensing (Apache 2.0, GPLv3, MIT or Unlicense).
 - All code must not rely on closed-sourced software or infrastructure to be fully functioning.
 - We will not fund projects that support any illicit activity (gambling, money laundering, etc.).
 
