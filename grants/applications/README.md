@@ -19,3 +19,7 @@ Otherwise, please follow the steps below for technical applications:
       we'll have, and the faster we can make a decision.
    5. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
    6. Sign off on the [terms and conditions](docs/T&Cs.md)  <!--- TODO -->
+
+Applications will be reviewed via the PR. Clarifications and amendments should be made in a timely manner. If you don't respond within 2 weeks, we may close the application due to inactivity. You're welcome reopen an application from the same work, assuming it was not rejected.
+
+Once approved and merged, the application is "successful" and formal multi-sig vote + payment will be made ASAP.
