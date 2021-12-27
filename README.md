@@ -98,7 +98,7 @@ The entire process includes these 3 steps:
 
 #### 1. [Application & Review](https://github.com/radicle-dev/radicle-grants/tree/main/grants/applications)
 
-#### 2. [Milestone Delivery]() & [Milestone Review]()
+#### 2. [Milestone Delivery](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_deliveries) & [Milestone Evaluation](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_evaluations)
 
 #### 3. Payment
 
