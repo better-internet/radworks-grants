@@ -1,19 +1,12 @@
 # Grants Process
 
-## Application
+## Applications
 
-If you have a contribution that is not technical in nature, please feel free to apply via [our non-technical application here](https://docs.google.com/forms/d/e/1FAIpQLSdpzrxNQIOGKT2sfr5zkQysCa_v1RPZt4oVO6zCuPKX-GIUEw/viewform?usp=sf_link).
+We accept both technical (codebase contributions, 3rd party integrations, etc.) and non-technical (hackathons, videos, blogs, tutorials, etc.).
 
-Otherwise, please follow the steps below for technical applications.
-
-1.  [Fork](https://github.com/radicle/grants-program/fork) this repository.
-2.  In the newly created fork, create a copy of the application template
-    ([`applications/template.md`](template.md)).
-3.  Name the new file after your project: `project_name.md`.
-4.  Fill out the template with the details of your project. The more technically detailed, the less back-and-forth
-    we'll have, and the faster we can make a decision.
-5.  You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
-6.  Sign off on the [terms and conditions](docs/T&Cs.md) <!--- TODO -->
+Depending on which you are applying for, please use these application steps:
+* Technical: please follow the steps in the [applications section](https://github.com/radicle-dev/radicle-grants/tree/main/grants/applications)
+* Non-technical: please fill out [our non-technical application here](https://docs.google.com/forms/d/e/1FAIpQLSdpzrxNQIOGKT2sfr5zkQysCa_v1RPZt4oVO6zCuPKX-GIUEw/viewform?usp=sf_link).
 
 ## Application Review
 
