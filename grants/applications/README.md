@@ -1,27 +1,21 @@
 # Radicle Grant Application <!-- omit in toc -->
 
-> **:loudspeaker:** This section is only for submitting finished milestones for the [Radicle Foundation Grants Program](https://github.com/radicle-dev/radicle-grants).
+> **:loudspeaker:** This section is only for applying to the [Radicle Foundation Grants Program](https://github.com/radicle-dev/radicle-grants).
 
 ---
 
-## :mailbox: Milestone Delivery Process
+## :mailbox: Application Process
 
-The milestone delivery process is part of the [Radicle Grants Program](https://github.com/radicle-dev/radicle-grants). You can find the application process [here](https://github.com/radicle-dev/radicle-grants/tree/main/grants).  
+:warning: Before you submit an application, make sure it complies with our [Guidelines](https://github.com/radicle-dev/radicle-grants#guidelines).
 
-:warning: Before you submit a milestone, make sure it complies with our [Guidelines for Milestone Deliverables](https://github.com/Radicle/Grants-Program/blob/master/docs/milestone-deliverables-guidelines.md).
+If you have a contribution that is not technical in nature, please feel free to apply via [our non-technical application here](https://docs.google.com/forms/d/e/1FAIpQLSdpzrxNQIOGKT2sfr5zkQysCa_v1RPZt4oVO6zCuPKX-GIUEw/viewform?usp=sf_link).
 
-1. **Milestone Delivery:**
-   1. [Fork](https://github.com/Radicle/Grant-Milestone-Delivery/fork) this repository with the **same GitHub account** that you used to submit the application.
-   2. In the newly created fork, create a copy of the milestone delivery template ([`deliveries/milestone-delivery-template.md`](deliveries/milestone-delivery-template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/Radicle/Grant-Milestone-Delivery/master/deliveries/milestone-delivery-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**.
-   3. Name the file `project_name-milestone_number.md`.
-   4. Fill out the [invoice form](TODO).
-   5. Fill out the template with the details of your milestone including a **link to the pull request** of your application.
-   6. Once you're done, create a pull request.
-2. **Milestone Review:**
-   1. [Evaluators](https://github.com/radicle-dev/radicle-grants#team) can (and usually do) issue comments and request changes on the pull request. Their feedback needs to be resolved before your milestone is accepted.
-   2. Grants Evaluators will merge your pull request to accept the delivery.
-3. **Milestone Payment:**
-   1. The [operations team](https://github.com/radicle-dev/radicle-grants#team) receives a notification once the delivery is accepted. Payments are usually processed within 14 days.
-   2. Payment is made to the Bitcoin or Ethereum address specified in the initial application. The exchange rate for BTC depends on the time of payment.
-
-Grant applications can be [amended](https://github.com/Radicle/Grants-Program#changes-to-a-grant-after-approval) at any time. However, this _necessitates a reevaluation by the committee_. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
+Otherwise, please follow the steps below for technical applications:
+   1. [Fork](https://github.com/radicle-dev/radicle-grants/fork) this repository.
+   2. In the newly created fork, create a copy of the application template 
+      ([`applications/template.md`](applications/template.md)). 
+   3. Name the new file after your project: `project_name.md` and place it in the respective grant wave directory (e.g. `wave_1/project_name.md`)
+   4. Fill out the template with the details of your project. The more technically detailed, the less back-and-forth 
+      we'll have, and the faster we can make a decision.
+   5. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
+   6. Sign off on the [terms and conditions](docs/T&Cs.md)  <!--- TODO -->
