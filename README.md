@@ -12,11 +12,7 @@
   - [Real-time conversation](#real-time-conversation)
 - [Alt Funding Sources](#alt-funding-sources)
   - [Hackathons](#hackathons)
-
-<p align="center">
-<a href="#badge">
-    <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
-</p>
+- [Contact Us](#contact-us)
 
 ## Introduction
 
@@ -92,7 +88,7 @@ Outside of these 3 Fs, the grant will not provide a hands-on assistance or mento
 We are expecting individuals and teams who are planning to own the work from start to finish.
 
 If you have specific issues during development, for example understanding a certain implementation in the Radicle source
-code, the core development will be available to answer questions via [Discord](discord.gg/HRdnwAwGbG) or [Matrix](matrix.radicle.community).
+code, the core development will be available to answer questions via [Discord](https://discord.gg/cS42wyG7) or [Matrix](https://matrix.radicle.community/).
 
 ## Process
 
@@ -100,13 +96,13 @@ As noted, we expect applications to be based on existing RFPs or an open applica
 
 The entire process includes these 3 steps:
 
-#### 1. Application & Review
+#### 1. [Application & Review](https://github.com/radicle-dev/radicle-grants/tree/main/grants/applications)
 
-#### 2. Milestone Delivery & Review
+#### 2. [Milestone Delivery]() & [Milestone Review]()
 
 #### 3. Payment
 
-See more details in the [Grantees](/grantees) section.
+See more details in the [Grants](/grants) section.
 
 ### Team
 
