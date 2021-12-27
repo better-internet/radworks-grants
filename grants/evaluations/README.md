@@ -14,7 +14,7 @@ As part of the grant program, we allow everyone to participate in the evaluation
 ### Process
 
 1. [Fork](https://github.com/radicle-dev/radicle-grants) this repository.
-2. In the newly created fork, create a **copy** of the evaluation template ([`evaluations/evaluation-template.md`](evaluations/evaluation-template.md)).
+2. In the newly created fork, create a **copy** of the evaluation template ([`evaluations/evaluation-template.md`](evaluations/evaluation_template.md)).
 3. Name the file `project-name_milestone-number_your-github-username.md`.
 4. Fill out the template with the specifics of your evaluation. The higher the quality of your assessment and the level of detail, the higher the USDC recompense.
 5. Once you have completed the evaluation, create a pull request.
