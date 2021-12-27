@@ -7,9 +7,6 @@
   - [Team](#team)
 - [Levels](#levels)
 - [Process](#process)
-- [Help](#help)
-  - [Additional information](#additional-information)
-  - [Real-time conversation](#real-time-conversation)
 - [Alt Funding Sources](#alt-funding-sources)
   - [Hackathons](#hackathons)
 - [Contact Us](#contact-us)
@@ -90,20 +87,6 @@ We are expecting individuals and teams who are planning to own the work from sta
 If you have specific issues during development, for example understanding a certain implementation in the Radicle source
 code, the core development will be available to answer questions via [Discord](https://discord.gg/cS42wyG7) or [Matrix](https://matrix.radicle.community/).
 
-## Process
-
-As noted, we expect applications to be based on existing RFPs or an open application.
-
-The entire process includes these 3 steps:
-
-#### 1. [Application & Review](https://github.com/radicle-dev/radicle-grants/tree/main/grants/applications)
-
-#### 2. [Milestone Delivery](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_deliveries) & [Milestone Evaluation](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_evaluations)
-
-#### 3. Payment
-
-See more details in the [Grants](/grants) section.
-
 ### Team
 
 #### Radicle Grants Committee
@@ -148,6 +131,20 @@ The Radicle Grants Program offers different grant levels to help you best depend
 - **Target:** Companies/foundations with a proven track record
 - **Amount:** Unlimited (up to $500,000)
 - **Requirements:** Pitch call + 5 approvals
+
+## Process
+
+As noted, we expect applications to be based on existing RFPs or an open application.
+
+The entire process includes these 3 steps:
+
+#### 1. [Application & Review](https://github.com/radicle-dev/radicle-grants/tree/main/grants/applications)
+
+#### 2. [Milestone Delivery](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_deliveries) & [Milestone Evaluation](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_evaluations)
+
+#### 3. Payment
+
+See more details in the [Grants](/grants) section.
 
 ## Alt Funding Sources
 
