@@ -18,8 +18,16 @@ Depending on which you are applying for, please use these application steps:
 
 ## Milestone Delivery
 
-1.  Milestones are to be delivered through the [deliveries](https://github.com/radicle-dev/radicle-grants/tree/main/grants/deliveries) directory following the process described therein.
+Milestones are to be delivered through the [deliveries](https://github.com/radicle-dev/radicle-grants/tree/main/grants/deliveries) directory following the process described therein.
 
 ## Payment
 
-1.  For the first wave of grants, once your application is approved, you will receive 40% of the grant to start. Upon final completion, the remaining 60% will be dispersed. If your grant includes multiple deliverables, we will split this payment out per deliverable.
+For the first wave of grants, once your application is approved, you will receive 40% of the grant to start. Upon final completion, the remaining 60% will be dispersed. 
+
+If your grant includes multiple deliverables, we will split this payment out per deliverable. 
+
+For example, let's say your grant has 2 major components/deliverables, totalling 15,000 USDC: 
+* Deliverable A takes 1 month and you want 5,000 UDSC
+* Deliverable B takes 2 months and you want 10,000 UDSC
+
+Both may be approved to start on the same date, at which point you will receive 6,000 USDC (40% of Deliverable A + 40% of Deliverable B). At the end of month 1, once Deliverable A is completed, you will get the remaining 60% of that (3,000 USDC). And once Deliverable B is completed, you will get the remaining 60% of that (6,000 USDC). So the total will be the original 15,000 USDC you requested.
