@@ -42,6 +42,7 @@ Also, you must abstain from the multi-sig vote for approving your application as
 A: Almost anything within reason.
 
 * If you have to buy a book to learn about a topic, put that down.
+* If you commit PRs to this repo to improve the documentation, put the time you spent doing that down.
 * If you have to test using a protocol and incur some fee (e.g. gas fees), put that down.
 * If you need to spend time learning about a topic, put the time you spent studying down.
 * If you scheduled a meeting with a DAO (e.g. education DAO about making content about Radicle tutorials, etc.), put the time you spent doing that down.
