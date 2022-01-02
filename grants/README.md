@@ -18,7 +18,7 @@ Depending on which you are applying for, please use these application steps:
 
 ## Milestone Delivery
 
-Milestones are to be delivered through the [deliveries](https://github.com/radicle-dev/radicle-grants/tree/main/grants/deliveries) directory following the process described therein.
+Milestones are to be delivered through the [deliveries](https://github.com/radicle-dev/radicle-grants/tree/main/grants/milestone_deliveries) directory following the process described therein.
 
 ## Payment
 
