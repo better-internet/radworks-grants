@@ -144,9 +144,7 @@ The entire process includes these 3 steps:
 
 #### 2. [Milestone Delivery](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_deliveries) & [Milestone Evaluation](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_evaluations)
 
-#### 3. Payment
-
-See more details in the [Grants](/grants) section.
+#### 3. [Payment](https://github.com/radicle-dev/radicle-grants/tree/main/grants#payment)
 
 ## Alt Funding Sources
 
