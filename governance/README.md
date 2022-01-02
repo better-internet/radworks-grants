@@ -33,7 +33,7 @@ Responsibilities:
 * **Multi-Sig voting**: participate in voting on and funding
 * **Occasional meetings**: most work will be done asynchronously, but committee members should expect to meet at least once per month
 
-The list above is non-exhaustive. If a committee member does work beyond these points (e.g. works with another DAO to recruit contributors), they may add this as a line item in their invoice.
+The list above is non-exhaustive. If a committee member does work beyond these points (e.g. works with another DAO to recruit contributors), they may add this as a line item in their invoice. Please [see more here](https://github.com/radicle-dev/radicle-grants/tree/main/governance/remuneration).
 
 ## Voting
 

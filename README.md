@@ -110,6 +110,8 @@ Speak to anyone on this list if you need help with legal documents or remittance
 - **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
 - [Abbey Titcomb](https://twitter.com/abbey_titcomb) (Core Team)
 
+Please see more info in [`/governance` here](https://github.com/radicle-dev/radicle-grants/tree/main/governance)
+
 ## Levels
 
 The Radicle Grants Program offers different grant levels to help you best depending on your current stage.
