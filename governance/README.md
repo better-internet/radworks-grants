@@ -37,9 +37,9 @@ The list above is non-exhaustive. If a committee member does work beyond these p
 
 ## Voting
 
-There are 2 main votes that committee members must participate in:
+There are 3 main votes that committee members must participate in:
 
-###Grant approvals
+### Grant approvals
 These are the votes for initial approval and funding of a grant application (this will disperse 40% of the grant funds to the grantee)
 
 We will try to vote on these every 2 weeks from the start of the program.
@@ -48,6 +48,13 @@ We will try to vote on these every 2 weeks from the start of the program.
 These are the votes on milestone or completed work (this will disperse the remaining 60% of grant funds to the grantee)
 
 We will try to vote on these on a rolling basis as work is completed.
+
+### Invoice approvals
+These are the votes to approve remunerations to committee members for their work. 
+
+We will vote on these on a monthly basis, typically around the end of each month.
+
+> Note: approvals must not be made unless committee members clearly note each line item of work. Please see the template in `/template.md` for how to do this.
 
 ## FAQs
 
@@ -67,6 +74,6 @@ A: Yes.  If there is a quorum to vote a member out via a multi-sig vote, they ca
 
 A: I could not agree more. This is largely due to us launching the grants program before funding features (i.e. Drips) are online. 
 
-We will keep this process for the 1st wave of grants. It will also help to inform us on the average line item costs of running such a program.
+We will keep this process for the 1st wave of grants. It will also help to inform us on the general line item costs of running such a program. For example, once Drips are online, we might use all the data here to make a flat monthly rate for drips based on the median monthly cost per committee member, learned from the 1st wave of grants.
 
 But aim is to fully adopt Radicle's native financial rails to move towards a more programmatic, automated, and transparent process.
