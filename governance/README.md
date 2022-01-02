@@ -62,3 +62,11 @@ However, if the committee wants to recruit a new member to fill an empty slot, t
 *Q: Can a committee member be ousted before the 6 month wave is over?*
 
 A: Yes.  If there is a quorum to vote a member out via a multi-sig vote, they can be removed from the multi-sig/committee.
+
+*Q: This entire process looks complex, has lots of overhead, and seems less transparent than the true vision of web3?*
+
+A: I could not agree more. This is largely due to us launching the grants program before funding features (i.e. Drips) are online. 
+
+We will keep this process for the 1st wave of grants. It will also help to inform us on the average line item costs of running such a program.
+
+But aim is to fully adopt Radicle's native financial rails to move towards a more programmatic, automated, and transparent process.

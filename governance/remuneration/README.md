@@ -6,7 +6,7 @@ We plan on using this process only for the first grants wave.
 
 The plan for subsequent grant waves is to use [Drips](https://github.com/radicle-dev/drips-landing-page) to make this process more automated and transparent.
 
-## For the community 
+## For the community
 
 Please feel free to check this repo at any time.
 
@@ -25,7 +25,7 @@ At the end of each month, please do the following:
 * Place this file in the respective ``wave_N/month_N`` directory (e.g. ``wave_1/month_1``)
 * Start a PR for review
 
-Or if you are less technically inclined, feel free to just copy/paste the content, fill it in, and email to <bordumbb@gmail.com>.
+Or if you are less technically inclined, feel free to just copy/paste the content, fill it in, and email to <bordumbb@gmail.com>. I will upload it for you.
 
 ## FAQs
 
