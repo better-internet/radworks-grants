@@ -34,3 +34,18 @@ Responsibilities:
 * **Occasional meetings**: most work will be done asynchronously, but committee members should expect to meet at least once per month
 
 The list above is non-exhaustive. If a committee member does work beyond these points (e.g. works with another DAO to recruit contributors), they may add this as a line item in their invoice.
+
+
+## FAQs
+
+*Q: What is the process if a committee member leaves before the 6 month wave is over?*
+
+A: Committee members are not obligated to stick around.
+
+No vote needs to be made for being dropped from the committee.
+
+However, if the committee wants to recruit a new member to fill an empty slot, they must use a multi-sig vote so that there is consensus on including the new member.
+
+*Q: Can a committee member be ousted before the 6 month wave is over?*
+
+A: Yes.  If there is a quorum to vote a member out via a multi-sig vote, they can be removed from the multi-sig/committee.
