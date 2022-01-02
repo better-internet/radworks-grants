@@ -1,3 +1,36 @@
 # Governance
 
-WIP
+## Team Roles
+
+### Grants Lead
+
+Current Grants Lead:
+[Bordumb](https://twitter.com/bordumbb) (Radicle Community)
+
+Responsibilities:
+* **Organizing and disseminating project ideas**: this will include RFPs from core Radicle members or open applications from the community (e.g. product requests from partners or straight from individual users)
+* **Building channels for recruiting applicants**: this might include things like putting forth RFPs to hackathons or posting bounties on GitCoin 1
+* **Initial screening of applications**: the Grant Lead will be the first line of defence for bad applications. Committee Members and Core Dev Team members should trust that they will only have to assess candidates who have met a high bar.
+* **Scheduling assessments/interviews**: this will include scheduling between grant candidates and any relevant Committee Members and/or Core Dev Team
+* **Planning milestones/check-ins**: milestones expected to be written by the grant candidates in their application. The Grant Lead will be responsible to have regular check-ins, depending on the tier of the project (see tiers below)
+* **Multi-Sig voting**: the Grant Lead will communicate to relevant Committee Members when a vote for finalized work is in order.
+
+The core goal of the Grants Lead is to build the Radicle ecosystem.
+
+### Committee Members
+
+Current Members:
+- [Abbey Titcomb](https://twitter.com/abbey_titcomb) (Core Team)
+- [Kei Kreutler](https://twitter.com/keikreutler) (Ecosystem)
+- [Nader Dabit](https://twitter.com/dabit3) (Ecosystem)
+- [Nassar Hayat](https://twitter.com/nassarhayat) (Core Team)
+- Reverie (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radicle Community)
+
+Responsibilities:
+* **Understanding RFPs**: committee members are expected to be well versed in the running backlog of projects 
+* **Reviewing Applications**: reviewing applications in detail. If a committee member does not know something, they are expected to be resourceful in learning or finding outside council on a topic. Time spent learning counts towards invoices.
+* **Reviewing Milestones/Completions**: reviewing milestones/completed work in detail. If a committee member does not know something, they are expected to be resourceful in learning or finding outside council on a topic. Time spent learning counts towards invoices.
+* **Multi-Sig voting**: participate in voting on and funding
+* **Occasional meetings**: most work will be done asynchronously, but committee members should expect to meet at least once per month
+
+The list above is non-exhaustive. If a committee member does work beyond these points (e.g. works with another DAO to recruit contributors), they may add this as a line item in their invoice.
