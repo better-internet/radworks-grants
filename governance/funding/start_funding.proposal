@@ -12,6 +12,9 @@ Please see discussions here:
 * Formal Discussion (V2): https://radicle.community/t/formal-review-radicle-grants-program-v2/2582/22
 * Snapshot Pull (94% Approval): https://snapshot.org/#/gov.radicle.eth/proposal/0xe9158c0e656918f207f76af0b05feefce2cf07c02e582944825373eebd4ddaff
 
+Please see Grants Program repo here (to be mirrored on Radicle in future):
+* https://github.com/radicle-dev/radicle-grants
+
 ## Notes
 * `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48#tokenTrade).
 * `0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3` is the RAD contract (https://etherscan.io/token/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3#readContract).
