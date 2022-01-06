@@ -15,7 +15,7 @@ Please see discussions here:
 ## Notes
 * `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48#tokenTrade).
 * `0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3` is the RAD contract (https://etherscan.io/token/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3#readContract).
-* `0x8da8f82d2bbdd896822de723f55d6edf416130ba` is the Radicle Foundation address.
+* `0x8da8f82d2bbdd896822de723f55d6edf416130ba` is the Radicle Treasury address.
 * `0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c` is the Radicle Grants Program's multi-sig address.
 
 ## Radicle Grants Org
