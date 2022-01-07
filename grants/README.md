@@ -13,7 +13,7 @@ Depending on which you are applying for, please use these application steps:
 1.  The [committee](#radicle-grants-committee) will review, add comments where needed, and possibly make change
     requests on your application PR.
 2.  Clarifications and amendments should be made in a timely manner. If you don't respond within 2 weeks, we may close the application due to inactivity. You're welcome reopen an application from the same work, assuming it was not rejected.
-3.  When all requested changes are addressed and the terms and conditions have been signed, someone will mark your application as `ready for review` and share it internally with the rest of the committee.
+3.  When all requested changes are addressed, someone will mark your application as `ready for review` and share it internally with the rest of the committee.
 4.  The application will be accepted and merged as soon as it receives the required number of approvals (see [levels](https://github.com/radicle-dev/radicle-grants#levels)), or closed after two weeks of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
 
 ## Milestone Delivery
@@ -31,3 +31,16 @@ For example, let's say your grant has 2 major components/deliverables, totalling
 * Deliverable B takes 2 months and you want 10,000 UDSC
 
 Both may be approved to start on the same date, at which point you will receive 6,000 USDC (40% of Deliverable A + 40% of Deliverable B). At the end of month 1, once Deliverable A is completed, you will get the remaining 60% of that (3,000 USDC). And once Deliverable B is completed, you will get the remaining 60% of that (6,000 USDC). So the total will be the original 15,000 USDC you requested.
+
+## FAQs
+
+*Q: Does the Radicle Grant Program assist with taxes involved in payments?*
+
+A: No. Any tax or other compliance is the responsibility of the grantee.
+
+*Q: How are payments handled if a grant project's work is late?*
+
+A: There will be a grace period of 2 months after the grants program's 6 month term is ended. After this, all grant program funds are returned to the Radicle Treasury. If work is last beyond this, the grantee will need to wait until the next grant's wave for payment, assuming they finish the work. 
+
+
+
