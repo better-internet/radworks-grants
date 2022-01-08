@@ -168,9 +168,9 @@ Below is a list of hackathons Radicle has sponsored in the past:
 We also recommend following Radicle's various social channels:
 
 
-| <img src="src/twitter_logo.png?s=50" width="50"> | <img src="src/discord_logo.png?s=50" width="50"> | <img src="src/radicle_logo_blue.png?s=50" width="50"> | <img src="src/matrix_logo.svg?s=50" width="50"> | <img src="src/telegram_logo.svg?s=50" width="50"> | <img src="src/radicle_logo.png?s=50" width="50"> | <img src="src/gnosis_logo.png?s=50" width="50"> |
+| <img src="src/twitter_logo.png?s=50" width="50"> | <img src="src/discord_logo.png?s=50" width="50"> | <img src="src/radicle_text_logo.svg?s=50" width="50"> | <img src="src/matrix_logo.svg?s=50" width="50"> | <img src="src/telegram_logo.svg?s=50" width="50"> | <img src="src/radicle_logo.png?s=50" width="50"> | <img src="src/gnosis_logo.png?s=50" width="50"> |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [@radicle](https://twitter.com/radicle)  | [Discord](https://discord.com/invite/HRdnwAwGbG) | [Discourse](https://radicle.community/) | [Matrix](matrix.radicle.community) | [Telegram](t.me/radicleworld) | [Radicle Org](https://app.radicle.network/orgs/0x8e9c37cc9a8fbb96400954c1ef2b351176fe0803) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
+| [@radicle](https://twitter.com/radicle)  | [Discord](https://discord.com/invite/HRdnwAwGbG) | [Discourse](https://radicle.community/) | [Matrix](https://matrix.radicle.community/) | [Telegram](https://t.me/radicleworld) | [Radicle Org](https://app.radicle.network/orgs/0x8e9c37cc9a8fbb96400954c1ef2b351176fe0803) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
 
 
 
