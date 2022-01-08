@@ -1,6 +1,6 @@
 # Governance
 
-| <img src="../src/token-logo-sunset.png?s=50" width="50"> | <img src="src/twitter.png?s=50" width="50"> |
+| <img src="../src/radicle_logo.png?s=50" width="50"> | <img src="../src/gnosis_logo.png?s=50" width="50"> |
 | :-: | :-: |
 | [Radicle Org](https://app.radicle.network/orgs/0x8e9c37cc9a8fbb96400954c1ef2b351176fe0803) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
 
