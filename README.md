@@ -161,8 +161,6 @@ Below is a list of hackathons Radicle has sponsored in the past:
 - [ETHGlobal](https://online.ethglobal.com/)
 - [Ceramic - Sovereign Data Hackathon](https://gitcoin.co/hackathon/ceramic-identity/onboard)
 
-### Contact Us
-
 ## Useful Links
 
 | <img src="src/twitter_logo.png?s=50" width="50"> | <img src="src/discord_logo.png?s=50" width="50"> | <img src="src/radicle_text_logo.png?s=50" width="50"> | <img src="src/matrix_logo.svg?s=50" width="50"> | <img src="src/telegram_logo.svg?s=50" width="50"> | <img src="src/radicle_logo.png?s=50" width="50"> | <img src="src/gnosis_logo.png?s=50" width="50"> |
