@@ -5,8 +5,8 @@
   - [Project ideas](#project-ideas)
   - [Support](#support)
   - [Team](#team)
-- [Levels](#levels)
 - [Process](#process)
+- [Levels](#levels)
 - [Alt Funding Sources](#alt-funding-sources)
   - [Hackathons](#hackathons)
 - [Contact Us](#contact-us)
@@ -112,6 +112,18 @@ Speak to anyone on this list if you need help with legal documents or remittance
 
 Please see more info in [`/governance` here](https://github.com/radicle-dev/radicle-grants/tree/main/governance)
 
+## Process
+
+As noted, we expect applications to be based on existing RFPs or an open application.
+
+The entire process includes these 3 steps:
+
+#### 1. [Application & Review](https://github.com/radicle-dev/radicle-grants/tree/main/grants/applications)
+
+#### 2. [Milestone Delivery](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_deliveries) & [Milestone Evaluation](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_evaluations)
+
+#### 3. [Payment](https://github.com/radicle-dev/radicle-grants/tree/main/grants#payment)
+
 ## Levels
 
 The Radicle Grants Program offers different grant levels to help you best depending on your current stage.
@@ -134,18 +146,6 @@ The Radicle Grants Program offers different grant levels to help you best depend
 - **Amount:** Unlimited (up to $500,000)
 - **Requirements:** Pitch call + 5 approvals
 
-## Process
-
-As noted, we expect applications to be based on existing RFPs or an open application.
-
-The entire process includes these 3 steps:
-
-#### 1. [Application & Review](https://github.com/radicle-dev/radicle-grants/tree/main/grants/applications)
-
-#### 2. [Milestone Delivery](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_deliveries) & [Milestone Evaluation](https://github.com/radicle-dev/radicle-grants/tree/hyperlinkFixes/grants/milestone_evaluations)
-
-#### 3. [Payment](https://github.com/radicle-dev/radicle-grants/tree/main/grants#payment)
-
 ## Alt Funding Sources
 
 In leu of a grant, you may find info below helpful to fund any projects you have in mind.
@@ -163,13 +163,17 @@ Below is a list of hackathons Radicle has sponsored in the past:
 
 ### Contact Us
 
+## Useful Links
+
 We also recommend following Radicle's various social channels:
 
-- [@radicle](https://twitter.com/radicle) on Twitter
-- [Discord](discord.gg/HRdnwAwGbG)
-- [Discourse](https://radicle.community/)
-- [Matrix](matrix.radicle.community)
-- [Telegram](t.me/radicleworld)
+
+| <img src="../src/twitter_logo.png?s=50" width="50"> | <img src="../src/discord_logo.png?s=50" width="50"> | <img src="../src/radicle_logo_blue.png?s=50" width="50"> | <img src="../src/matrix_logo.svg?s=50" width="50"> | <img src="../src/telegram_logo.svg?s=50" width="50"> |<img src="../src/radicle_logo.png?s=50" width="50"> | <img src="../src/gnosis_logo.png?s=50" width="50"> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [@radicle](https://twitter.com/radicle)  | [Discord](discord.gg/HRdnwAwGbG) | [Discourse](https://radicle.community/) | [Matrix](matrix.radicle.community) | [Telegram](t.me/radicleworld) | [Radicle Org](https://app.radicle.network/orgs/0x8e9c37cc9a8fbb96400954c1ef2b351176fe0803) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
+
+
+
 
 ## License
 
