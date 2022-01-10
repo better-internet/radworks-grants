@@ -4,6 +4,10 @@
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+What kind of things do we want to experiment with:
+* [Retroactive public goods funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c)
+
+
 ## How do I apply for a grant?
 There are two tracks for applying...
 
@@ -30,7 +34,7 @@ If your project is large in scope, will take a while, or gets into fine technica
 
 If you're still not sure:
 
-Reach out to us in the Grants' #general space on Radicle's Discord. 
+Reach out to us in the Grants' #general space on Radicle's Discord.
 Or shoot me an email at <bordumbb@gmail.com>.
 
 ## What happens after I apply?
