@@ -6,7 +6,7 @@ We accept both technical (codebase contributions, 3rd party integrations, etc.) 
 
 Depending on which you are applying for, please use these application steps:
 * Technical: please follow the steps in the [applications section](https://github.com/radicle-dev/radicle-grants/tree/main/grants/applications)
-* Non-technical: please fill out [our non-technical application here](https://docs.google.com/forms/d/e/1FAIpQLSdpzrxNQIOGKT2sfr5zkQysCa_v1RPZt4oVO6zCuPKX-GIUEw/viewform?usp=sf_link).
+* Non-technical: please fill out [our non-technical application here](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform)
 
 ## Application Review
 

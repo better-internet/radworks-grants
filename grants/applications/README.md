@@ -8,17 +8,20 @@
 
 :warning: Before you submit an application, make sure it complies with our [Guidelines](https://github.com/radicle-dev/radicle-grants#guidelines).
 
-If you have a contribution that is not technical in nature, please feel free to apply via [our non-technical application here](https://docs.google.com/forms/d/e/1FAIpQLSdpzrxNQIOGKT2sfr5zkQysCa_v1RPZt4oVO6zCuPKX-GIUEw/viewform?usp=sf_link).
+## 🌱 Seed Grants
+If you have a contribution that falls within [level 1-2](https://github.com/radicle-dev/radicle-grants#levels) or is not technical in nature, please fill out the form below:
 
-Otherwise, please follow the steps below for technical applications:
-   1. [Fork](https://github.com/radicle-dev/radicle-grants/fork) this repository.
-   2. In the newly created fork, create a copy of the application template 
-      ([`applications/template.md`](template.md)). 
-   3. Name the new file after your project: `project_name.md` and place it in the respective grant wave directory (e.g. `wave_1/project_name.md`)
-   4. Fill out the template with the details of your project. The more technically detailed, the less back-and-forth 
-      we'll have, and the faster we can make a decision.
-   5. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
+### [Seed Grant Form](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform?usp=sf_link)
 
-Applications will be reviewed via the PR. Clarifications and amendments should be made in a timely manner. If you don't respond within 2 weeks, we may close the application due to inactivity. You're welcome to reopen an application from the same work, assuming it was not rejected.
+## 🌲 Tree Grants
+Otherwise, for larger ([levels 2-3](https://github.com/radicle-dev/radicle-grants#levels)) and more technically involved grants, please follow the steps below for technical applications:
+   1. Copy/paste the markdown file ([`applications/template.md`](template.md)). 
+   2. Fill out the template with the details of your project. The more technically detailed, the less back-and-forth 
+      we'll have, and the faster we can make a decision. 
+   3. Make a post on [Radicle's Discourse in the Grants category](https://radicle.community/)
 
-Once approved and merged, the application is "successful" and formal multi-sig vote + payment will be made ASAP.
+The committee and community members may ask questons there.
+
+Clarifications and amendments should be made in a timely manner. If you don't respond within 2 weeks, we may close the application due to inactivity. You're welcome to reopen an application from the same work, assuming it was not rejected.
+
+Once approved, the application is "successful" and formal multi-sig vote + payment will be made ASAP. See [Payment](https://github.com/radicle-dev/radicle-grants/tree/main/grants#payment) for more details.

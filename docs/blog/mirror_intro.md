@@ -11,7 +11,7 @@ There are two tracks for applying...
 
 These are smaller (<$50,000) or more technical grants.
 
-###[Application form here]()
+###[Application form here](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform?usp=sf_link)
 
 The application will only be shared with members of the grants committee. Applications that pass may be saved in one of our repos.
 
@@ -33,11 +33,19 @@ If you're still not sure:
 Reach out to us in the Grants' #general space on Radicle's Discord. 
 Or shoot me an email at <bordumbb@gmail.com>.
 
+## What happens after I apply?
+
+Your application will be reviewed by the [Grants Committee](https://github.com/radicle-dev/radicle-grants#team).
+
+The committee will vote, using a multi-sig.
+
+Once approved, you will get your first payment to help you get started with work.
+
 ## Where can I find more info?
 
 The most up-to-date info can be found on the Grant Program's [Radicle Upstream Repo]() or [GitHub Repo](https://github.com/radicle-dev/radicle-grants).
 
-## Is that it!?
-That's it. 
+## It's that easy!?
+Yup, that's it. 
 
 If you have the ability to make Radicle's ecosystem better, we will fund you.
