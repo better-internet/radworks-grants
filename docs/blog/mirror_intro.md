@@ -19,7 +19,7 @@ The application will only be shared with members of the grants committee. Applic
 
 These are larger (>$50,000) or more technical grants. 
 
-Fill out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md).
+Copy and fill out out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md).
 
 Post that application in the [grants category of Radicle's forum](). 
 
@@ -37,5 +37,7 @@ Or shoot me an email at <bordumbb@gmail.com>.
 
 The most up-to-date info can be found on the Grant Program's [Radicle Upstream Repo]() or [GitHub Repo](https://github.com/radicle-dev/radicle-grants).
 
-## What's the catch?
-There's no catch. If you have the ability to make Radicle's ecosystem better, we will fund you.
+## Is that it!?
+That's it. 
+
+If you have the ability to make Radicle's ecosystem better, we will fund you.
