@@ -1,19 +1,21 @@
-# Funding Open Source to Empower Open Source
+# Funding Open Source to Empower Open Source 🌱
 
-> Radicle is software that empowers collaboration on and funding of open source work. The Grants Program is a first step towards many things. (a) Open sourcing the development of Radicle itself (b) sustainability funding the growth of the Radicle product and (c) the start of a new model for funding open source software, dog-fooded by Radicle. 
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Today we are launching Radicle's first wave of grants. 
 
-What kind of things do we want to experiment with:
-* [Retroactive public goods funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c)
+We are breaking ground to plant the first seeds of what is sure to become a new model for funding open source.
 
+With six months and a $1,000,000 budget, the Radicle Grants Program will be funding contributions that improve the Radicle ecosystem.
+
+Radicle aims to be an integral tool in web3 development, so this program will focus on improving Radicle.
+
+In essence: funding open source to empower open source.
 
 ## How do I apply for a grant?
 There are two tracks for applying...
 
 ### 🌱 Seed Grants
 
-These are smaller (<$50,000) or more technical grants.
+These are smaller (<$50,000) or less technical grants.
 
 ###[Application form here](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform?usp=sf_link)
 
@@ -34,9 +36,6 @@ If your project is large in scope, will take a while, or gets into fine technica
 
 If you're still not sure:
 
-Reach out to us in the Grants' #general space on Radicle's Discord.
-Or shoot me an email at <bordumbb@gmail.com>.
-
 ## What happens after I apply?
 
 Your application will be reviewed by the [Grants Committee](https://github.com/radicle-dev/radicle-grants#team).
@@ -48,6 +47,9 @@ Once approved, you will get your first payment to help you get started with work
 ## Where can I find more info?
 
 The most up-to-date info can be found on the Grant Program's [Radicle Upstream Repo]() or [GitHub Repo](https://github.com/radicle-dev/radicle-grants).
+
+If you have any questions, feel free to reach out on the Grant's #general space on [Radicle's Discord](https://discord.gg/aNZdn5hP).
+Or shoot me an email at <bordumbb@gmail.com>.
 
 ## It's that easy!?
 Yup, that's it. 
