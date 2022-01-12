@@ -1,12 +1,10 @@
 # Funding Open Source to Empower Open Source 🌱
 
-Today we are launching Radicle's first wave of grants. 
+Today we are launching Radicle's first wave of grants.
 
-We are breaking ground to plant the first seeds of what is sure to become a new model for funding open source.
+We are breaking ground to plant the first seeds of what is sure to grow into a new model for funding open source.
 
 With six months and a $1,000,000 budget, the Radicle Grants Program will be funding contributions that improve the Radicle ecosystem.
-
-Radicle aims to be an integral tool in web3 development, so this program will focus on improving Radicle.
 
 In essence: funding open source to empower open source.
 
@@ -33,8 +31,6 @@ Post that application in the [grants category of Radicle's forum]().
 If your project is small in scope, timeline, or is not technical in nature, a Seed Grant is probably best. It's a faster process.
 
 If your project is large in scope, will take a while, or gets into fine technical or design details, we recommend a Tree Grant.
-
-If you're still not sure:
 
 ## What happens after I apply?
 
