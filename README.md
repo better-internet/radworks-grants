@@ -128,23 +128,25 @@ The entire process includes these 3 steps:
 
 The Radicle Grants Program offers different grant levels to help you best depending on your current stage.
 
-### Level 1 (= InstaGrants)
+### 🌱 Seed Grants
 
-- **Target:** Individuals & small teams
-- **Amount:** Up to $10,000
-- **Requirements:** 2 approvals
+Seed grants are meant for smaller projects, both in terms of complexity and cost.
 
-### Level 2
+* **Target:** Individuals & small teams
+* **Amount:** less than $50,000
 
-- **Target:** Small teams/start-ups
-- **Amount:** Up to $50,000
-- **Requirements:** 3 approvals
+Steps: [Application form here](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform?usp=sf_link)
 
-### Level 3
+### 🌲 Tree Grants
 
-- **Target:** Companies/foundations with a proven track record
-- **Amount:** Unlimited (up to $500,000)
-- **Requirements:** Pitch call + 5 approvals
+Seed grants are meant for larger projects in terms of scope, complexity, and time to completion.
+
+* **Target:** teams, companies, or foundations with a proven record
+* **Amount:** more than $50,000 (up to $500,000)
+
+Steps: 
+* Copy and fill out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md)
+* Post that application in the [grants category of Radicle's forum]()
 
 ## Alt Funding Sources
 
