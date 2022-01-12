@@ -15,7 +15,7 @@ There are two tracks for applying...
 
 These are smaller (<$50,000) or less technical grants.
 
-###[Application form here](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform?usp=sf_link)
+### [Application form here](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform?usp=sf_link)
 
 The application will only be shared with members of the grants committee. Applications that pass may be saved in one of our repos.
 
