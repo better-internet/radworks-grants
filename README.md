@@ -128,7 +128,9 @@ The entire process includes these 3 steps:
 
 The Radicle Grants Program offers different grant levels to help you best depending on your current stage.
 
-### 🌱 Seed Grants
+If you have a question about which level to apply to, please reach out on the Grant's #💬general category on [Discord](https://discord.gg/aNZdn5hP).
+
+### 🌱 Seed Grants (Level 1)
 
 Seed grants are meant for smaller projects, both in terms of complexity and cost.
 
@@ -137,7 +139,7 @@ Seed grants are meant for smaller projects, both in terms of complexity and cost
 
 Steps: [Application form here](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform?usp=sf_link)
 
-### 🌲 Tree Grants
+### 🌲 Tree Grants (Level 2)
 
 Seed grants are meant for larger projects in terms of scope, complexity, and time to completion.
 
