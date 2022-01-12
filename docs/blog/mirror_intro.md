@@ -4,7 +4,7 @@ Today we are launching Radicle's first wave of grants.
 
 We are breaking ground to plant the first seeds of what is sure to grow into a new model for funding open source.
 
-With six months and a $1,000,000 budget, the Radicle Grants Program will be funding contributions that improve the Radicle ecosystem.
+With six months and a $1,000,000 budget, the Radicle Grants Program will be funding contributions that improve the Radicle ecosystem, and in turn, improve 
 
 In essence: funding open source to empower open source.
 
@@ -23,7 +23,7 @@ The application will only be shared with members of the grants committee. Applic
 
 These are larger (>$50,000) or more technical grants. 
 
-Copy and fill out out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md).
+Copy and fill out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md).
 
 Post that application in the [grants category of Radicle's forum](). 
 
