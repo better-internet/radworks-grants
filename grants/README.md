@@ -22,6 +22,8 @@ Milestones are to be delivered through the [deliveries](https://github.com/radic
 
 ## Payment
 
+Payment is made in [USDC](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48).
+
 For the first wave of grants, once your application is approved, you will receive 40% of the grant to start. Upon final completion, the remaining 60% will be dispersed. 
 
 If your grant includes multiple deliverables, we will split this payment out per deliverable. 
