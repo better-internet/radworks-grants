@@ -57,10 +57,7 @@ Upon completion, you will receive the remaining 60%.
 
 ## Where can I find more info?
 
-The most up-to-date info can be found on the Grant Program's [GitHub Repo](https://github.com/radicle-dev/radicle-grants).
-
-Or you can enter the following into your browser to track the repo in [Radicle Upstream](https://radicle.xyz/tryit):
-radicle://link/v0/rad:git:hnrkphrmf3xgtwjxuw9frfpdhuksurbw9s97o
+The most up-to-date info can be found on the Grant Program's [Radicle Project](<radicle://link/v0/rad:git:hnrkphrmf3xgtwjxuw9frfpdhuksurbw9s97o>) or [GitHub Repo](https://github.com/radicle-dev/radicle-grants).
 
 If you have any questions, feel free to reach out on the Grant's #general space on [Radicle's Discord](https://discord.gg/aNZdn5hP). Or contact the grants lead at <bordumbb@gmail.com>.
 
