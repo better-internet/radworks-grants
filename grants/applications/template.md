@@ -7,7 +7,7 @@
 - **Project Name:** Name of your project (e.g. DevDAO Module)
 - **Team Name:** Legal/Proper name of your team (e.g. Developer DAO)
 - **Payment Address:** Ethereum (USDC) 
-- **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 1, 2 or 3
+- **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed or 🌲-Tree
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 

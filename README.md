@@ -137,8 +137,6 @@ Seed grants are meant for smaller projects, both in terms of complexity and cost
 * **Target:** Individuals & small teams
 * **Amount:** less than $50,000
 
-Steps: [Application form here](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform?usp=sf_link)
-
 ### 🌲 Tree Grants (Level 2)
 
 Seed grants are meant for larger projects in terms of scope, complexity, and time to completion.
@@ -146,13 +144,9 @@ Seed grants are meant for larger projects in terms of scope, complexity, and tim
 * **Target:** teams, companies, or foundations with a proven record
 * **Amount:** more than $50,000 (up to $500,000)
 
-Steps: 
-* Copy and fill out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md)
-* Post that application in the [grants category of Radicle's forum]()
-
 ## Alt Funding Sources
 
-In leu of a grant, you may find info below helpful to fund any projects you have in mind.
+In lieu of a grant, you may find info below helpful to fund any projects you have in mind.
 
 ### Hackathons
 
