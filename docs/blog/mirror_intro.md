@@ -49,7 +49,7 @@ For Seed Grants, you application will be reviewed by the [Grants Committee](http
 
 For Tree Grants, once your application is published via [radicle.community](https://radicle.community/c/grants/24), the application will remain open for public discussion. Unless further discussion is warranted, you should receive a response within 2 weeks.
 
-The committee will vote, using a multi-sig (Gnosis Safe).
+The committee will vote to approve funding.
 
 Once approved, you will get your first payment (40%) to help you get started with work.
 
