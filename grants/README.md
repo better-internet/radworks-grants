@@ -11,10 +11,10 @@ Depending on which you are applying for, please use these application steps:
 ## Application Review
 
 1.  The [committee](#radicle-grants-committee) will review, add comments where needed, and possibly make change
-    requests on your application PR.
+    requests on your application. Unless further discussion is warranted, we will approve or reject applications within 2 weeks.
 2.  Clarifications and amendments should be made in a timely manner. If you don't respond within 2 weeks, we may close the application due to inactivity. You're welcome reopen an application from the same work, assuming it was not rejected.
 3.  When all requested changes are addressed, someone will mark your application as `ready for review` and share it internally with the rest of the committee.
-4.  The application will be accepted and merged as soon as it receives the required number of approvals (see [levels](https://github.com/radicle-dev/radicle-grants#levels)), or closed after two weeks of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
+4.  The application will be accepted and added to this repo, or closed after two weeks of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
 
 ## Milestone Delivery
 
