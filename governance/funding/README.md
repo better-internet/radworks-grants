@@ -1,8 +1,8 @@
 # Funding
 
-This page covers steps to fund the Radicle Grants multi-sig wallet.
+This page covers steps to execute on-chain proposals.
 
-## 
+In the example below, we look at funding the Radicle Grants multi-sig.
 
 ## Process
 
