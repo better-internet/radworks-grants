@@ -16,6 +16,7 @@
 * https://github.com/radicle-dev/radicle-grants/pull/27
 * https://github.com/radicle-dev/radicle-grants/pull/28
 * https://github.com/radicle-dev/radicle-grants/pull/29
+* https://github.com/radicle-dev/radicle-grants/pull/36
 
 1 hour:
 * Call with DevDAO leader (Discord: tonyolendo#5739) about hackathons
@@ -29,12 +30,21 @@
 * Call with Jason (discord: efstajas#5962) to talk about retroactively funding his work on Radicle ([link to work here](https://github.com/radicle-dev/radicle-upstream/pull/2180))
 * Takeaway: he will likely be our first grant to vote on
 
+1 hour:
+* Mirror post (https://github.com/radicle-dev/radicle-grants/pull/35/files)
+
+3 hours:
+* Master keynote for Grants Program 
+
+30 min:
+* Wrote weekly email template (https://github.com/radicle-dev/radicle-grants/pull/39)
+
 30 min:
 * Set name for Multi-sig to `grants.radicle.eth` (https://etherscan.io/tx/0x7ca61a16b29b6067046cb653aca563b537e082791c9ac0fb5cdd2b84ffca910b)
 * Added Nas to multi-sig (https://etherscan.io/tx/0xdeffbd7a5d99e91a2f6caf67b6e8912526f9f06c59b89a5799822e45ff297951)
 * Tested Drips (https://etherscan.io/tx/0xa65b08b47902e2abb83b3b164eeba28724de7da587bb5784a4ad9bbc06577d5f)
 
-Total hours: 22
+Total hours: 24
 
 ## Other Items
 
