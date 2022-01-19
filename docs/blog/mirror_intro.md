@@ -19,8 +19,18 @@ This group will act as signers of the [Radicle Grant Program's multi-sig](https:
 
 ## How do I apply for a grant?
 
-1) Copy and fill out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md).
-2) Submit your application as a post in the [grants category](https://radicle.community/c/grants/24) of [radicle.community](https://radicle.community/).
+There are 2 ways to apply:
+
+#### 1. Freeform Grant 
+* Apply for any work you think deserves funding, whether it's a contribution to Radicle, FOSS, or web3 
+* Copy and fill out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md)
+* Create a new post in the [grants category](https://radicle.community/c/grants/24) of [radicle.community](https://radicle.community/).
+
+#### 2. Request for Proposal (RFP) Grant
+* Apply towards an existing proposal, most likely posted by us on [Discourse forum](https://radicle.community/c/grants/24).
+* If we've posted an RFP, just drop a reply on Discourse with some details on why you'd be a good fit. You can see some of the [details we're looking for here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md).
+
+If you don't want to work on a grant, but have an idea, feel free to create an [RFP using our template](https://github.com/radicle-dev/radicle-grants/blob/main/rfps/template.md) and post it on the [grants category](https://radicle.community/c/grants/24) of [radicle.community](https://radicle.community/).
 
 ## What is the scope of these grants?
 
@@ -57,7 +67,9 @@ Upon completion, you will receive the remaining 60%.
 
 ## Where can I find more info?
 
-The most up-to-date info can be found on the Grant Program's [GitHub Repo](https://github.com/radicle-dev/radicle-grants).
+You can find general info on [****TODOTODOTODOTODO****](grants-notion-page).
+
+We also archive info, such as past grants, on the Grant Program's [GitHub Repo](https://github.com/radicle-dev/radicle-grants).
 
 Or you can enter the following into your browser to track the repo in [Radicle Upstream](https://radicle.xyz/tryit):
 radicle://link/v0/rad:git:hnrkphrmf3xgtwjxuw9frfpdhuksurbw9s97o
