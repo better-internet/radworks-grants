@@ -4,9 +4,16 @@
 
 We accept both technical (codebase contributions, 3rd party integrations, etc.) and non-technical (hackathons, videos, blogs, tutorials, etc.).
 
-Depending on which you are applying for, please use these application steps:
-* Technical: please follow the steps in the [applications section](https://github.com/radicle-dev/radicle-grants/tree/main/grants/applications)
-* Non-technical: please fill out [our non-technical application here](https://docs.google.com/forms/d/e/1FAIpQLSe7TVIJmxoNnFQPWodD6LPVfdKoh8fcgbnFeXsWidBUO7K2nA/viewform)
+#### 1. Freeform Grant 
+* Apply for any work you think deserves funding, whether it's a contribution to Radicle, FOSS, or web3 
+* Copy and fill out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md)
+* Create a new post in the [grants category](https://radicle.community/c/grants/24) of [radicle.community](https://radicle.community/).
+
+#### 2. Request for Proposal (RFP) Grant
+* Apply towards an existing proposal, most likely posted by us on [Discourse forum](https://radicle.community/c/grants/24).
+* If we've posted an RFP, just drop a reply on Discourse with some details on why you'd be a good fit. You can see some of the [details we're looking for here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md).
+
+If you don't want to work on a grant, but have an idea, feel free to create an [RFP using our template](https://github.com/radicle-dev/radicle-grants/blob/main/rfps/template.md) and post it on the [grants category](https://radicle.community/c/grants/24) of [radicle.community](https://radicle.community/).
 
 ## Application Review
 
@@ -24,15 +31,15 @@ Milestones are to be delivered through the [deliveries](https://github.com/radic
 
 Payment is made in [USDC](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48).
 
-For the first wave of grants, once your application is approved, you will receive 40% of the grant to start. Upon final completion, the remaining 60% will be dispersed. 
+For the first wave of grants, once your application is approved, you will receive 20% of the grant to start. Upon final completion, the remaining 80% will be dispersed. 
 
 If your grant includes multiple deliverables, we will split this payment out per deliverable. 
 
-For example, let's say your grant has 2 major components/deliverables, totalling 15,000 USDC: 
-* Deliverable A takes 1 month and you want 5,000 UDSC
-* Deliverable B takes 2 months and you want 10,000 UDSC
+For example, let's say your grant has 2 major components/deliverables, totalling 10,000 USDC: 
+* Deliverable A takes 1 month and you want 2,000 UDSC
+* Deliverable B takes 2 months and you want 8,000 UDSC
 
-Both may be approved to start on the same date, at which point you will receive 6,000 USDC (40% of Deliverable A + 40% of Deliverable B). At the end of month 1, once Deliverable A is completed, you will get the remaining 60% of that (3,000 USDC). And once Deliverable B is completed, you will get the remaining 60% of that (6,000 USDC). So the total will be the original 15,000 USDC you requested.
+Both may be approved to start on the same date, at which point you will receive 2,000 USDC (20% of Deliverable A + 20% of Deliverable B). At the end of month 1, once Deliverable A is completed, you will get the remaining 80% of that (1,600 USDC). And once Deliverable B is completed, you will get the remaining 80% of that (6,400 USDC). So the total will be the original 10,000 USDC you requested.
 
 ## FAQs
 
