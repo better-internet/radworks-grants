@@ -61,13 +61,13 @@ For Tree Grants, once your application is published via [radicle.community](http
 
 The committee will vote to approve funding.
 
-Once approved, you will get your first payment (40%) to help you get started with work.
+Once approved, you will get your first payment (20%) to help you get started with work.
 
-Upon completion, you will receive the remaining 60%.
+Upon completion, you will receive the remaining 80%.
 
 ## Where can I find more info?
 
-You can find general info on [****TODOTODOTODOTODO****](grants-notion-page).
+You can find general info on [Notion](https://www.notion.so/forest-text-046/Radicle-Grants-cf58bc44342d4e2f84605a701f41a137).
 
 We also archive info, such as past grants, on the Grant Program's [GitHub Repo](https://github.com/radicle-dev/radicle-grants).
 
@@ -79,4 +79,4 @@ If you have any questions, feel free to reach out on the Grant's #general space 
 ## It's that easy!?
 Yup, that's it. 
 
-If you have the ability to make Radicle's ecosystem better, we will fund you.
+Head over to [Discourse](https://radicle.community/c/grants/24) and apply today!

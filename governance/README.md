@@ -44,12 +44,12 @@ The list above is non-exhaustive. If a committee member does work beyond these p
 There are 3 main votes that committee members must participate in:
 
 ### Grant approvals
-These are the votes for initial approval and funding of a grant application (this will disperse 40% of the grant funds to the grantee)
+These are the votes for initial approval and funding of a grant application (this will disperse 20% of the grant funds to the grantee)
 
 We will try to vote on these every 2 weeks from the start of the program.
 
 ### Work approvals
-These are the votes on milestone or completed work (this will disperse the remaining 60% of grant funds to the grantee)
+These are the votes on milestone or completed work (this will disperse the remaining 80% of grant funds to the grantee)
 
 We will try to vote on these on a rolling basis as work is completed.
 
