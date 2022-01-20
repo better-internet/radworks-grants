@@ -79,4 +79,4 @@ If you have any questions, feel free to reach out on the Grant's #general space 
 ## It's that easy!?
 Yup, that's it. 
 
-If you have the ability to make Radicle's ecosystem better, we will fund you.
+Head over to [Discourse](https://radicle.community/c/grants/24) and apply today!
