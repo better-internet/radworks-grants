@@ -52,12 +52,12 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 | ------ |-------------|----------------------------------------------|
 | 1.     | POC         | Create an embeddable widget that is reactive |
 
-### Milestone 2
+### Milestone 3
 
 - **Estimated Duration:** 2 months
 - **FTE:** ???
 - **Costs:** ???
 
-| Number | Deliverable | Specification                                |
-| ------ |-------------|----------------------------------------------|
-| 1.     | POC         | Create an embeddable widget that is reactive |
+| Number | Deliverable       | Specification                   |
+| ------ |-------------------|---------------------------------|
+| 1.     | Production Widget | Widget that works on any device |
