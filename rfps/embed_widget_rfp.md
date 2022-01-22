@@ -1,4 +1,4 @@
-# Title of the RFP Proposal
+# Drips Widget
 
 - **Status:** Open (anyone is allowed to apply), Closed (invited respondents only), Implemented/Retroactive (finished)
 - **Proposer:** GitHub username
@@ -33,8 +33,8 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 ### Milestone 1
 
 - **Estimated Duration:** 1 month
-- **FTE:** 2
-- **Costs:** 25,000 USDC
+- **FTE:** 1
+- **Costs:** 20,000 USDC
 
 | Number | Deliverable      | Specification                                                      |
 |--------|------------------|--------------------------------------------------------------------|
@@ -45,7 +45,7 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 ### Milestone 2
 
 - **Estimated Duration:** 2 months
-- **FTE:** ???
+- **FTE:** 1
 - **Costs:** ???
 
 | Number | Deliverable | Specification                                |
@@ -55,7 +55,7 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 ### Milestone 3
 
 - **Estimated Duration:** 2 months
-- **FTE:** ???
+- **FTE:** 1
 - **Costs:** ???
 
 | Number | Deliverable       | Specification                   |
