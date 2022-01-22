@@ -1,7 +1,7 @@
 # Drips Widget
 
 - **Status:** Open 
-- **Proposer:** @bordumb
+- **Proposer:** [@bordumb](https://github.com/bordumb)
 - **Your Project(s):** [optional]: https://github.com/radicle-dev
 - **Projects you think this work could be useful for** [optional]: everything worth paying for online.
 - **Teams/People that could deliver the RFP** [optional]: Looking...
