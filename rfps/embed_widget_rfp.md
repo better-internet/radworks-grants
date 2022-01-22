@@ -24,11 +24,13 @@ We could see it being used by any sort of creator, including but not limited to:
 
 The main goal here is to abstract [Radicle Drips](https://docs.drips.network/docs/whats-a-drip.html) such that it is integrated with anything online worth paying for. In essence, make it accessible to non-technical people.
 
+> Note: the goal is not to add to the backend (yet). No smart contract work is needed. This is focused on a front-end solution.
+
 ## Deliverables :nut_and_bolt:
 
 - **Total Estimated Duration:** up to 6 months (negotiable; please see `Milestone` sections)
-- **Full-time equivalent (FTE):** ???
-- **Total Costs:** ???
+- **Full-time equivalent (FTE):** 1
+- **Total Costs:** roughly 60,000 USDC
 
 ### Milestone 1
 
