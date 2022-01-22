@@ -32,9 +32,9 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 
 ### Milestone 1
 
-- **Estimated Duration:** 1 month
+- **Estimated Duration:** 2 weeks
 - **FTE:** 1
-- **Costs:** 20,000 USDC
+- **Costs:** 12,000 USDC
 
 | Number | Deliverable      | Specification                                                      |
 |--------|------------------|--------------------------------------------------------------------|
@@ -44,9 +44,9 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 
 ### Milestone 2
 
-- **Estimated Duration:** 2 months
+- **Estimated Duration:** 1 month
 - **FTE:** 1
-- **Costs:** ???
+- **Costs:** 24,000 USDC
 
 | Number | Deliverable | Specification                                |
 | ------ |-------------|----------------------------------------------|
@@ -54,10 +54,20 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 
 ### Milestone 3
 
-- **Estimated Duration:** 2 months
+- **Estimated Duration:** 1 month
 - **FTE:** 1
-- **Costs:** ???
+- **Costs:** 24,000 USDC
 
-| Number | Deliverable       | Specification                   |
-| ------ |-------------------|---------------------------------|
-| 1.     | Production Widget | Widget that works on any device |
+| Number | Deliverable       | Specification                        |
+| ------ |-------------------|--------------------------------------|
+| 1.     | Production Widget | Widget that works on any site/device |
+
+### Milestone N
+
+- **Estimated Duration:** 1 month
+- **FTE:** 1
+- **Costs:** 24,000 USDC
+
+| Number | Deliverable    | Specification                         |
+| ------ |----------------|---------------------------------------|
+| 1.     | Your thoughts? | How else would you grow this product? |
