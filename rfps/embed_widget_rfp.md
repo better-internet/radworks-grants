@@ -1,10 +1,10 @@
 # Drips Widget
 
-- **Status:** Open (anyone is allowed to apply), Closed (invited respondents only), Implemented/Retroactive (finished)
-- **Proposer:** GitHub username
-- **Your Project(s):** [optional]: Link(s)
-- **Projects you think this work could be useful for** [optional]: Link(s)
-- **Teams/People that could deliver the RFP** [optional]: Link(s)
+- **Status:** Open 
+- **Proposer:** @bordumb
+- **Your Project(s):** [optional]: https://github.com/radicle-dev
+- **Projects you think this work could be useful for** [optional]: everything worth paying for online.
+- **Teams/People that could deliver the RFP** [optional]: Looking...
 
 ## Project Description :page_facing_up:
 
