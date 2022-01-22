@@ -1,4 +1,4 @@
-# Drips Widget
+# Drips Widget - Proof of Concept
 
 - **Status:** Open 
 - **Proposer:** [@bordumb](https://github.com/bordumb)
@@ -30,7 +30,7 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 
 - **Total Estimated Duration:** up to 6 months (negotiable; please see `Milestone` sections)
 - **Full-time equivalent (FTE):** 1
-- **Total Costs:** roughly 60,000 USDC
+- **Total Costs:** roughly ,000 USDC
 
 ### Milestone 1
 
@@ -50,26 +50,6 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 - **FTE:** 1
 - **Costs:** 24,000 USDC
 
-| Number | Deliverable | Specification                                |
-| ------ |-------------|----------------------------------------------|
-| 1.     | POC         | Create an embeddable widget that is reactive |
-
-### Milestone 3
-
-- **Estimated Duration:** 1 month
-- **FTE:** 1
-- **Costs:** 24,000 USDC
-
-| Number | Deliverable       | Specification                        |
-| ------ |-------------------|--------------------------------------|
-| 1.     | Production Widget | Widget that works on any site/device |
-
-### Milestone N
-
-- **Estimated Duration:** 1 month
-- **FTE:** 1
-- **Costs:** 24,000 USDC
-
-| Number | Deliverable    | Specification                         |
-| ------ |----------------|---------------------------------------|
-| 1.     | Your thoughts? | How else would you grow this product? |
+| Number | Deliverable | Specification                        |
+| ------ |-------------|--------------------------------------|
+| 1.     | POC         | Widget that works on any site/device |
