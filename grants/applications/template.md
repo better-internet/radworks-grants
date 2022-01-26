@@ -36,7 +36,7 @@ Please provide the following:
 ### Contact
 
 - **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@dev.com)
+- **Contact Email:** Contact email (e.g. person@dev.com)
 - **Website:**
 
 ### Legal Structure
