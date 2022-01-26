@@ -112,10 +112,12 @@ Please add additional milestones in the same way:
 
 ## Future Plans
 
-Please include here
+Please include the following:
 
 - How you intend to use, enhance, promote and support your project in the short term
 - The team's long-term plans and intentions in relation to it. In other words, how will it be made sustainable?
+
+>️ ❗*This is a good place to share how you might like to get more grant funding for future work*
 
 ## Additional Information :heavy_plus_sign:
 
