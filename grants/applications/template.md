@@ -70,14 +70,6 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 - https://www.linkedin.com/<person_1>
 - https://www.linkedin.com/<person_2>
 
-# Title of the RFP Proposal
-
-- **Status:** Open (anyone is allowed to apply), Closed (invited respondents only), Implemented/Retroactive (finished)
-- **Proposer:** GitHub username
-- **Your Project(s):** [optional]: Link(s)
-- **Projects you think this work could be useful for** [optional]: Link(s)
-- **Teams/People that could deliver the RFP** [optional]: Link(s)
-
 ## Project Description :page_facing_up:
 
 Please describe why you are applying for this grant.
