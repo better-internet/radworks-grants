@@ -30,13 +30,13 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 
 - **Total Estimated Duration:** up to 6 months (negotiable; please see `Milestone` sections)
 - **Full-time equivalent (FTE):** 1
-- **Total Costs:** roughly ,000 USDC
+- **Total Costs:** roughly 28,000 USDC
 
 ### Milestone 1
 
 - **Estimated Duration:** 2 weeks
 - **FTE:** 1
-- **Costs:** 12,000 USDC
+- **Costs:** 6,000 USDC
 
 | Number | Deliverable      | Specification                                                      |
 |--------|------------------|--------------------------------------------------------------------|
@@ -48,8 +48,18 @@ The main goal here is to abstract [Radicle Drips](https://docs.drips.network/doc
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
-- **Costs:** 24,000 USDC
+- **Costs:** 12,000 USDC
 
 | Number | Deliverable | Specification                        |
 | ------ |-------------|--------------------------------------|
 | 1.     | POC         | Widget that works on any site/device |
+
+### Milestone 3
+
+- **Estimated Duration:** 1 month
+- **FTE:** 1
+- **Costs:** 12,000 USDC
+
+| Number | Deliverable | Specification                                                                                               |
+| ------ |-------------|-------------------------------------------------------------------------------------------------------------|
+| 1.     | POC         | Token gating mechanism that (a) reads NFT membership and (b) either allows or rejects users to view content |
