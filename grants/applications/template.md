@@ -82,7 +82,7 @@ Please list the deliverables of the project in as much detail as possible. Pleas
 - **Full-time equivalent (FTE):** Amount of time (in days) required for a single person to complete this project ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
 - **Total Costs:** Amount of Payment in USD for the whole project.
 
->️ *The more you can organize your milestones into manageable chunks that are conducive to iteration, the better!*
+>️ ❗*The more you can organize your milestones into manageable chunks that are conducive to iteration, the better!*
 
 ### Milestone 1
 
