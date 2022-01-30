@@ -66,9 +66,10 @@ We could see it being used by any sort of creator, including but not limited to:
 - **FTE:** 2
 - **Costs:** 24,000 USDC
 
-| Number | Deliverable          | Specification                                                                    |
-| ------ |----------------------|----------------------------------------------------------------------------------|
-| 1.     | Back-end + Front-End | Front-End integration with [Radicle Upstream](https://radicle.xyz/tryit) |
+| Number | Deliverable          | Specification                                                                                                                               |
+|--------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.     | Back-end + Front-End | Front-End integration with [Radicle Interface](https://app.radicle.network/); [GitHub Repo](https://github.com/radicle-dev/radicle-interface) |
+| 2.     | Back-end + Front-End | Front-End integration with [Radicle Upstream](https://radicle.xyz/tryit)                                                                    |
 
 ### Milestone 5 
 
@@ -78,7 +79,18 @@ We could see it being used by any sort of creator, including but not limited to:
 
 | Number | Deliverable  | Specification                                                                                                                |
 |--------|--------------|------------------------------------------------------------------------------------------------------------------------------|
-| 1.     | Backend code | Queries that help with recommending or finding similar Orgs; goal is making finding interesting Orgs to contribute to easier |
 | 2.     | Backend code | Queries that help with recommending or finding similar contributors; goal is making recruiting talent easier                 |
+
+> Note: Marking this down as the last as it is quite aspirational. We will likely improve discovery a lot just with Milestone #1.
+
+### Milestone 6 
+
+- **Estimated Duration:** 1 month
+- **FTE:** 1
+- **Costs:** 12,000 USDC
+
+| Number | Deliverable  | Specification                                                                                                                |
+|--------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+| 1.     | Backend code | Queries that help with recommending or finding similar Orgs; goal is making finding interesting Orgs to contribute to easier |
 
 > Note: Marking this down as the last as it is quite aspirational. We will likely improve discovery a lot just with Milestone #1.
