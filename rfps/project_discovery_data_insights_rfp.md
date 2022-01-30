@@ -22,10 +22,12 @@ We could see it being used by any sort of creator, including but not limited to:
 
 ## Deliverables :nut_and_bolt:
 
-- **Total Estimated Duration:** up to 4 months (negotiable; please see `Milestone` sections)
+- **Total Estimated Duration:** up to 6 months (negotiable; please see `Milestone` sections)
 - **Full-time equivalent (FTE):** 2
 - **Total Costs:** roughly 84,000 USDC
 
+### Finer Details
+- When writing queries, make sure that logic is broken down into small components that are testable. We will be looking unit tests here.
 
 ### Milestone 1 - Ecosystem Analytics
 
@@ -76,7 +78,6 @@ We could see it being used by any sort of creator, including but not limited to:
 | Number | Deliverable          | Specification                                                                                                                               |
 |--------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.     | Back-end + Front-End | Front-End integration with [Radicle Interface](https://app.radicle.network/); [GitHub Repo](https://github.com/radicle-dev/radicle-interface) |
-| 2.     | Back-end + Front-End | Front-End integration with [Radicle Upstream](https://radicle.xyz/tryit)                                                                    |
 
 ### Milestone 3 - Recommendation Systems
 
