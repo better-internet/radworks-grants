@@ -24,9 +24,24 @@ We could see it being used by any sort of creator, including but not limited to:
 
 - **Total Estimated Duration:** up to 4 months (negotiable; please see `Milestone` sections)
 - **Full-time equivalent (FTE):** 2
-- **Total Costs:** roughly 72,000 USDC
+- **Total Costs:** roughly 84,000 USDC
 
-### Milestone 1 - Analytics for Labor Supply + Demand
+
+### Milestone 1 - Ecosystem Analytics
+
+- **Estimated Duration:** 1 month
+- **FTE:** 1
+- **Costs:** 12,000 USDC
+
+| Number | Deliverable  | Specification                                                                                                                            |
+|--------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.     | Backend code | Queries that do basic ranking of Orgs by Drips activity (e.g. ranking by # of Drips ingoing/outgoing, amount of Drips, etc.)             |
+| 2.     | Backend code | Queries that do basic ranking of Org funding (Treasury size, # Drips, value of Drips, etc.)                                                |
+| 3.     | Backend code | Queries that do basic ranking of Communities by Drips activity (e.g. # of subscribers/supporters, etc.)                   |
+
+> The main purpose of this is to create basic, high level insights about how the Radicle network of Drips is working.
+
+### Milestone 1.1 - Labor Supply + Demand Analytics
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
@@ -37,10 +52,10 @@ We could see it being used by any sort of creator, including but not limited to:
 | 1.     | Backend code | Queries that do basic ranking of Contributors who are most active in Workstreams                                                           |
 | 2.     | Backend code | Queries that do basic ranking of Contributors who have best value                                                                          |
 | 3.     | Backend code | Queries that do basic ranking of Orgs with most open, valued, or active RFPs                                                               |
-| 4.     | Backend code | Queries that do basic ranking of Org funding (Treasury size, # Drips, value of Drips, etc.)                                                |
-| 5.     | Backend code | Queries that do basic ranking of Communities by Drips activity (e.g. # of subscribers/supporters, total value of Subscriptions, etc.)
 
 > The main purpose of this is to create insights that make it easier for contributors to find work and for Orgs to find talent. We're trying to solve for both sides of labor supply and demand.
+
+> ❗ This milestone depends on the [Workstreams](https://github.com/radicle-dev/workstreams-app) app being completed. Please feel free to skip over this milestone and start on Milestone 2 until then.
 
 ### Milestone 2 - Front End POC
 
