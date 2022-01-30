@@ -15,8 +15,8 @@ The vision for this product is **BIG**.
 We could see it being used by any sort of creator, including but not limited to:
 * Ranking top Orgs by number of contributors, number of Drips outgoing/incoming, etc.
 * Ranking top open source contributors by number of Orgs, number of contributions, or Drips received 
-* Recommending work to contributors that is similar (e.g. use collaborative filtering based on commit/contribution data)
-* Recommending work to Drip to (e.g. use collaborative filtering based on Drips data)
+* Recommending work to contributors that is similar to their interests (e.g. use collaborative filtering based on commit/contribution data)
+* Recommending contributors / projects to Drip to (e.g. use collaborative filtering based on Drips data)
 
 > The main goal here is surface insights that **make navigation and discovery within the Radicle ecosystem easier**.
 
