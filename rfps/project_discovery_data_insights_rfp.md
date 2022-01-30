@@ -49,11 +49,12 @@ We could see it being used by any sort of creator, including but not limited to:
 - **FTE:** 1
 - **Costs:** 12,000 USDC
 
-| Number | Deliverable  | Specification                                                                                                                              |
-|--------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.     | Backend code | Queries that do basic ranking of Contributors who are most active in Workstreams                                                           |
-| 2.     | Backend code | Queries that do basic ranking of Contributors who have best value                                                                          |
-| 3.     | Backend code | Queries that do basic ranking of Orgs with most open, valued, or active RFPs                                                               |
+| Number | Deliverable  | Specification                                                                |
+|--------|--------------|------------------------------------------------------------------------------|
+| 1.     | Backend code | Queries that do basic ranking of Contributors who are most active in Workstreams |
+| 2.     | Backend code | Queries that do basic ranking of Contributors who have best value            |
+| 3.     | Backend code | Queries that do basic ranking of Orgs with most open, valued, or active RFPs |
+| 3.     | Backend code | Queries that do basic ranking of RFPs with most supporters, highest value    |
 
 > The main purpose of this is to create insights that make it easier for contributors to find work and for Orgs to find talent. We're trying to solve for both sides of labor supply and demand.
 
@@ -65,9 +66,10 @@ We could see it being used by any sort of creator, including but not limited to:
 - **FTE:** 1
 - **Costs:** 12,000 USDC
 
-| Number | Deliverable   | Specification                                                                                                  |
-| ------ |---------------|----------------------------------------------------------------------------------------------------------------|
-| 1.     | Front-End POC | Front-end POC that has drop-down menus and navigation so that a user can filter content from the above queries |
+| Number | Deliverable   | Specification                                                                                                 |
+|--------|---------------|---------------------------------------------------------------------------------------------------------------|
+| 1.     | Front-End POC | Wireframe designs from the perspective of Orgs and Contributors                                               |
+| 2.     | Front-End POC | Front-end POC that has drop-down menus and navigation so that a user can filter content from the above queries |
 
 ### Milestone 2.1 - Front End Integration
 
