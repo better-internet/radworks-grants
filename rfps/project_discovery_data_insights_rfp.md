@@ -32,12 +32,12 @@ We could see it being used by any sort of creator, including but not limited to:
 - **FTE:** 1
 - **Costs:** 12,000 USDC
 
-| Number | Deliverable  | Specification                                                                                                                              |
-|--------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.     | Backend code | Queries that do basic ranking of Orgs by Drips activity (e.g. ranking by # of Drips ingoing/outgoing, amount of Drips, etc.)               |
-| 2.     | Backend code | Queries that do basic ranking of Orgs by contribution activity (e.g. most recent contributions, most unique contributors, etc.)            |
-| 3.     | Backend code | Queries that do basic ranking of Communities by Drips activity (e.g. top orgs by # of Drips ingoing/outgoing, amount of Drips, etc.)       |
-| 5.     | Backend code | Queries that do basic ranking of Contributors by development activity (e.g. most Orgs joined, most commits, etc.)                          |
+| Number | Deliverable  | Specification                                                                                                                            |
+|--------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.     | Backend code | Queries that do basic ranking of Orgs by Drips activity (e.g. ranking by # of Drips ingoing/outgoing, amount of Drips, etc.)             |
+| 2.     | Backend code | Queries that do basic ranking of Orgs by contribution activity (e.g. most recent contributions, most unique contributors, etc.)          |
+| 3.     | Backend code | Queries that do basic ranking of Communities by Drips activity (e.g. # of subscribers/supporters, etc.)                   |
+| 5.     | Backend code | Queries that do basic ranking of Contributors by development activity (e.g. most Orgs joined, most commits, etc.)                        |
 | 6.     | Backend code | Queries that do basic ranking of Contributors by development activity (e.g. ranking by # of Drips ingoing/outgoing, amount of Drips, etc.) |
 
 ### Milestone 2
