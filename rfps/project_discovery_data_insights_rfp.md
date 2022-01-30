@@ -1,4 +1,4 @@
-# Drips Widget - Proof of Concept
+# Radicle Discovery + Analytics
 
 - **Status:** Open 
 - **Proposer:** [@bordumb](https://github.com/bordumb)
