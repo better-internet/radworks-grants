@@ -26,21 +26,23 @@ We could see it being used by any sort of creator, including but not limited to:
 - **Full-time equivalent (FTE):** 2
 - **Total Costs:** roughly 72,000 USDC
 
-### Milestone 1
+### Milestone 1 - Analytics for Labor Supply + Demand
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
 - **Costs:** 12,000 USDC
 
-| Number | Deliverable  | Specification                                                                                                                            |
-|--------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.     | Backend code | Queries that do basic ranking of Orgs by Drips activity (e.g. ranking by # of Drips ingoing/outgoing, amount of Drips, etc.)             |
-| 2.     | Backend code | Queries that do basic ranking of Orgs by contribution activity (e.g. most recent contributions, most unique contributors, etc.)          |
-| 3.     | Backend code | Queries that do basic ranking of Communities by Drips activity (e.g. # of subscribers/supporters, etc.)                   |
-| 5.     | Backend code | Queries that do basic ranking of Contributors by development activity (e.g. most Orgs joined, most commits, etc.)                        |
-| 6.     | Backend code | Queries that do basic ranking of Contributors by development activity (e.g. ranking by # of Drips ingoing/outgoing, amount of Drips, etc.) |
+| Number | Deliverable  | Specification                                                                                                                              |
+|--------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.     | Backend code | Queries that do basic ranking of Contributors who are most active in Workstreams                                                           |
+| 2.     | Backend code | Queries that do basic ranking of Contributors who have best value                                                                          |
+| 3.     | Backend code | Queries that do basic ranking of Orgs with most open, valued, or active RFPs                                                               |
+| 4.     | Backend code | Queries that do basic ranking of Org funding (Treasury size, # Drips, value of Drips, etc.)                                                |
+| 5.     | Backend code | Queries that do basic ranking of Communities by Drips activity (e.g. # of subscribers/supporters, total value of Subscriptions, etc.)
 
-### Milestone 2
+> The main purpose of this is to create insights that make it easier for contributors to find work and for Orgs to find talent. We're trying to solve for both sides of labor supply and demand.
+
+### Milestone 2 - Front End POC
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
@@ -50,17 +52,7 @@ We could see it being used by any sort of creator, including but not limited to:
 | ------ |---------------|----------------------------------------------------------------------------------------------------------------|
 | 1.     | Front-End POC | Front-end POC that has drop-down menus and navigation so that a user can filter content from the above queries |
 
-### Milestone 3
-
-- **Estimated Duration:** 1 month
-- **FTE:** 2
-- **Costs:** 24,000 USDC
-
-| Number | Deliverable          | Specification                              |
-| ------ |----------------------|--------------------------------------------|
-| 1.     | Back-end + Front-End | Front-End integration with [Radicle Drips](https://app.drips.network/explore) |
-
-### Milestone 4
+### Milestone 2.1 - Front End Integration
 
 - **Estimated Duration:** 1 month
 - **FTE:** 2
@@ -71,7 +63,7 @@ We could see it being used by any sort of creator, including but not limited to:
 | 1.     | Back-end + Front-End | Front-End integration with [Radicle Interface](https://app.radicle.network/); [GitHub Repo](https://github.com/radicle-dev/radicle-interface) |
 | 2.     | Back-end + Front-End | Front-End integration with [Radicle Upstream](https://radicle.xyz/tryit)                                                                    |
 
-### Milestone 5 
+### Milestone 3
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
@@ -83,7 +75,7 @@ We could see it being used by any sort of creator, including but not limited to:
 
 > Note: Marking this down as the last as it is quite aspirational. We will likely improve discovery a lot just with Milestone #1.
 
-### Milestone 6 
+### Milestone 4
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
