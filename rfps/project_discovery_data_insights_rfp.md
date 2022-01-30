@@ -78,7 +78,7 @@ We could see it being used by any sort of creator, including but not limited to:
 | 1.     | Back-end + Front-End | Front-End integration with [Radicle Interface](https://app.radicle.network/); [GitHub Repo](https://github.com/radicle-dev/radicle-interface) |
 | 2.     | Back-end + Front-End | Front-End integration with [Radicle Upstream](https://radicle.xyz/tryit)                                                                    |
 
-### Milestone 3
+### Milestone 3 - Recommendation Systems
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
@@ -90,7 +90,7 @@ We could see it being used by any sort of creator, including but not limited to:
 
 > Note: Marking this down as the last as it is quite aspirational. We will likely improve discovery a lot just with Milestone #1.
 
-### Milestone 4
+### Milestone 4 - Recommendation Systems
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
