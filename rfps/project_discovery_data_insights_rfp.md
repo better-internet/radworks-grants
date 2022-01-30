@@ -40,19 +40,6 @@ We could see it being used by any sort of creator, including but not limited to:
 | 5.     | Backend code | Queries that do basic ranking of Contributors by development activity (e.g. most Orgs joined, most commits, etc.)                          |
 | 6.     | Backend code | Queries that do basic ranking of Contributors by development activity (e.g. ranking by # of Drips ingoing/outgoing, amount of Drips, etc.) |
 
-### Milestone 1.1 (Optional)
-
-- **Estimated Duration:** 1 month
-- **FTE:** 1
-- **Costs:** 12,000 USDC
-
-| Number | Deliverable  | Specification                                                                                                                |
-|--------|--------------|------------------------------------------------------------------------------------------------------------------------------|
-| 1.     | Backend code | Queries that help with recommending or finding similar Orgs; goal is making finding interesting Orgs to contribute to easier |
-| 2.     | Backend code | Queries that help with recommending or finding similar contributors; goal is making recruiting talent easier                 |
-
-> Marking this down as optional as it is quite aspirational. We will likely improve discovery a lot just with Milestone #1.
-
 ### Milestone 2
 
 - **Estimated Duration:** 1 month
@@ -82,3 +69,16 @@ We could see it being used by any sort of creator, including but not limited to:
 | Number | Deliverable          | Specification                                                                    |
 | ------ |----------------------|----------------------------------------------------------------------------------|
 | 1.     | Back-end + Front-End | Front-End integration with [Radicle Upstream](https://radicle.xyz/tryit) |
+
+### Milestone 5 
+
+- **Estimated Duration:** 1 month
+- **FTE:** 1
+- **Costs:** 12,000 USDC
+
+| Number | Deliverable  | Specification                                                                                                                |
+|--------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+| 1.     | Backend code | Queries that help with recommending or finding similar Orgs; goal is making finding interesting Orgs to contribute to easier |
+| 2.     | Backend code | Queries that help with recommending or finding similar contributors; goal is making recruiting talent easier                 |
+
+> Note: Marking this down as the last as it is quite aspirational. We will likely improve discovery a lot just with Milestone #1.
