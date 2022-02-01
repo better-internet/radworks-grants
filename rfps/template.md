@@ -10,6 +10,8 @@
 
 Please describe exactly why you are proposing this RFP. Make sure to point out why it’s potentially useful for your project or other projects in the ecosystem.
 
+> ❗Note: Deliverables, cost estimates, and line items below are **optional**. You can also just post an RFP with the info above this section.
+
 ## Deliverables :nut_and_bolt:
 
 Please list the deliverables of the project in as much detail as possible. Please also estimate the amount of work required and try to divide the project into meaningful milestones.
