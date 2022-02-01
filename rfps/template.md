@@ -10,7 +10,7 @@
 
 Please describe exactly why you are proposing this RFP. Make sure to point out why it’s potentially useful for your project or other projects in the ecosystem.
 
-> ❗Note: Deliverables, cost estimates, and line items below are **optional**. You can also just post an RFP with the info above this section.
+### > ❗Note: Deliverables, cost estimates, and line items below are **optional**. You can also just post an RFP with the info above this section.
 
 ## Deliverables :nut_and_bolt:
 
