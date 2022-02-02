@@ -53,5 +53,5 @@ A: There will be a grace period of 2 months after the grants program's 6 month t
 
 *Q: Can I apply if I am working on a project that is not directly related to Radicle? It is more to do with the broader open source or web 3 ecosystem.*
 
-A: Yes, absolutely. We are interested in fund any work that gets more people involved with open source work and web3, whether it be through some tech tooling or education.
+A: Yes, absolutely. We are interested in fund any work that gets more people involved with open source work and web3, whether it be through some tech tooling or education. Please use our [template here](https://github.com/radicle-dev/radicle-grants/blob/main/grants/applications/template.md) when applying.
 
