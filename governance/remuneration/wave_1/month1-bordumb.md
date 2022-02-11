@@ -56,6 +56,12 @@
 * Added Nas to multi-sig (https://etherscan.io/tx/0xdeffbd7a5d99e91a2f6caf67b6e8912526f9f06c59b89a5799822e45ff297951)
 * Tested Drips (https://etherscan.io/tx/0xa65b08b47902e2abb83b3b164eeba28724de7da587bb5784a4ad9bbc06577d5f)
 
+30 min:
+* 1:1 call with Grantee + review (https://radicle.community/t/ethanglia-0-to-web3/2688/9)
+
+15 min:
+* Grant Review + funding setup (https://radicle.community/t/learnweb3-dao-grant-application/2697)
+
 Total hours: 24
 
 ## Other Items
