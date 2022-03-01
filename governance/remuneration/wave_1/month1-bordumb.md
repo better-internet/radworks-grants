@@ -45,7 +45,7 @@
 30 min:
 * Started RFP for embeddable Drips (https://github.com/radicle-dev/radicle-grants/pull/45)
 
-10 min:
+30 min:
 * Simplified application template based on community feedback (https://github.com/radicle-dev/radicle-grants/pull/50)
 
 30 min:
@@ -62,22 +62,28 @@
 15 min:
 * Grant Review + funding setup (https://radicle.community/t/learnweb3-dao-grant-application/2697)
 
-Total hours: 24
+15 min:
+* Milestone Review (https://radicle.community/t/learnweb3-dao-grant-application/2697/8)
+
+30 min:
+* Grant Review (https://radicle.community/t/application-radicle-ide-plugins-ux-design/2728/6)
+
+Total hours: 30.5
 
 ## Other Items
 
 * Register `grants.radicle.eth`: 0.04218925 ETH 
 * Add Nas to multi-sig: 0.008640366326885464 ETH
-* Tested Drips: 0.008224515549833856 ETH
 
 ## Total Comp
 
 * Rate: $150 per hour
-* Total hours worked: 24.5
-* Total hourly pay: 3,300 USDC -> 391.6 RAD
-
+* Total hours worked: 30.5
+* Total hourly pay: 4,575 USDC 
+* Current 7-day average: 1USDC:4.67RAD
+* Total: 977.80 RAD
 
 * Register `grants.radicle.eth`: 14.9 RAD
 * Add Nas to multi-sig: 3.1 RAD
 
-### Total: 409.6 RAD
+### Total: 995.8 RAD
