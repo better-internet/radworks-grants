@@ -40,7 +40,7 @@ Below are high level things we look for:
   for projects that create value well beyond the grant's initial window.
 - Your project is **open source** through and through. It ideally contributes to some core Radicle product features and
   reflects a deep empathy for others working on FOSS. This includes an understanding of the importance of documentation,
-  maintainibility, extensibility, testing, and clean coding principals.
+  maintainability, extensibility, testing, and clean coding principles.
 - You have **strong and relevant** experience. We're looking for pros who have a proven track record in whatever
   language, frameworks, and tooling are needed to get a project past the finish line.
 
