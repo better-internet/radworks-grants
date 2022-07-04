@@ -62,6 +62,6 @@ Total hours: 17.5
 * Current 7-day average: 1USDC:4.65RAD
 * Total: 564.5161290322582 RAD
 
-* Gnosis transaction fee: 0.034394731 ETH (31.4 RAD)
+* Gnosis transaction fee: 0.034394731 ETH (31.4 RAD) 
 
 ### Total: 595.916129032 RAD
