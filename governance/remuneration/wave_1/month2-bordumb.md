@@ -59,7 +59,7 @@ Total hours: 17.5
 * Rate: $150 per hour
 * Total hours worked: 17.5
 * Total hourly pay: 2,625 USDC 
-* Current 7-day average: 1USDC:4.65RAD
+* Current 7-day average: 1USDC: 4.65RAD
 * Total: 564.5161290322582 RAD
 
 * Gnosis transaction fee: 0.034394731 ETH (31.4 RAD) 
