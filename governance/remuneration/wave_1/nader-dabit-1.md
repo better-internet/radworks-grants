@@ -5,14 +5,15 @@
 12 hrs: 
 * Grant Reviews (over the course of the past 6 months)
 
-Total hours: 12
-
-## Total Comp
-
 * Rate: $150 per hour
 * Total hours worked: 12
-* Total hourly pay: 1800 USDC
-* Current 7-day average: 1USDC: 1.60RAD
-* Total: 1125 RAD
+* Total: 467 RAD
 
-### Total: 1125 RAD
+14 hrs:
+* Marketing / consulting help
+
+* Rate: $150 per hour
+* Total hours worked: 14
+* Total: 544 RAD
+
+### Total comp: 1011 RAD
