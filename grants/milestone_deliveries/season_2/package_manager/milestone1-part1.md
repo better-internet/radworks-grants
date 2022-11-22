@@ -5,10 +5,12 @@
 * **Application Document:** [Grant Application - Package Manager](https://radicle.community/t/grant-application-package-manager/3122)
 * **Milestone Number:** Milestone 1, part 1
 
-**Context** (optional)
+**Context**
+
 The scope of this first part of the first milestone was to *Generate an npm-compatible package from source code obtained from Radicle*. While issues were discovered during this research, an solution for moving forward was found.
 
 **Deliverables**
+
 The [research notes](./milestone1-part1-details.md) are presented here as a deliverable for the first part of the first milestone. A summary video is included, in addition to written notes. It was determined that is **is** possible to build a JavaScript application without any dependence on GitHub or npm. JavaScript packages (dependencies) can be retrieved directly from Radicle Seed nodes (as git repositories).
 
 | Number | Deliverable | Link | Notes |
@@ -16,6 +18,7 @@ The [research notes](./milestone1-part1-details.md) are presented here as a deli
 | 1. | Generate an npm-compatible package from source code obtained from Radicle | [Details](./milestone1-part1-details.md) | Research notes |
 
 **Additional Information**
+
 Additional guidance is needed before moving on to the second and third parts of the fist milestone, but it is possible to move on directly to the fourth part. Here are the four parts of the first milestone:
 
 | Number | Deliverable              | Specification                                                |
