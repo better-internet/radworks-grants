@@ -10,7 +10,13 @@ If you are the member of a DAO's multi-sig and help manage governance and intere
 
 ![img.png](img.png)
 
-Our high-level plan is to confer badges to each sub-DAO, such that cont
+Our high-level plan is to confer badges to each Org's contributors (however they are defined).
+
+Some aims with this are:
+* Push smaller decisions (e.g. Org level) from the Council down to the Orgs themselves 
+* Distribute voting power amongst Org contributors
+* Allow for one-person-one-vote governance participation
+* Allow cross-Org voting strategies to evolve without the overhead of a multi-sig
 
 The important thing to keep in mind is: the process that one of our sub-DAOs creates can be largely replicated across others. It is very "copy/paste-able."
 
@@ -24,10 +30,10 @@ The important thing to keep in mind is: the process that one of our sub-DAOs cre
 * Make sure your sub-DAO has a community page. Ask the OtterSpace team for help with this.
 
 ### Minting / Conferring Badges
-* Create badge ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/creating-a-new-badge-for-your-community)).
+* Create N-number of badges for each of the contributor groups you'd like to define ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/creating-a-new-badge-for-your-community)).
   * See [OtterSpace's Figma doc here](https://www.figma.com/community/file/1165222532286501657) for design templates.
-* Add others to the mint list so that they can claim their badge ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/adding-members-to-the-mint-list-for-a-badge)).
-* Share claim link to receivers ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/sharing-the-badge-claim-link-with-members)).
+* Add contributors' ENS or wallet address to the mint list so that they can claim their badge ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/adding-members-to-the-mint-list-for-a-badge)).
+* Share claim link to your contributors ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/sharing-the-badge-claim-link-with-members)).
 
 ### OtterSpace x Radicle Grants x Snapshot Votes
 * Create a Snapshot page for your sub-DAO on Optimism network ([Snapshot Docs](https://docs.snapshot.org/spaces/create)).
