@@ -6,7 +6,7 @@ These are notes describing our process for voting on (and thus funding) projects
 
 ## Overview
 
-![image](https://user-images.githubusercontent.com/3743841/204142163-6e0b000d-4247-48b1-8b48-e59ec02c754e.png)
+![image](https://user-images.githubusercontent.com/3743841/204149497-58f1f8d0-75fd-4009-ba4d-69b1a2467c58.png)
 
 ### Voting Types
 
@@ -36,4 +36,3 @@ This has adverse impact on other votes that may be sitting in queue and - as a D
 
 So adding this upstream step of off-chain voting will allow for us to collect strong signals before bringing up an on-chain vote. It will help lower the risk of quagmire often seen in starting on-chain votes prematurely. 
 
-## Technical Details 
