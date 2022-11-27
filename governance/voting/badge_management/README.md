@@ -22,6 +22,8 @@ The important thing to keep in mind is: the process that one of our sub-DAOs cre
 
 ## Technical Notes 
 
+The process below covers setting up an Org/Sub-DAO's admin account, community page, creating and issuance of badges, and how to use badges with Snapshot voting.
+
 ### Initial Setup
 * Make sure you have a wallet address on Optimism network (personal or Gnosis Safe).
 * Get [Raft Token](https://docs.otterspace.xyz/your-guide-to-otterspace/how-communities-are-represented-within-otterspace) from OtterSpace team sent to that wallet address.
