@@ -6,11 +6,13 @@ These are notes describing our process for voting on (and thus funding) projects
 
 ## Overview
 
+![image](https://user-images.githubusercontent.com/3743841/204142163-6e0b000d-4247-48b1-8b48-e59ec02c754e.png)
+
 ### Voting Types
 
 There are 2 types of votes:
-1. Badge Votes: this includes Radicle Grants Org Team Members - who hold a _Team Member Badge_ - and Grantees - who hold a _Grantee Badge_. Both badge types confer the same voting power: 1 badge, 1 vote. These are used for off-chain voting to collect broad input from all badge holders within the Grants community.
-2. Multi-Sig Votes: this includes Radicle Grants Org Team Members. These votes are meant to finalize on-chain decisions, which generally means sending funds to Grantees. In general, we will aim to match our votes to upstream Badge Votes, but may use our votes as a final check or veto.
+1. Badge Votes (off-chain): this includes Radicle Grants Org Team Members - who hold a _Team Member Badge_ - and Grantees - who hold a _Grantee Badge_. Both badge types confer the same voting power: 1 badge, 1 vote. These are used for off-chain voting to collect broad input from all badge holders within the Grants community.
+2. Multi-Sig Votes (on-chain): this includes Radicle Grants Org Team Members. These votes are meant to finalize decisions, which generally means sending funds to Grantees. In general, we will aim to match our votes to upstream Badge Votes, but may use our votes as a final check or veto.
 
 ### Voting Stages
 
@@ -25,7 +27,7 @@ The reason for introducing Badge Votes is two-fold.
 #### Decentralize Voting Power 
 Adding Grantees into the mix should, over time, add a large multiplier to our ability to review and decide on what is valuable to the community of builders within the Radicle ecosystem.
 
-As a thought experiment, let's imagine that 2 years from now we've funded 100 separate Grantees, each with their own Badge Vote.  If just 5% (or 5 Badge holders) of them remain active participants in our community, this will mean essentially doubling the number of people reviewing on and providing feedback to our Grants processes. 
+As a thought experiment, let's imagine that 2 years from now we've funded 100 separate Grantees, each with their own Badge Vote. If 5% (or 5 Badge holders) of them remain active participants in our community, this will mean essentially doubling the number of people reviewing and providing feedback for our Grants processes. 
 
 #### Streamline On-Chain Work
 A common issue with on-chain voting is starting a vote prematurely and getting bogged down in feedback loops to reach consensus.
