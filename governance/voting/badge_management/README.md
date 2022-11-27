@@ -34,7 +34,9 @@ The process below covers setting up an Org/Sub-DAO's admin account, community pa
 ### Minting / Conferring Badges
 * Create a badge for each of the contributor groups you'd like to define ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/creating-a-new-badge-for-your-community)).
   * See [OtterSpace's Figma doc here](https://www.figma.com/community/file/1165222532286501657) for design templates. Badges immutable, so the design can only be made this once.
+* If using a Gnosis Safe, make sure that you are on the _Apps_ -> _Wallet Connect_ app page and logged into OtterSpace on the Optimism Network. Keep this open in its own tab.
 * Add contributors' ENS or wallet address to the mint list so that they can claim their badge ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/adding-members-to-the-mint-list-for-a-badge)).
+* Confirm the transaction in your wallet. If using a Gnosis Safe, you'll confirm this back in the _Apps_ -> _Wallet Connect_ app page.
 * Share claim link to your contributors ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/sharing-the-badge-claim-link-with-members)).
 
 ### OtterSpace x Radicle Grants x Snapshot Votes
