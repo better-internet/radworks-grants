@@ -16,7 +16,7 @@ Some aims with this are:
 * Push smaller decisions (e.g. Org level) from the Council down to the Orgs themselves 
 * Distribute voting power amongst Org contributors
 * Allow for one-person-one-vote governance participation
-* Allow cross-Org voting strategies to evolve without the overhead of a multi-sig
+* Allow for intra-Org voting strategies to evolve without the limitations of a multi-sig
 
 The important thing to keep in mind is: the process that one of our sub-DAOs creates can be largely replicated across others. It is very "copy/paste-able."
 
@@ -39,3 +39,5 @@ The important thing to keep in mind is: the process that one of our sub-DAOs cre
 * Create a Snapshot page for your sub-DAO on Optimism network ([Snapshot Docs](https://docs.snapshot.org/spaces/create)).
   * Radicle Grants: https://snapshot.org/#/radiclegrants.eth
 * Go to _Settings_ -> _Strategie(s)_, and add a policy for OtterSpace badges ([OtterSpace docs](https://docs.otterspace.xyz/your-guide-to-otterspace/using-otterspace-badges-with-snapshot) / [Snapshot Docs](https://docs.snapshot.org/strategies/what-is-a-strategy)).
+
+> Note: multiple strategies can be added to each Org, meaning not just Org badge holders can participate, but members of other Orgs can also be allowed to participate in another Org's votes. We can call this "intra-Org" voting.
