@@ -66,11 +66,8 @@ We see project ideas coming from 2 main sources:
 - Open Applications. These will follow the same format as our internal RFPs. If you have an idea for an RFP that you
   don't see, by all means send in an application. More on this in the [process](#process) section.
 
-No matter the source of the project idea, the entire application process will be transparent and public on Radicle.
-
-Currently the RFPs come centrally from the core development team. The end goal is to progressively decentralize this
-process such that the line between RFP and open applications is blurred and goes away over time. Open application will
-be treated as a first class citizen!
+No matter the source of the project idea, the entire application process will be transparent and public on Radicle 
+channels.
 
 ### Support
 
@@ -98,7 +95,6 @@ have some sort of related domain expertise.
 
 - **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
 - [Abbey Titcomb](https://twitter.com/abbey_titcomb) (Core Team)
-- [Kei Kreutler](https://twitter.com/keikreutler) (Ecosystem)
 - [Nader Dabit](https://twitter.com/dabit3) (Ecosystem)
 - [Nassar Hayat](https://twitter.com/nassarhayat) (Core Team)
 - Reverie (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radicle Community)
@@ -124,25 +120,20 @@ The entire process includes these 3 steps:
 
 #### 3. [Payment](https://github.com/radicle-dev/radicle-grants/tree/main/grants#payment)
 
-## Levels
+## Grant Categories
 
-The Radicle Grants Program offers different grant levels to help you best depending on your current stage.
+![grant_categories.png](src/grant_categories.png)
 
-If you have a question about which level to apply to, please reach out on the Grant's #💬general category on [Discord](https://discord.gg/aNZdn5hP).
+### 1. Core Infrastructure
+Projects that touch (a) the core source code, (b) extend core features through 3rd party integrations, or \
+(c) enhance our own Grants work, such as R&D or Grants infrastructure.
 
-### 🌱 Seed Grants (Level 1)
+For example, building plug-ins for popular IDEs like JetBrains that utilize the Radicle CLI.
 
-Seed grants are meant for smaller projects, both in terms of complexity and cost.
+### 2. Radicle Adoptions
+Projects that simply adopt some Radicle product.
 
-* **Target:** Individuals & small teams
-* **Amount:** less than $50,000
-
-### 🌲 Tree Grants (Level 2)
-
-Seed grants are meant for larger projects in terms of scope, complexity, and time to completion.
-
-* **Target:** teams, companies, or foundations with a proven record
-* **Amount:** more than $50,000 (up to $500,000)
+For example, using Radicle Drips as the infra to help build an HR/payroll system or research crowdfunding system.
 
 ## Alt Funding Sources
 
