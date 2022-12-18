@@ -36,3 +36,7 @@ This has adverse impact on other votes that may be sitting in queue and - as a D
 
 So adding this upstream step of off-chain voting will allow for us to collect strong signals before bringing up an on-chain vote. It will help lower the risk of quagmire often seen in starting on-chain votes prematurely. 
 
+## Useful Links
+
+Radicle Grants OtterSpace Community: https://beta.otterspace.xyz/communities/75
+
