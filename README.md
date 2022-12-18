@@ -6,7 +6,7 @@
   - [Support](#support)
   - [Team](#team)
 - [Process](#process)
-- [Levels](#levels)
+- [Grant Categories](#grant-categories)
 - [Alt Funding Sources](#alt-funding-sources)
   - [Hackathons](#hackathons)
 - [Useful Links](#useful-links)
@@ -16,22 +16,12 @@
 If you're reading this, you're as interested as we are in promoting Free and Open Source Software (FOSS) and the
 ever growing Web3 ecosystem.
 
-To this end, Radicle is introducing its own grants program, the Radicle Grants Program.
-
-The aim is to directly support open source initiatives that help grow the Radicle product, the Radicle community, and
-the greater FOSS and Web3 community at large.
-
 This page will cover the basics of the Radicle Grants Program's ethos, application processes, and structure.
 
 ### Guidelines
 
-Come one, come all!
-
-We are open to any applications, whether you are applying to tackle an RFP we've provided or you're applying with some
-ideas of your own.
-
-In general, though, the focus is on technical projects, such as additions to core Radicle software or components of
-Web3 infrastructure that interact with Radicle.
+The focus is on technical projects, such as additions to core Radicle software or components of Web3 infrastructure 
+that interact with Radicle, or adoption of some part of the [Radicle stack](https://github.com/radicle-dev) (e.g. [Radicle Drips SDK](https://github.com/radicle-dev/drips-js-sdk)).
 
 Below are high level things we look for:
 
@@ -44,7 +34,9 @@ Below are high level things we look for:
 - You have **strong and relevant** experience. We're looking for pros who have a proven track record in whatever
   language, frameworks, and tooling are needed to get a project past the finish line.
 
-Lastly, all work **must** adhere to the following criteria:
+### Requirements 
+
+All work **must** adhere to the following criteria:
 
 - All code produced during your grant must be **open-sourced** with proper licensing (Apache 2.0, GPLv3, MIT or
   Unlicense).
@@ -60,11 +52,19 @@ any work.
 
 We see project ideas coming from 2 main sources:
 
-- [Requests For Proposals](rfps) (RFPs) will be clearly outlined projects that we would like to see implemented.
-  We accept applications to tackle RFPs from multiple individuals and teams. This means you may be in competition for a
-  grant. Where it makes sense, we may also award one grant across multiple teams.
-- Open Applications. These will follow the same format as our internal RFPs. If you have an idea for an RFP that you
-  don't see, by all means send in an application. More on this in the [process](#process) section.
+#### Open Applications
+* If you have an idea for the Radicle or web3/FOSS ecosystem, we'd love for you to apply. 
+* You can file an application using the [template](grants/applications/template.md). More on this in the 
+[process](#process) section.
+
+#### [Requests For Proposals](rfps) (RFPs) 
+* The Core Development team may create an RFP, but anyone from the community may as well. 
+* Anyone is welcome to apply to complete the work associated with an RFP.
+* We accept applications to tackle RFPs from multiple individuals and teams. This means you may be in competition for a 
+grant. Where it makes sense, we may also award one grant across multiple teams.
+
+> 💰 If you write an RFP, you may collect a referral bonus equal to 5% of the total size of any 
+associated grant that is accepted _**and**_ completed.
 
 No matter the source of the project idea, the entire application process will be transparent and public on Radicle 
 channels.
