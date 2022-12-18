@@ -38,5 +38,5 @@ So adding this upstream step of off-chain voting will allow for us to collect st
 
 ## Useful Links
 
-Radicle Grants OtterSpace Community: https://beta.otterspace.xyz/communities/75
-
+* Radicle Grants OtterSpace Community: https://beta.otterspace.xyz/communities/75
+* Radicle Grants Snapshot Page: https://snapshot.org/#/radiclegrants.eth
