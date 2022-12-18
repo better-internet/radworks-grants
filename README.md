@@ -131,9 +131,10 @@ Projects that touch (a) the core source code, (b) extend core features through 3
 For example, building plug-ins for popular IDEs like JetBrains that utilize the Radicle CLI.
 
 ### 2. Radicle Adoptions
-Projects that simply adopt some Radicle product.
+Projects that adopt some Radicle product feature, such as the Drips SDK.
 
-For example, using Radicle Drips as the infra to help build an HR/payroll system or research crowdfunding system.
+For example, using Radicle Drips as the infrastructure to help build an HR/payroll system or research crowdfunding 
+system.
 
 ## Alt Funding Sources
 
