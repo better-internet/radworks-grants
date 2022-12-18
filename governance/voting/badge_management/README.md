@@ -53,18 +53,18 @@ In plain English, it says:
 
 ``` 
 {
+  "symbol": "BADGES",
+  "raftTokenId": "75",
   "specs": [
     {
-      "id": "badges/bafyreiesiztwxc3gzi3asjggpey7symzwnihf3viz7k6rkaqtbvebavfwm",
-      "weight": "1"
+      "id": "bafyreiesiztwxc3gzi3asjggpey7symzwnihf3viz7k6rkaqtbvebavfwm",
+      "weight": 1
     },
     {
-      "id": "badges/bafyreicev2vael2hl52ww52k54ujn4roewzifelwmpe4mlfxng4bvqsq3a",
-      "weight": "1"
+      "id": "bafyreicev2vael2hl52ww52k54ujn4roewzifelwmpe4mlfxng4bvqsq3a",
+      "weight": 1
     }
-  ],
-  "symbol": "BADGES",
-  "raftTokenId": "75"
+  ]
 }
 ```
 
