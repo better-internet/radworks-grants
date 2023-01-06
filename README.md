@@ -2,11 +2,12 @@
 
 - [Introduction](#introduction)
   - [Guidelines](#guidelines)
+  - [Requirements](#requirements)
   - [Project ideas](#project-ideas)
   - [Support](#support)
   - [Team](#team)
 - [Process](#process)
-- [Levels](#levels)
+- [Grant Categories](#grant-categories)
 - [Alt Funding Sources](#alt-funding-sources)
   - [Hackathons](#hackathons)
 - [Useful Links](#useful-links)
@@ -16,22 +17,12 @@
 If you're reading this, you're as interested as we are in promoting Free and Open Source Software (FOSS) and the
 ever growing Web3 ecosystem.
 
-To this end, Radicle is introducing its own grants program, the Radicle Grants Program.
-
-The aim is to directly support open source initiatives that help grow the Radicle product, the Radicle community, and
-the greater FOSS and Web3 community at large.
-
 This page will cover the basics of the Radicle Grants Program's ethos, application processes, and structure.
 
 ### Guidelines
 
-Come one, come all!
-
-We are open to any applications, whether you are applying to tackle an RFP we've provided or you're applying with some
-ideas of your own.
-
-In general, though, the focus is on technical projects, such as additions to core Radicle software or components of
-Web3 infrastructure that interact with Radicle.
+The focus is on technical projects, such as additions to core Radicle software or components of Web3 infrastructure 
+that interact with Radicle, or adoption of some part of the [Radicle stack](https://github.com/radicle-dev) (e.g. [Radicle Drips SDK](https://github.com/radicle-dev/drips-js-sdk)).
 
 Below are high level things we look for:
 
@@ -44,13 +35,21 @@ Below are high level things we look for:
 - You have **strong and relevant** experience. We're looking for pros who have a proven track record in whatever
   language, frameworks, and tooling are needed to get a project past the finish line.
 
-Lastly, all work **must** adhere to the following criteria:
+### Requirements 
 
-- All code produced during your grant must be **open-sourced** with proper licensing (Apache 2.0, GPLv3, MIT or
-  Unlicense).
-- All code must not rely on closed-sourced software or infrastructure to be fully functioning.
-- We will not fund projects that support any illicit activity (gambling, money laundering, etc.).
+All work **must** adhere to the following criteria:
 
+#### Open Sourced 
+All code produced during your grant must be **open-sourced** with proper licensing (Apache 2.0, GPLv3, MIT or 
+Unlicensed).
+
+#### Dependencies 
+All code must not rely on closed-sourced software or infrastructure to be fully functioning.
+
+#### Legal and Good Stuff Only
+We will not fund projects that support any illicit activity (gambling, money laundering, etc.).
+
+#### Licensing
 We take licensing and proper recognition very seriously. We want to celebrate not just your work, but the work
 of the giants whose shoulders we are building on. Any attempt to pass work that is not yours off as your own will be
 grounds for **immediate termination** of work without pay. Please feel free to start a discussion if you are unsure on
@@ -60,17 +59,22 @@ any work.
 
 We see project ideas coming from 2 main sources:
 
-- [Requests For Proposals](rfps) (RFPs) will be clearly outlined projects that we would like to see implemented.
-  We accept applications to tackle RFPs from multiple individuals and teams. This means you may be in competition for a
-  grant. Where it makes sense, we may also award one grant across multiple teams.
-- Open Applications. These will follow the same format as our internal RFPs. If you have an idea for an RFP that you
-  don't see, by all means send in an application. More on this in the [process](#process) section.
+#### Open Applications
+* If you have an idea for the Radicle or web3/FOSS ecosystem, we'd love for you to apply. 
+* You can file an application using the [template](grants/applications/template.md). More on this in the 
+[process](#process) section.
 
-No matter the source of the project idea, the entire application process will be transparent and public on Radicle.
+#### [Requests For Proposals](rfps) (RFPs) 
+* The Core Development team may create an RFP, but anyone from the community may as well. 
+* Anyone is welcome to apply to complete the work associated with an RFP.
+* We accept applications to tackle RFPs from multiple individuals and teams. This means you may be in competition for a 
+grant. Where it makes sense, we may also award one grant across multiple teams.
 
-Currently the RFPs come centrally from the core development team. The end goal is to progressively decentralize this
-process such that the line between RFP and open applications is blurred and goes away over time. Open application will
-be treated as a first class citizen!
+> 💰 If you write an RFP, you may collect a referral bonus equal to 5% of the total size of any 
+associated grant that is accepted _**and**_ completed.
+
+No matter the source of the project idea, the entire application process will be transparent and public on Radicle 
+channels.
 
 ### Support
 
@@ -98,7 +102,6 @@ have some sort of related domain expertise.
 
 - **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
 - [Abbey Titcomb](https://twitter.com/abbey_titcomb) (Core Team)
-- [Kei Kreutler](https://twitter.com/keikreutler) (Ecosystem)
 - [Nader Dabit](https://twitter.com/dabit3) (Ecosystem)
 - [Nassar Hayat](https://twitter.com/nassarhayat) (Core Team)
 - Reverie (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radicle Community)
@@ -124,25 +127,21 @@ The entire process includes these 3 steps:
 
 #### 3. [Payment](https://github.com/radicle-dev/radicle-grants/tree/main/grants#payment)
 
-## Levels
+## Grant Categories
 
-The Radicle Grants Program offers different grant levels to help you best depending on your current stage.
+![grant_categories.png](src/grant_categories.png)
 
-If you have a question about which level to apply to, please reach out on the Grant's #💬general category on [Discord](https://discord.gg/aNZdn5hP).
+### 1. Core Infrastructure
+Projects that touch (a) the core source code, (b) extend core features through 3rd party integrations, or \
+(c) enhance our own Grants work, such as R&D or Grants infrastructure.
 
-### 🌱 Seed Grants (Level 1)
+For example, building plug-ins for popular IDEs like JetBrains that utilize the Radicle CLI.
 
-Seed grants are meant for smaller projects, both in terms of complexity and cost.
+### 2. Radicle Adoptions
+Projects that adopt some Radicle product feature, such as the Drips SDK.
 
-* **Target:** Individuals & small teams
-* **Amount:** less than $50,000
-
-### 🌲 Tree Grants (Level 2)
-
-Seed grants are meant for larger projects in terms of scope, complexity, and time to completion.
-
-* **Target:** teams, companies, or foundations with a proven record
-* **Amount:** more than $50,000 (up to $500,000)
+For example, using Radicle Drips as the infrastructure to help build an HR/payroll system or research crowdfunding 
+system.
 
 ## Alt Funding Sources
 

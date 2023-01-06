@@ -8,7 +8,7 @@
 
 :warning: Before you submit an application, make sure it complies with our [Guidelines](https://github.com/radicle-dev/radicle-grants#guidelines).
 
-Regardless of your grant [level](https://github.com/radicle-dev/radicle-grants#levels), please follow the steps below for applying:
+Regardless of your grant [category](https://github.com/radicle-dev/radicle-grants#grant-categories), please follow the steps below for applying:
    1. Copy/paste the markdown file ([`applications/template.md`](template.md)). 
    2. Fill out the template with the details of your project. The more technically detailed, the less back-and-forth 
       we'll have, and the faster we can make a decision. 
