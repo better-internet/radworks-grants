@@ -1,0 +1,14 @@
+{
+  "name": "@chris.troutner/test-add",
+  "version": "1.0.0",
+  "description": "Tests the add package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "add": "git+https://pine.radicle.garden/hnrkcahyaj8apybx4p4px5h4r1r4y1fu7t6fy.git"
+  }
+}

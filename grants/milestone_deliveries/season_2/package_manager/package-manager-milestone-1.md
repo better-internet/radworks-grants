@@ -1,7 +1,7 @@
 # Milestone Delivery :mailbox: - Milestone 1
 
 * **Application Document:** [Grant Application - Package Manager](https://radicle.community/t/grant-application-package-manager/3122)
-* **Milestone Number:** Milestone 1, part 1
+* **Milestone Number:** Milestone 1
 
 **Context**
 
@@ -9,7 +9,7 @@ The scope of this first milestone was to assess the feasibility of using Radicle
 
 **Deliverables**
 
-The [research notes](./milestone1-part1-details.md) are presented here as a deliverable for the first milestone. Summary videos are included, in addition to written notes. It was determined that it **is** possible to build a JavaScript application without any dependence on GitHub or npm. JavaScript packages (dependencies) can be retrieved directly from Radicle Seed nodes (as git repositories). There is some nuance with using Radicle as a package repository, which the research notes expand on.
+The [research notes](./milestone1-part1-details.md) are presented here as deliverables for the first milestone. Summary videos are included, in addition to written notes. It was determined that it **is** possible to build a JavaScript application without any dependence on GitHub or npm. JavaScript packages (dependencies) can be retrieved directly from Radicle Seed nodes (as git repositories). There is some nuance with using Radicle as a package repository, which the research notes expand on.
 
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
@@ -21,7 +21,7 @@ The [research notes](./milestone1-part1-details.md) are presented here as a deli
 
 In [Part 1](./milestone1-part1-details.md), the JavaScript/npm/GitHub ecosystem was the lens used to evaluate the feasibility of using Radicle as both a code repository *and* a package repository. It was discovered that Radicle code repositories could be packaged into a binary file that is acceptable for use with the npm package manager.
 
-It was discovered that Radicle Seed nodes can not serve single files, only whole repositories. This creates a limitation with using them to deliver packages. An alternative format of addressing dependencies in `package.json` makes it possible to overcome this limitation.
+It was also discovered that Radicle Seed nodes can not serve single files, only whole repositories. This creates a limitation with using them to deliver packages. An alternative format of addressing dependencies in `package.json` makes it possible to overcome this limitation.
 
 In [Part 2](./milestone1-part2-details.md), integration with Verdaccio was considered. [Verdaccio](https://verdaccio.org/) is an npm proxy. The goal was to have it preferentially serve and cache packages from Radicle, but retain the ability to serve npm packages. In this way, the existing user experience (UX) is unchanged, which is good UX. The users can simply ‘opt in’ to using decentralized infrastructure without changing their workflow at all.
 

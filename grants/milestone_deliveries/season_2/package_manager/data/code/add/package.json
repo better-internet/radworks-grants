@@ -1,0 +1,11 @@
+{
+  "name": "@chris.troutner/add",
+  "version": "1.0.0",
+  "description": "Example library for adding two numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Troutner <chris.troutner@gmail.com>",
+  "license": "MIT"
+}

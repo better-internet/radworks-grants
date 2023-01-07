@@ -1,6 +1,6 @@
 # Radicle Package Manager - Part 2 - Research Notes
 
-This summary report extends [the first part of research](https://gist.github.com/christroutner/0ca3006b2d3be3122d5ef195e78b7eca). This second part of the research focuses on [Part 4 of Milestone 1 of the research grant](https://radicle.community/t/grant-application-package-manager/3122#milestone-1-npm-compatibility-12): Verdaccio integration. As the research unfolded, it became clear that it would be best to focus on part 4 (Verdaccio integration) first, because the lessons learned from this research informs the discussion and research for part 2 (package signing) and part 3 (package uploads).
+This summary report extends [the first part of research](./milestone1-part1-details.md). This second part of the research focuses on [Part 4 of Milestone 1 of the research grant](https://radicle.community/t/grant-application-package-manager/3122#milestone-1-npm-compatibility-12): Verdaccio integration. As the research unfolded, it became clear that it would be best to focus on part 4 (Verdaccio integration) first, because the lessons learned from this research informs the discussion and research for part 2 (package signing) and part 3 (package uploads).
 
 This written report summarizes the research in [this video](https://youtu.be/8aF2febVy7A). That video drills down into a lot of the technical details, whereas this report summarizes the reseach at a high-level. This report will be shared with the Radicle community in order to foster discussion on the trade-offs around package signing and security.
 
