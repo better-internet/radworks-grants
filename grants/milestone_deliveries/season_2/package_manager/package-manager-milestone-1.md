@@ -1,6 +1,4 @@
-# Milestone Delivery :mailbox: - Milestone 1, Part 1
-
-**The [invoice form :pencil:](TODO) has been filled out correctly for this milestone and the delivery is according to the official [milestone delivery guidelines](https://github.com/radicle-dev/radicle-grants/blob/main/docs/deliverables_guideline.md).**  
+# Milestone Delivery :mailbox: - Milestone 1
 
 * **Application Document:** [Grant Application - Package Manager](https://radicle.community/t/grant-application-package-manager/3122)
 * **Milestone Number:** Milestone 1, part 1
