@@ -9,21 +9,21 @@ The scope of this first milestone was to assess the feasibility of using Radicle
 
 **Deliverables**
 
-The [research notes](./milestone1-part1-details.md) are presented here as deliverables for the first milestone. Summary videos are included, in addition to written notes. It was determined that it **is** possible to build a JavaScript application without any dependence on GitHub or npm. JavaScript packages (dependencies) can be retrieved directly from Radicle Seed nodes (as git repositories). There is some nuance with using Radicle as a package repository, which the research notes expand on.
+The [research notes](./part1-details.md) are presented here as deliverables for the first milestone. Summary videos are included, in addition to written notes. It was determined that it **is** possible to build a JavaScript application without any dependence on GitHub or npm. JavaScript packages (dependencies) can be retrieved directly from Radicle Seed nodes (as git repositories). There is some nuance with using Radicle as a package repository, which the research notes expand on.
 
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
-| 1. | Generate an npm-compatible package from source code obtained from Radicle | [Details](./milestone1-part1-details.md) | Research notes |
-| 2. | Verdaccio Integration | [Details](./milestone1-part2-details.md) | Research notes |
+| 1. | Generate an npm-compatible package from source code obtained from Radicle | [Details](./part1-details.md) | Research notes |
+| 2. | Verdaccio Integration | [Details](./part2-details.md) | Research notes |
 | 3. | Package Signing & Security | [Details](https://radicle.community/t/discussion-package-signing-security/3157) | Discussion Thread |
 
 ## Summary
 
-In [Part 1](./milestone1-part1-details.md), the JavaScript/npm/GitHub ecosystem was the lens used to evaluate the feasibility of using Radicle as both a code repository *and* a package repository. It was discovered that Radicle code repositories could be packaged into a binary file that is acceptable for use with the npm package manager.
+In [Part 1](./part1-details.md), the JavaScript/npm/GitHub ecosystem was the lens used to evaluate the feasibility of using Radicle as both a code repository *and* a package repository. It was discovered that Radicle code repositories could be packaged into a binary file that is acceptable for use with the npm package manager.
 
 It was also discovered that Radicle Seed nodes can not serve single files, only whole repositories. This creates a limitation with using them to deliver packages. An alternative format of addressing dependencies in `package.json` makes it possible to overcome this limitation.
 
-In [Part 2](./milestone1-part2-details.md), integration with Verdaccio was considered. [Verdaccio](https://verdaccio.org/) is an npm proxy. The goal was to have it preferentially serve and cache packages from Radicle, but retain the ability to serve npm packages. In this way, the existing user experience (UX) is unchanged, which is good UX. The users can simply ‘opt in’ to using decentralized infrastructure without changing their workflow at all.
+In [Part 2](./part2-details.md), integration with Verdaccio was considered. [Verdaccio](https://verdaccio.org/) is an npm proxy. The goal was to have it preferentially serve and cache packages from Radicle, but retain the ability to serve npm packages. In this way, the existing user experience (UX) is unchanged, which is good UX. The users can simply ‘opt in’ to using decentralized infrastructure without changing their workflow at all.
 
 Due to the limitations discovered in Part 1, it is not possible to integrate Verdaccio with Radicle in a secure way. A proof-of-concept app named [file-proxy](https://github.com/christroutner/file-proxy) was developed, for serving single files from a Radicle repository. This feature could be integrated into Radicle Seed nodes, or operated as a stand-alone app on the same server as Verdaccio. This 'middleware' allows for secure retrieval of packages, under certain conditions. It also allows caching of packages by Verdaccio, which other methods do not.
 
