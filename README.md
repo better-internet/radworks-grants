@@ -137,11 +137,29 @@ Projects that touch (a) the core source code, (b) extend core features through 3
 
 For example, building plug-ins for popular IDEs like JetBrains that utilize the Radicle CLI.
 
+Previous example(s):
+* 3rd Party Integration: [IDE - Jetbrains Plugin #1](https://radicle.community/t/application-radicle-jetbrains-ide-plugin-implementation-phase-1/2887)
+* 3rd Party Integration: [IDE - VSCode Plugin #1](https://radicle.community/t/application-radicle-vs-code-extension-implementation-phase-1/3099)
+* 3rd Party Integration: [Package Management - Research](https://radicle.community/t/grant-application-package-manager/3122/10)
+* Governance Research: [DAO Governance - Research](https://radicle.community/t/application-radicledao-governance-design-apiary/3126/11)
+
 ### 2. Radicle Adoptions
 Projects that adopt some Radicle product feature, such as the Drips SDK.
 
 For example, using Radicle Drips as the infrastructure to help build an HR/payroll system or research crowdfunding 
 system.
+
+Previous example(s):
+* TBD
+
+### 3. Web3 & FOSS
+Projects that tackle important problems in the Web3 and/or FOSS, but that don't necessarily have to do with Radicle.
+
+> Note: we will generally be quite selective as the budget is limited on these. They should be addressing a general 
+> problem. It is less likely that we will fund niche projects that have limited scope or impact.
+
+Previous example(s):
+* [DAO Standards - Research](https://radicle.community/t/grant-application-daostar-one/2753)
 
 ## Alt Funding Sources
 
