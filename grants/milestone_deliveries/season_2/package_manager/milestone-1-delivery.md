@@ -52,6 +52,6 @@ There were two major limitations discovered, which hindered Radicle from being e
 - The inability of Seed nodes to serve single files.
 - The lack of a checksum scheme for validating authenticity of packages.
 
-The conclusion of this research is that the usability of Radicle would be greatly improved if Seed nodes added the feature of serving individual files. This would allow integration with existing package managers.
+The recommendation of this research is that Seed nodes should add the feature of serving individual files. This feature would allow integration with existing package managers, without the extra steps described above.
 
 The usability of Radicle as a package repository is also hobbled by the fact that *the only secure way to retrieve packages is from the Radicle git repository*. There is no secure way to distribute packages to supply chains like npm. Integrating a package-signing library [like this one](https://github.com/47ng/sceau) into `radicle-cli` would fix this problem by providing a checksum to validate packages.
