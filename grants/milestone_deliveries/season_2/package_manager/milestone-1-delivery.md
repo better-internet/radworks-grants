@@ -1,7 +1,7 @@
-# Milestone Delivery :mailbox: - Milestone 1
+# Milestone Delivery :mailbox:
 
 * **Application Document:** [Grant Application - Package Manager](https://radicle.community/t/grant-application-package-manager/3122)
-* **Milestone Number:** Milestone 1
+* **Milestone Number:** Milestone 1 & 3
 
 **Context**
 
