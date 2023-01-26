@@ -41,7 +41,17 @@ If one of those conditions are met, then the existing identity-based security mo
 
 In the current state of Radicle's development, it **is** possible to use it as a package repository, in addition to a code repository. A few tools are required to overcome limitations:
 
-- [file-proxy]() can be used to retrieve individual files (packages) from a Radicle Seed node.
-- [Verdaccio]() can locally cache those packages served by file-proxy, and it can also fall-back to retrieve packages from npmjs.org.
+- [file-proxy](https://github.com/christroutner/file-proxy) can be used to retrieve individual files (packages) from a Radicle Seed node.
+- [Verdaccio](https://verdaccio.org/) can locally cache those packages served by file-proxy, and it can also fall-back to retrieve packages from npmjs.org.
 
 This configuration leverages the existing security model of Radicle repositories. While there are a few extra steps, it is currently possible for developers to ween themselves off of centralized package repositories like [npm](https://npmjs.org) and [GitHub Packages](https://github.com/features/packages).
+
+## Next Steps
+There were two major limitations discovered, which hindered Radicle from being easily integrated with package managers:
+
+- The inability of Seed nodes to serve single files.
+- The lack of a checksum scheme for validating authenticity of packages.
+
+The conclusion of this research is that the usability of Radicle would be greatly improved if Seed nodes added the feature of serving individual files. This would allow integration with existing package managers.
+
+The usability of Radicle as a package repository is also hobbled by the fact that *the only secure way to retrieve packages is from the Radicle git repository*. There is no secure way to distribute packages to supply chains like npm. Integrating a package-signing library [like this one](https://github.com/47ng/sceau) into `radicle-cli` would fix this problem by providing a checksum to validate packages.
