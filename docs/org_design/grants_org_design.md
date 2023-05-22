@@ -1,22 +1,18 @@
 
-# [Org][RGP - #] - [Radicle Grants - #1]
+# Grants Org Proposal 2023
 
 | Author(s):     | bordumb                                                                         |
 |----------------|---------------------------------------------------------------------------------|
 | Type:          | Org                                                                             |
 | Created:       | 2023-03-23                                                                      |
 | Status:        | active                                                                          |
-| Discussion:    | https://radicle.community/t/discussion-radicle-grants-program-org-proposal/3274 |
-| Formal Review: | TBD                                                           |
-| Submission:    | TBD                                                            |
-| Snapshot:      | TBD                                                                             |
 
 
 ## **Purpose**
 
-The _Radicle Grants Org_'s goal is simple:
+The _Radicle Grants Org_'s goal is:
 
-> To find, fund, and guide research and development of any projects that fall outside the purview of the Core Development Org.
+> To find, fund, and guide research and development of any projects that fall outside the purview of the [Drips Org](https://radicle.community/t/discussion-drips-org-proposal-2023/3289) and [Radicle Org](https://radicle.community/t/discussion-radicle-org-proposal-2023/3288).
 
 Past projects include things like: 
 * [Development of JetBrains IDE Plugin](https://radicle.community/t/radicle-jetbrains-ide-plugin-0-5-x/3221)
@@ -26,11 +22,23 @@ Past projects include things like:
 
 More broadly, the _Radicle Grants Org_ is open to funding the following grant categories:
 
-![img.png](img.png)
+![image|690x388](upload://6Z0YU7NsUPCiY6E13bWl6BE7xzE.png)
 
 ## Annual Strategy & Quarterly Objectives
 
 ### Recruiting
+
+**Goal:** Onboard grantees to more permanent work within the Radicle ecosystem.
+
+**Philosophy:** The aim with this is to provide a model for other DAOs on how to uplevel casual contributors into more permanent or regular work.
+
+**KPIs:**
+* Easy: bring 1 grantee team to the level that they can either spin off their own Org or join an existing one in a more permanent working engagement.
+* Hard: bring 2+ grantee teams to that level.
+
+**Reasoning & Analysis:**
+* **How?:** we will make a point about not keeping grantees tethered or beholden to Grant funding, but instead - where it makes sense - encourage them to work directly with the main RadicleDAO, other sub-DAOs, or spin off their own sub-DAO through a new proposal.
+* **Contribution to growth:** in cases where a grantee is working on an important enough problem, bringing them into the fold of more permanent work will mean putting resources behind solving important problems for the RadicleDAO at large, as well as their entire Radicle ecosystem.
 
 ### Dogfooding
 
@@ -54,25 +62,11 @@ More broadly, the _Radicle Grants Org_ is open to funding the following grant ca
 
 **KPIs:**
 * Easy: allocate 4% (40,000 USDC) of budget to Drips balance + drip to 4 dependencies [as outlined here](https://github.com/radicle-dev/radicle-grants/issues/60).
-* Hard: onboard all teams behind the 4 dependencies to at least 5 of their own dependencies, such that they split the incoming Drips from us further down the line. The aim being to kick off some network effects via Drips.
+* Hard: onboard all teams behind the 4 dependencies to at least 5 of their own dependencies, such that they split the incoming Drips from us further down the line. The aim being to kick off some network effects via Drips. This totals to at least 20 teams onboarded.
 
 **Reasoning & Analysis:**
 * **How?:** we will do this by reaching out to our dependencies, collecting a list of their dependencies, reaching out to those dependencies, and so on, then onboard all of these groups to Drips. Once this is completed, we will start Dripping the allocated funds.
 * **Contribution to growth:** the benefits will be two-fold: (a) create successful case studies, which will help with marketing and (b) increase adoption and network effects for Drips.
-
-**Goal:** Onboard grantees to more permanent work within the Radicle ecosystem.
-
-**Philosophy:** The aim with this is to provide a model for other DAOs on how to uplevel casual contributors into more permanent or regular work.
-
-**KPIs:**
-* Easy: bring 1 grantee team to the level that they can either spin off their own Org or join an existing one in a more permanent working engagement.
-* Hard: bring 2+ grantee teams to that level.
-
-**Reasoning & Analysis:**
-* **How?:** we will make a point about not keeping grantees tethered or beholden to Grant funding, but instead - where it makes sense - encourage them to work directly with the main RadicleDAO, other sub-DAOs, or spin off their own sub-DAO through a new proposal.
-* **Contribution to growth:** in cases where a grantee is working on an important enough problem, bringing them into the fold of more permanent work will mean putting resources behind solving important problems for the RadicleDAO at large, as well as their entire Radicle ecosystem.
-
-
 
 ## **Reporting & Success Criteria**
 
@@ -86,13 +80,13 @@ The _Radicle Grants Org_ will publicly share the following on [radicle.community
 
 ### Contributors
 
-![img_1.png](img_1.png)
+![image|690x388](upload://yq1KKaxpbkLBZcku0CsyYkkEaFS.png)
 
-Within the _Radicle Grants Org_, a contributor is anyone who contributes _and_ holds voting power within the Org.
+Within the _Radicle Grants Org_, a contributor includes:
+* Committee Members (i.e. multi-sig members)
+* Grantees
 
-Since the Grants Program's inception, Committee Members have been the only group with voting power.
-
-However, with the funding and testing of [OtterSpace badges](https://radicle.community/t/otterspace-soulbound-contributor-badges-for-daos-grant-application/2868), we are adding grantees as voting members.
+> Note: see more about how voting works across these 2 groups using [OtterSpace badges](https://radicle.community/t/otterspace-soulbound-contributor-badges-for-daos-grant-application/2868) in the **🏛️ Governance/Voting** section below.
 
 #### Current Committee Members include: 
 * Bordumb (_Radicle Grants Org_ Lead)
@@ -109,11 +103,7 @@ Responsibilities:
 
 ### 🏛️ Governance/Voting
 
-> Note: this section represents a major change when comparing to [the latest approved Grants Program proposal here](https://radicle.community/t/formal-review-radicle-grants-program-continuation/3075/).
-
-![img_2.png](img_2.png)
-
-Continuing from the last section on **Contributors**, this section outlines how each badge holding group can vote.
+![image|690x388](upload://k2NN6NATdx3vEGFN477RTacBzuv.png)
 
 There are 2 types of votes:
 * Governance (OtterSpace): Committee Members + Grantees
@@ -125,7 +115,7 @@ More on how these voting types maps to our contributors below.
 
 ## Communication
 
-The most up-to-date information on the management of the RGP Org can be found in [our repo here](https://github.com/radicle-dev/radicle-grants).
+The most up-to-date information on the management of the _Radicle Grants Org_ can be found in [our repo here](https://github.com/radicle-dev/radicle-grants).
 
 For miscellaneous questions and comments, anyone can reach out on our [Discord here in **Grants - 💬# general**](https://discord.gg/2mN3fys8vZ).
 
@@ -134,7 +124,7 @@ Grant applications and the review of grants is entirely public and carried out o
 
 ## Timeline & Budget
 
-As noted in the latest approved proposal for the [Radicle Grants Program here](https://radicle.community/t/formal-review-radicle-grants-program-continuation/3075), the RGP Org shall run with optimistic funding.
+As noted in the latest approved proposal for the [Radicle Grants Program here](https://radicle.community/t/formal-review-radicle-grants-program-continuation/3075), the _Radicle Grants Org_ shall run with optimistic funding.
 
 We originally allocated the following amounts:
 
@@ -153,7 +143,7 @@ Regarding _Committee Fees_:
 
 ## Fund Management
 
-As noted in the latest approved proposal for the [Radicle Grants Program here](https://radicle.community/t/formal-review-radicle-grants-program-continuation/3075), the RGP Org shall run with optimistic funding.
+As noted in the latest approved proposal for the [Radicle Grants Program here](https://radicle.community/t/formal-review-radicle-grants-program-continuation/3075), the _Radicle Grants Org_ shall run with optimistic funding.
 
 ### Topping Up Funds 
 
@@ -168,3 +158,4 @@ Funds can be retrieved via the following methods:
 * A vote of no confidence by OtterSpace badge holders, meaning the tighter knit community of Grants Org contributors.
 
 Upon a vote of no confidence, the Grants Committee must rubber stamp a return of all funds back to the RadicleDAO's wallet.
+
