@@ -23,7 +23,7 @@
 
 ### Community
 * time_worked: 20 hrs
-* Discord + Community Calls + meetings 
+* Discord + Community Calls + meetings + product testing
 
 ## Total Comp
 
