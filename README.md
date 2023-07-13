@@ -179,8 +179,8 @@ Below is a list of hackathons Radworks has sponsored in the past:
 ## Useful Links
 
 | <img src="src/twitter_logo.png?s=50" width="50"> | <img src="src/discord_logo.png?s=50" width="50"> | <img src="src/radicle_text_logo.png?s=50" width="50"> | <img src="src/matrix_logo.svg?s=50" width="50"> | <img src="src/telegram_logo.svg?s=50" width="50"> | <img src="src/gnosis_logo.png?s=50" width="50"> |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [@radworks_](https://twitter.com/radworks_)  | [Discord](https://discord.com/invite/HRdnwAwGbG) | [Discourse](https://community.radworks.org/) | [Matrix](https://matrix.community.radworks.org/) | [Telegram](https://t.me/radicleworld) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| [@radworks_](https://twitter.com/radworks)  | [Discord](https://discord.com/invite/HRdnwAwGbG) | [Discourse](https://radicle.community/) | [Matrix](https://matrix.radicle.community/) | [Telegram](https://t.me/radicleworld) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
 
 ## License
 
