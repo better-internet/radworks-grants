@@ -2,7 +2,7 @@
 
 If you are the member of a DAO's multi-sig and help manage governance and interested in badge management, this is the page for you.
 
-> Note: for more context on badge-based governance, see the [OtterSpace Temperature Check here](https://radicle.community/t/temperature-check-use-otterspace-non-transferable-tokens-for-distribution-of-influence-mechanism/3055).
+> Note: for more context on badge-based governance, see the [OtterSpace Temperature Check here](https://community.radworks.org/t/temperature-check-use-otterspace-non-transferable-tokens-for-distribution-of-influence-mechanism/3055).
 
 > Note: all the details below assume we are on the Optimism Network, which OtterSpace is using prior to moving to Ethereum Mainnet. 
 

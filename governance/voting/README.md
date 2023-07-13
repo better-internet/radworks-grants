@@ -2,7 +2,7 @@
 
 These are notes describing our process for voting on (and thus funding) projects. 
 
-> Note: this space is meant to help with the transition to token-based voting, as outlined in the [Temperature Check on OtterSpace here](https://radicle.community/t/temperature-check-use-otterspace-non-transferable-tokens-for-distribution-of-influence-mechanism/3055).
+> Note: this space is meant to help with the transition to token-based voting, as outlined in the [Temperature Check on OtterSpace here](https://community.radworks.org/t/temperature-check-use-otterspace-non-transferable-tokens-for-distribution-of-influence-mechanism/3055).
 
 ## Overview
 

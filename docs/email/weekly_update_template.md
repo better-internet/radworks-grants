@@ -14,9 +14,9 @@ This section for requests for proposal (RFPs) outlining future work ideas.
 ### 📝 Applications 
 
 #### 🧐 Waiting for review
-* https://radicle.community/c/grants/24
-* https://radicle.community/c/grants/24
-* https://radicle.community/c/grants/24
+* https://community.radworks.org/c/grants/24
+* https://community.radworks.org/c/grants/24
+* https://community.radworks.org/c/grants/24
 
 > We should more or less have verbal confirmation that the application is good on Discourse before voting. Only 2 verbal approvals on Discourse needed for Seed Grants. The rest can rubber stamp it on Gnosis.
 
@@ -42,7 +42,7 @@ This section for grants in progress that are either waiting for final PR review 
 ## 🌲 Tree Grants
 
 #### 🧐 Waiting for review
-* https://radicle.community/c/grants/24
+* https://community.radworks.org/c/grants/24
 
 > We should have strong verbal confirmation that the application is good on Discourse before voting. 
 

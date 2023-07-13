@@ -89,7 +89,7 @@ Outside of these 3 Fs, the grant will not provide a hands-on assistance or mento
 We are expecting individuals and teams who are planning to own the work from start to finish.
 
 If you have specific issues during development, for example understanding a certain implementation in the Radicle source
-code, the core development team is available to answer questions via [Discord](https://discord.gg/cS42wyG7) or [Matrix](https://matrix.radicle.community/).
+code, the core development team is available to answer questions via [Discord](https://discord.gg/cS42wyG7) or [Matrix](https://matrix.community.radworks.org/).
 
 ### Team
 
@@ -138,10 +138,10 @@ Projects that touch (a) the core source code, (b) extend core features through 3
 For example, building plug-ins for popular IDEs like JetBrains that utilize the Radicle CLI.
 
 Previous example(s):
-* 3rd Party Integration: [IDE - Jetbrains Plugin #1](https://radicle.community/t/application-radicle-jetbrains-ide-plugin-implementation-phase-1/2887)
-* 3rd Party Integration: [IDE - VSCode Plugin #1](https://radicle.community/t/application-radicle-vs-code-extension-implementation-phase-1/3099)
-* 3rd Party Integration: [Package Management - Research](https://radicle.community/t/grant-application-package-manager/3122/10)
-* Governance Research: [DAO Governance - Research](https://radicle.community/t/application-radicledao-governance-design-apiary/3126/11)
+* 3rd Party Integration: [IDE - Jetbrains Plugin #1](https://community.radworks.org/t/application-radicle-jetbrains-ide-plugin-implementation-phase-1/2887)
+* 3rd Party Integration: [IDE - VSCode Plugin #1](https://community.radworks.org/t/application-radicle-vs-code-extension-implementation-phase-1/3099)
+* 3rd Party Integration: [Package Management - Research](https://community.radworks.org/t/grant-application-package-manager/3122/10)
+* Governance Research: [DAO Governance - Research](https://community.radworks.org/t/application-radicledao-governance-design-apiary/3126/11)
 
 ### 2. Radworks Adoptions
 Projects that adopt some Radworks product feature, such as the Radicle CLI or Drips SDK.
@@ -159,7 +159,7 @@ Projects that tackle important problems in the Web3 and/or FOSS, but that don't 
 > problem. It is less likely that we will fund niche projects that have limited scope or impact.
 
 Previous example(s):
-* [DAO Standards - Research](https://radicle.community/t/grant-application-daostar-one/2753)
+* [DAO Standards - Research](https://community.radworks.org/t/grant-application-daostar-one/2753)
 
 ## Alt Funding Sources
 
@@ -180,7 +180,7 @@ Below is a list of hackathons Radworks has sponsored in the past:
 
 | <img src="src/twitter_logo.png?s=50" width="50"> | <img src="src/discord_logo.png?s=50" width="50"> | <img src="src/radicle_text_logo.png?s=50" width="50"> | <img src="src/matrix_logo.svg?s=50" width="50"> | <img src="src/telegram_logo.svg?s=50" width="50"> | <img src="src/gnosis_logo.png?s=50" width="50"> |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [@radworks_](https://twitter.com/radworks_)  | [Discord](https://discord.com/invite/HRdnwAwGbG) | [Discourse](https://radicle.community/) | [Matrix](https://matrix.radicle.community/) | [Telegram](https://t.me/radicleworld) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
+| [@radworks_](https://twitter.com/radworks_)  | [Discord](https://discord.com/invite/HRdnwAwGbG) | [Discourse](https://community.radworks.org/) | [Matrix](https://matrix.community.radworks.org/) | [Telegram](https://t.me/radicleworld) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
 
 ## License
 

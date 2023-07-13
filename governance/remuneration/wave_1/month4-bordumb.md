@@ -36,11 +36,11 @@
 
 300 min: 
 * Grant Reviews
-* https://radicle.community/t/learnweb3-dao-grant-application/2697/17
-* https://radicle.community/t/grant-application-daostar-one/2753/9
-* https://radicle.community/t/application-ditto-protocol-nft-futures/2794/3
-* https://radicle.community/t/grant-application-defislate-dao/2804/3
-* https://radicle.community/t/radicle-org-tributedao-framework-integration/2791/8
+* https://community.radworks.org/t/learnweb3-dao-grant-application/2697/17
+* https://community.radworks.org/t/grant-application-daostar-one/2753/9
+* https://community.radworks.org/t/application-ditto-protocol-nft-futures/2794/3
+* https://community.radworks.org/t/grant-application-defislate-dao/2804/3
+* https://community.radworks.org/t/radicle-org-tributedao-framework-integration/2791/8
 
 20 hrs: 
 * Discord 
