@@ -1,6 +1,6 @@
 # Radicle Package Manager - Part 2 - Research Notes
 
-This summary report extends [the first part of research](./part1-details.md). This second part of the research focuses on [Part 4 of Milestone 1 of the research grant](https://radicle.community/t/grant-application-package-manager/3122#milestone-1-npm-compatibility-12): Verdaccio integration. As the research unfolded, it became clear that it would be best to focus on part 4 (Verdaccio integration) first, because the lessons learned from this research informs the discussion and research for part 2 (package signing) and part 3 (package uploads).
+This summary report extends [the first part of research](./part1-details.md). This second part of the research focuses on [Part 4 of Milestone 1 of the research grant](https://community.radworks.org/t/grant-application-package-manager/3122#milestone-1-npm-compatibility-12): Verdaccio integration. As the research unfolded, it became clear that it would be best to focus on part 4 (Verdaccio integration) first, because the lessons learned from this research informs the discussion and research for part 2 (package signing) and part 3 (package uploads).
 
 This written report summarizes the research in [this video](https://youtu.be/8aF2febVy7A). That video drills down into a lot of the technical details, whereas this report summarizes the reseach at a high-level. This report will be shared with the Radworks community in order to foster discussion on the trade-offs around package signing and security.
 
@@ -29,7 +29,7 @@ Several approaches to integration were considered. The goal from [the first repo
 *Side Note:* In the [research video](https://youtu.be/8aF2febVy7A) that compliments this report, solutions are presented with 'what does not work' first, and 'what works' last. In this written report, the order has been reversed, displaying the best options first, and the worst options last.
 
 ### Serving Packages with file-proxy
-In [this first report](https://gist.github.com/christroutner/0ca3006b2d3be3122d5ef195e78b7eca) it was shown that a git repository could be packaged as a .tgz file (which makes it a compatible npm package), and that file can be stored in the repository itself. This allows any git tag to be designated as a '[release](https://radicle.community/t/software-releases-on-radicle/2786)', and leverages the [Radicle identity and security model](https://app.radicle.xyz/seeds/clients.radicle.xyz/rad:git:hnrkx7ruakgb9ozzi7atwb1rh6moq8pjonp6o/tree/8cd1561688462e2fcb234956b6f5916c42bdf4fa/0001-heartwood.md).
+In [this first report](https://gist.github.com/christroutner/0ca3006b2d3be3122d5ef195e78b7eca) it was shown that a git repository could be packaged as a .tgz file (which makes it a compatible npm package), and that file can be stored in the repository itself. This allows any git tag to be designated as a '[release](https://community.radworks.org/t/software-releases-on-radicle/2786)', and leverages the [Radicle identity and security model](https://app.radicle.xyz/seeds/clients.radicle.xyz/rad:git:hnrkx7ruakgb9ozzi7atwb1rh6moq8pjonp6o/tree/8cd1561688462e2fcb234956b6f5916c42bdf4fa/0001-heartwood.md).
 
 The stumbling block in the first report was that Radicle Seed nodes do not directly serve individual files. The entire git repository must be downloaded. As a workaround, a web app called [file-proxy](https://github.com/christroutner/file-proxy) was created. This is a simple proof-of-concept prototype. For example, here is a URL that will download the `add-1.0.0.tgz` package from the first report:
 
@@ -110,4 +110,4 @@ It also showed that these two techniques were not successful at caching the pack
 - git+https
 - git archive --remote
 
-In addition to caching (or not), security considerations are called out. These security considerations will be the subject of the next leg of research, which will start with a discussion in the [radicle.community](https://radicle.community) forum.
+In addition to caching (or not), security considerations are called out. These security considerations will be the subject of the next leg of research, which will start with a discussion in the [community.radworks.org](https://community.radworks.org) forum.

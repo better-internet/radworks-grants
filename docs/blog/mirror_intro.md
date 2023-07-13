@@ -24,13 +24,13 @@ There are 2 ways to apply:
 #### 1. Freeform Grant 
 * Apply for any work you think deserves funding, whether it's a contribution to Radicle, FOSS, or web3 
 * Copy and fill out our handy [markdown template here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md)
-* Create a new post in the [grants category](https://radicle.community/c/grants/24) of [radicle.community](https://radicle.community/).
+* Create a new post in the [grants category](https://community.radworks.org/c/grants/24) of [community.radworks.org](https://community.radworks.org/).
 
 #### 2. Request for Proposal (RFP) Grant
-* Apply towards an existing proposal, most likely posted by us on [Discourse forum](https://radicle.community/c/grants/24).
+* Apply towards an existing proposal, most likely posted by us on [Discourse forum](https://community.radworks.org/c/grants/24).
 * If we've posted an RFP, just drop a reply on Discourse with some details on why you'd be a good fit. You can see some of the [details we're looking for here](https://raw.githubusercontent.com/radicle-dev/radicle-grants/main/grants/applications/template.md).
 
-If you don't want to work on a grant, but have an idea, feel free to create an [RFP using our template](https://github.com/radicle-dev/radicle-grants/blob/main/rfps/template.md) and post it on the [grants category](https://radicle.community/c/grants/24) of [radicle.community](https://radicle.community/).
+If you don't want to work on a grant, but have an idea, feel free to create an [RFP using our template](https://github.com/radicle-dev/radicle-grants/blob/main/rfps/template.md) and post it on the [grants category](https://community.radworks.org/c/grants/24) of [community.radworks.org](https://community.radworks.org/).
 
 ## What is the scope of these grants?
 
@@ -57,7 +57,7 @@ Tree grants are meant for larger teams, companies, or foundations working on a c
 
 For Seed Grants, you application will be reviewed by the [Grants Committee](https://github.com/radicle-dev/radicle-grants#team) on a rolling basis. You should receive a response within a week. 
 
-For Tree Grants, once your application is published via [radicle.community](https://radicle.community/c/grants/24), the application will remain open for public discussion. Unless further discussion is warranted, you should receive a response within 2 weeks.
+For Tree Grants, once your application is published via [community.radworks.org](https://community.radworks.org/c/grants/24), the application will remain open for public discussion. Unless further discussion is warranted, you should receive a response within 2 weeks.
 
 The committee will vote to approve funding.
 
@@ -79,4 +79,4 @@ If you have any questions, feel free to reach out on the Grant's #general space 
 ## It's that easy!?
 Yup, that's it. 
 
-Head over to [Discourse](https://radicle.community/c/grants/24) and apply today!
+Head over to [Discourse](https://community.radworks.org/c/grants/24) and apply today!

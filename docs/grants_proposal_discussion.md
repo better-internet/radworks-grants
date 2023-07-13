@@ -21,13 +21,13 @@ Grant funding and compensation will start out simple, controlled by RGP's multi-
 
 **A fundamental goal with the RGP is to dogfood Radicle in order to build a web3-wide model for sustainable software development.** This comes down to 3 main uses of Radicle:
 
-The RGP Committee will be its own [Org](https://radicle.community/t/feature-update-orgs/2132).
+The RGP Committee will be its own [Org](https://community.radworks.org/t/feature-update-orgs/2132).
 Committee members will be added as [members of the Org](https://docs.radicle.xyz/docs/connecting-to-ethereum/adding-members).
 
 Grantees post work to relevant [Projects](https://docs.radicle.xyz/docs/using-radicle/creating-projects) within Radicle's core codebase for assessment by Core Dev maintainers. This workflow would be handled with [forks + patches](https://docs.radicle.xyz/docs/using-radicle/viewing-and-merging-patches) with the final anchored commits acting as the "proof of work" for grantees.
 
 Finally, once Radicle Funding is ready, RGP's Org could pay out to grantee Orgs for their work via
-[Drips](https://radicle.community/t/feedback-on-nft-community-tokens/2455).
+[Drips](https://community.radworks.org/t/feedback-on-nft-community-tokens/2455).
 
 Below is a high-level diagram of the proposed framework.
 
@@ -84,9 +84,9 @@ The Core Development Team may at any time join the process to give feedback or g
 
 As mentioned in the forums, the Radicle Governance Working Group decided it would be best to hire a Grants Lead to create and manage the RGP.
 
-https://radicle.community/t/looking-for-a-radicle-grants-program-lead/2489
+https://community.radworks.org/t/looking-for-a-radicle-grants-program-lead/2489
 
-After applying, I was chosen to lead the program by the RGWP. I've already introduced myself a bit in [the application here](https://radicle.community/t/looking-for-a-radicle-grants-program-lead/2489).
+After applying, I was chosen to lead the program by the RGWP. I've already introduced myself a bit in [the application here](https://community.radworks.org/t/looking-for-a-radicle-grants-program-lead/2489).
 
 The Grants Lead will be responsible for the following:
 
@@ -307,7 +307,7 @@ The RGP is also an initiative that contributes to two of the Radicle Foundation'
 
 4. Strengthen the core teams #people
 
-https://radicle.community/t/radicle-2021-strategy-objectives/2424#high-level-objectives-2
+https://community.radworks.org/t/radicle-2021-strategy-objectives/2424#high-level-objectives-2
 
 # **Background** (what is the reasoning behind the proposal?)
 
@@ -319,7 +319,7 @@ The reasoning behind starting a grants program is to add structure, process, and
 
 # **Link to Temperature Check**
 
-https://radicle.community/t/temperature-check-radicle-grants-program/2461/8
+https://community.radworks.org/t/temperature-check-radicle-grants-program/2461/8
 
 # **Reasoning & analysis** (what is the case for the proposal? what are the pros and cons?)
 
@@ -345,7 +345,7 @@ Cons
 - At the end of the period, the money should be sent back to the Treasury
 - Would need someone from Core Dev Team + Treasury to implement this
 
-At the end of the 6 months, a new grants wave must be announced, go through [the normal governance process](https://radicle.community/t/readme-radicle-governance-process/526).
+At the end of the 6 months, a new grants wave must be announced, go through [the normal governance process](https://community.radworks.org/t/readme-radicle-governance-process/526).
 
 ### Execution of Grant Work
 

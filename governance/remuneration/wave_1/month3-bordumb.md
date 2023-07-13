@@ -33,9 +33,9 @@ converting USDC to DAI and getting it ready for when the products do go live.
 
 180 min: 
 * Grant Reviews
-* https://radicle.community/t/rfp-make-drips-communities-embeddable-on-any-site-as-a-login-gate/2670/5
-* https://radicle.community/t/application-radicle-discovery-analytics/2768/4
-* https://radicle.community/t/rfp-radicle-discovery-analytics-work-in-progress/2689/3
+* https://community.radworks.org/t/rfp-make-drips-communities-embeddable-on-any-site-as-a-login-gate/2670/5
+* https://community.radworks.org/t/application-radicle-discovery-analytics/2768/4
+* https://community.radworks.org/t/rfp-radicle-discovery-analytics-work-in-progress/2689/3
 
 20 hrs: 
 * Discord 

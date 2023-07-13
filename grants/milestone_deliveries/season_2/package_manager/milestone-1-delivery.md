@@ -1,6 +1,6 @@
 # Milestone Delivery :mailbox:
 
-* **Application Document:** [Grant Application - Package Manager](https://radicle.community/t/grant-application-package-manager/3122)
+* **Application Document:** [Grant Application - Package Manager](https://community.radworks.org/t/grant-application-package-manager/3122)
 * **Milestone Number:** Milestone 1 & 3
 
 **Context**
@@ -15,7 +15,7 @@ The [research notes](./part1-details.md) are presented here as deliverables for 
 | ------------- | ------------- | ------------- |------------- |
 | 1. | Generate an npm-compatible package from source code obtained from Radicle | [Details](./part1-details.md) | Research notes |
 | 2. | Verdaccio Integration | [Details](./part2-details.md) | Research notes |
-| 3. | Package Signing & Security | [Details](https://radicle.community/t/discussion-package-signing-security/3157) | Discussion Thread |
+| 3. | Package Signing & Security | [Details](https://community.radworks.org/t/discussion-package-signing-security/3157) | Discussion Thread |
 
 ## Summary
 
@@ -27,7 +27,7 @@ In [Part 2](./part2-details.md), integration with Verdaccio was considered. [Ver
 
 Due to the limitations discovered in Part 1, it is not possible to integrate Verdaccio with Radicle in a secure way. A proof-of-concept app named [file-proxy](https://github.com/christroutner/file-proxy) was developed, for serving single files from a Radicle repository. This feature could be integrated into Radicle Seed nodes, or operated as a stand-alone app on the same server as Verdaccio. This 'middleware' allows for secure retrieval of packages, under certain conditions. It also allows caching of packages by Verdaccio, which other methods do not.
 
-[Part 3](https://radicle.community/t/discussion-package-signing-security/3157) involved some initial research on [supply chain attacks](https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/) and [the package signing workflow used by npm](https://docs.npmjs.com/about-registry-signatures). It concluded with a discussion with the Radicle developer community.
+[Part 3](https://community.radworks.org/t/discussion-package-signing-security/3157) involved some initial research on [supply chain attacks](https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/) and [the package signing workflow used by npm](https://docs.npmjs.com/about-registry-signatures). It concluded with a discussion with the Radicle developer community.
 
 The conclusion of the discussion was that Radicle is not in place to leverage a sophisticated package signing workflow, such as the one employed by npm. Instead, Radicle has an identity-based security model for its code repositories. It is best to retrieve files directly from Radicle repositories in order to leverage that existing security model.
 

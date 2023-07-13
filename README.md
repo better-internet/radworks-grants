@@ -21,8 +21,8 @@ This page will cover the basics of the Radworks Grants Program's ethos, applicat
 
 ### Guidelines
 
-The focus is on technical projects, such as additions to core Radicle software or components of Web3 infrastructure 
-that interact with Radicle, or adoption of some part of the [Radicle stack](https://github.com/radicle-dev) (e.g. [Radicle Drips SDK](https://github.com/radicle-dev/drips-js-sdk)).
+The focus is on technical projects, such as additions to core Radworks software or components of Web3 infrastructure 
+that interact with Radicle, or adoption of some part of the [Radworks stack](https://github.com/radicle-dev) (e.g. [Radicle Drips SDK](https://github.com/radicle-dev/drips-js-sdk)).
 
 Below are high level things we look for:
 
@@ -73,7 +73,7 @@ grant. Where it makes sense, we may also award one grant across multiple teams.
 > 💰 If you write an RFP, you may collect a referral bonus equal to 5% of the total size of any 
 associated grant that is accepted _**and**_ completed.
 
-No matter the source of the project idea, the entire application process will be transparent and public on Radicle 
+No matter the source of the project idea, the entire application process will be transparent and public on Radworks 
 channels.
 
 ### Support
@@ -89,7 +89,7 @@ Outside of these 3 Fs, the grant will not provide a hands-on assistance or mento
 We are expecting individuals and teams who are planning to own the work from start to finish.
 
 If you have specific issues during development, for example understanding a certain implementation in the Radicle source
-code, the core development team is available to answer questions via [Discord](https://discord.gg/cS42wyG7) or [Matrix](https://matrix.radicle.community/).
+code, the core development team is available to answer questions via [Discord](https://discord.gg/cS42wyG7) or [Matrix](https://matrix.community.radworks.org/).
 
 ### Team
 
@@ -97,20 +97,21 @@ code, the core development team is available to answer questions via [Discord](h
 
 This group will act as signers of the Radworks Grant Program's multi-sig, which will ultimately fund projects.
 
-The Radworks Grants Committee is made up of core Radicle team members, Radworks community members, and outside folks who
+The Radworks Grants Committee is made up of core Radworks team members, Radworks community members, and outside folks who
+
 have some sort of related domain expertise.
 
-- **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
+- **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radworks Community)
 - [Abbey Titcomb](https://twitter.com/abbey_titcomb) (Core Team)
 - [Nader Dabit](https://twitter.com/dabit3) (Ecosystem)
 - [Nassar Hayat](https://twitter.com/nassarhayat) (Core Team)
-- Reverie (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radicle Community)
+- Reverie (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radworks Community)
 
-#### Radicle Operations Team<!-- omit in toc -->
+#### Radworks Operations Team<!-- omit in toc -->
 
 Speak to anyone on this list if you need help with legal documents or remittances.
 
-- **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
+- **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radworks Community)
 - [Abbey Titcomb](https://twitter.com/abbey_titcomb) (Core Team)
 
 Please see more info in [`/governance` here](https://github.com/radicle-dev/radicle-grants/tree/main/governance)
@@ -138,28 +139,28 @@ Projects that touch (a) the core source code, (b) extend core features through 3
 For example, building plug-ins for popular IDEs like JetBrains that utilize the Radicle CLI.
 
 Previous example(s):
-* 3rd Party Integration: [IDE - Jetbrains Plugin #1](https://radicle.community/t/application-radicle-jetbrains-ide-plugin-implementation-phase-1/2887)
-* 3rd Party Integration: [IDE - VSCode Plugin #1](https://radicle.community/t/application-radicle-vs-code-extension-implementation-phase-1/3099)
-* 3rd Party Integration: [Package Management - Research](https://radicle.community/t/grant-application-package-manager/3122/10)
-* Governance Research: [DAO Governance - Research](https://radicle.community/t/application-radicledao-governance-design-apiary/3126/11)
+* 3rd Party Integration: [IDE - Jetbrains Plugin #1](https://community.radworks.org/t/application-radicle-jetbrains-ide-plugin-implementation-phase-1/2887)
+* 3rd Party Integration: [IDE - VSCode Plugin #1](https://community.radworks.org/t/application-radicle-vs-code-extension-implementation-phase-1/3099)
+* 3rd Party Integration: [Package Management - Research](https://community.radworks.org/t/grant-application-package-manager/3122/10)
+* Governance Research: [DAO Governance - Research](https://community.radworks.org/t/application-radicledao-governance-design-apiary/3126/11)
 
-### 2. Radicle Adoptions
-Projects that adopt some Radicle product feature, such as the Drips SDK.
+### 2. Radworks Adoptions
+Projects that adopt some Radworks product feature, such as the Radicle CLI or Drips SDK.
 
-For example, using Radicle Drips as the infrastructure to help build an HR/payroll system or research crowdfunding 
+For example, using Drips as the infrastructure to help build an HR/payroll system or research crowdfunding 
 system.
 
 Previous example(s):
 * TBD
 
 ### 3. Web3 & FOSS
-Projects that tackle important problems in the Web3 and/or FOSS, but that don't necessarily have to do with Radicle.
+Projects that tackle important problems in the Web3 and/or FOSS, but that don't necessarily have to do with Radworks.
 
 > Note: we will generally be quite selective as the budget is limited on these. They should be addressing a general 
 > problem. It is less likely that we will fund niche projects that have limited scope or impact.
 
 Previous example(s):
-* [DAO Standards - Research](https://radicle.community/t/grant-application-daostar-one/2753)
+* [DAO Standards - Research](https://community.radworks.org/t/grant-application-daostar-one/2753)
 
 ## Alt Funding Sources
 
@@ -167,20 +168,20 @@ In lieu of a grant, you may find info below helpful to fund any projects you hav
 
 ### Hackathons
 
-Radicle may organise, sponser, or in some capacity of another participate in hackathons.
+Radworks may organise, sponser, or in some capacity of another participate in hackathons.
 
 These can be a great avenue for funding.
 
-Below is a list of hackathons Radicle has sponsored in the past:
+Below is a list of hackathons Radworks has sponsored in the past:
 
 - [ETHGlobal](https://online.ethglobal.com/)
 - [Ceramic - Sovereign Data Hackathon](https://gitcoin.co/hackathon/ceramic-identity/onboard)
 
 ## Useful Links
 
-| <img src="src/twitter_logo.png?s=50" width="50"> | <img src="src/discord_logo.png?s=50" width="50"> | <img src="src/radicle_text_logo.png?s=50" width="50"> | <img src="src/matrix_logo.svg?s=50" width="50"> | <img src="src/telegram_logo.svg?s=50" width="50"> | <img src="src/radicle_logo.png?s=50" width="50"> | <img src="src/gnosis_logo.png?s=50" width="50"> |
+| <img src="src/twitter_logo.png?s=50" width="50"> | <img src="src/discord_logo.png?s=50" width="50"> | <img src="src/radicle_text_logo.png?s=50" width="50"> | <img src="src/matrix_logo.svg?s=50" width="50"> | <img src="src/telegram_logo.svg?s=50" width="50"> | <img src="src/gnosis_logo.png?s=50" width="50"> |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [@radicle](https://twitter.com/radicle)  | [Discord](https://discord.com/invite/HRdnwAwGbG) | [Discourse](https://radicle.community/) | [Matrix](https://matrix.radicle.community/) | [Telegram](https://t.me/radicleworld) | [Radicle Org](https://app.radicle.network/orgs/0x8e9c37cc9a8fbb96400954c1ef2b351176fe0803) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
+| [@radworks_](https://twitter.com/radworks_)  | [Discord](https://discord.com/invite/HRdnwAwGbG) | [Discourse](https://community.radworks.org/) | [Matrix](https://matrix.community.radworks.org/) | [Telegram](https://t.me/radicleworld) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
 
 ## License
 

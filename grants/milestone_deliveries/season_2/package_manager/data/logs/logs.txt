@@ -16,7 +16,7 @@ Wrote up a rough draft for the final report for Milestone 1, including all 4 par
 -* started at 9:30AM. Stopped at 10:15AM. = 0.75 hr
 
 Read through the discussion thread on package security and summariezed my take-aways. I encouraged additional discussion.
-https://radicle.community/t/discussion-package-signing-security/3157/8
+https://community.radworks.org/t/discussion-package-signing-security/3157/8
 
 12/19
 -* started at 2:15PM. Stopped at 3:45PM. = 1.5 hr
@@ -42,7 +42,7 @@ I'll give the above some time to stew before I edit it into a response.
 -* started at 6:15AM. Stopped at 7:15AM. = 1 hr
 
 Read through Yorgos response to my forum thread:
-https://radicle.community/t/discussion-package-signing-security/3157/5
+https://community.radworks.org/t/discussion-package-signing-security/3157/5
 - I need to understand the 'Collaborative Object' is more detail. The conceps in the referenced in the thread do not give a clear picture to me as to how it solves the issue of signed package and avoiding supply chain attacks. From reading that previous thread, I don't understand:
   - How does a package consumer verify the signature? (or verify that the package has not been tampered with)
   - How would the package signing be integrated into a Radicle workflow?
@@ -73,7 +73,7 @@ I need to post my latest article to the Radicle forum, and solicit input on the 
 
 
 I created this article on the Radicle discussion forum:
-https://radicle.community/t/discussion-package-signing-security/3157
+https://community.radworks.org/t/discussion-package-signing-security/3157
 
 
 
@@ -178,7 +178,7 @@ I created a Power Point slide show outline for a screencast I'll record tomorrow
 -* started at 3:30PM. Stopped at 4:15PM. = 0.75 hr
 
 Re-reviewing this Discussion thread in light of my self-education around package signing options:
-https://radicle.community/t/software-releases-on-radicle/2786/27
+https://community.radworks.org/t/software-releases-on-radicle/2786/27
 - 'Releases' are:
   - Tags
   - Binaries
@@ -400,10 +400,10 @@ https://docs.npmjs.com/about-packages-and-modules
 The first 10% ($1,200) of the grant came through. Reviewing additional threads on the forum that everyone suggest I read.
 
 package manager grant application:
-https://radicle.community/t/grant-application-package-manager/3122/4?u=bordumb
+https://community.radworks.org/t/grant-application-package-manager/3122/4?u=bordumb
 
 "Software releases on Radicle" thread:
-https://radicle.community/t/software-releases-on-radicle/2786
+https://community.radworks.org/t/software-releases-on-radicle/2786
 - This thread tries to reach consensus on what makes a 'release'. General consensus is that any Git tag can be a release. And the release can be made more official by including signing from one or more people.
 
 Scope of this first milestone (and payment) is npm compatibility. So the goal is to generate an npm package from a Radicle code repository, and then disect the result in order to understand how a raw repository is turned into an NPM package.
@@ -414,7 +414,7 @@ Scope of this first milestone (and payment) is npm compatibility. So the goal is
 
 Creating a radicle grant for the package-manager that I discussed with the team this morning.
 
-Grants Discourse post: https://radicle.community/t/readme-applying-for-a-radicle-grant-start-here/2646
+Grants Discourse post: https://community.radworks.org/t/readme-applying-for-a-radicle-grant-start-here/2646
 
 Reading through Radworks Grants repo: https://github.com/radicle-dev/radicle-grants
 
