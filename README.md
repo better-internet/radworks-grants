@@ -184,4 +184,4 @@ Below is a list of hackathons Radworks has sponsored in the past:
 
 ## License
 
-[MIT Licence](https://github.com/radicle-dev/radicle-grants/blob/main/LICENSE) © Radicle
+[MIT Licence](https://github.com/radicle-dev/radicle-grants/blob/main/LICENSE) © Radworks
