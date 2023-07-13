@@ -11,13 +11,13 @@ These are notes describing our process for voting on (and thus funding) projects
 ### Voting Types
 
 There are 2 types of votes:
-1. Badge Votes (off-chain): this includes Radicle Grants Org Team Members - who hold a _Team Member Badge_ - and Grantees - who hold a _Grantee Badge_. Both badge types confer the same voting power: 1 badge, 1 vote. These are used for off-chain voting to collect broad input from all badge holders within the Grants community.
-2. Multi-Sig Votes (on-chain): this includes Radicle Grants Org Team Members. These votes are meant to finalize decisions, which generally means sending funds to Grantees. In general, we will aim to match our votes to upstream Badge Votes, but may use our votes as a final check or veto.
+1. Badge Votes (off-chain): this includes Radworks Grants Org Team Members - who hold a _Team Member Badge_ - and Grantees - who hold a _Grantee Badge_. Both badge types confer the same voting power: 1 badge, 1 vote. These are used for off-chain voting to collect broad input from all badge holders within the Grants community.
+2. Multi-Sig Votes (on-chain): this includes Radworks Grants Org Team Members. These votes are meant to finalize decisions, which generally means sending funds to Grantees. In general, we will aim to match our votes to upstream Badge Votes, but may use our votes as a final check or veto.
 
 ### Voting Stages
 
 There are 2 stages to voting on proposals, in order:
-1. Badge Vote: anyone who holds a Radicle Grants Badge may vote on off-chain proposals via [Snapshot](https://snapshot.org/#/radiclegrants.eth).
+1. Badge Vote: anyone who holds a Radworks Grants Badge may vote on off-chain proposals via [Snapshot](https://snapshot.org/#/radiclegrants.eth).
 2. Multi-Sig Vote: final on-chain votes that approve and send funds for any proposals.
 
 ### Voting Philosophy 
@@ -38,5 +38,5 @@ So adding this upstream step of off-chain voting will allow for us to collect st
 
 ## Useful Links
 
-* Radicle Grants OtterSpace Community: https://beta.otterspace.xyz/communities/75
-* Radicle Grants Snapshot Page: https://snapshot.org/#/radiclegrants.eth
+* Radworks Grants OtterSpace Community: https://beta.otterspace.xyz/communities/75
+* Radworks Grants Snapshot Page: https://snapshot.org/#/radiclegrants.eth

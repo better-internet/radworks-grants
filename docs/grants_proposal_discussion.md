@@ -1,8 +1,8 @@
-> The official structured discussion for the Radicle Grants Program proposal. With this post, the proposal has entered the second phase of the governance process. Please review the drafted proposal and contribute feedback by **Wednesday, October 20th**
+> The official structured discussion for the Radworks Grants Program proposal. With this post, the proposal has entered the second phase of the governance process. Please review the drafted proposal and contribute feedback by **Wednesday, October 20th**
 
 # **Functional Description**
 
-The proposal is to start the Radicle Grants Program (RGP). The purpose of which will be to collect, assess, approve, and fund solutions to problems within the Radicle ecosystem.
+The proposal is to start the Radworks Grants Program (RGP). The purpose of which will be to collect, assess, approve, and fund solutions to problems within the Radicle ecosystem.
 
 In other words, the aim is to directly support open source initiatives that help grow the Radicle product, community, and the greater Free and Open Source Software (FOSS) and Web3 community at large.
 
@@ -45,7 +45,7 @@ This group will act as signers of the RGP Org's [multi-sig](https://docs.radicle
 
 The multi-sig votes here will act as both approval of grants as well as the funding of grant projects.
 
-The Radicle Grants Committee is made up of core Radicle team members, Radicle community members, and outside folks who have some related domain expertise within the web3 ecosystem.
+The Radworks Grants Committee is made up of core Radicle team members, Radicle community members, and outside folks who have some related domain expertise within the web3 ecosystem.
 
 Members include:
 
@@ -108,7 +108,7 @@ Radicle.
 
 RFPs will be the main source of project ideas. RFPs can come from core Radicle members or can be written by users and other community members (e.g. a feature request that another platform's team is keen to have). RFPs from community members must follow the same format as the format established by Radicle. They cannot be free-form. And the more technical details, the better.
 
-We expect that in Wave 1 of the Radicle Grants Program, most RFPs will come from the core Radicle team. Over time, the line between core member based RFPs and community RFPs should blur. This will be a key part of Radicle's progressive decentralization. Canonical RFPs will be organized within RGP's Org in its own Project. Copies will be made available elsewhere, such as mirroring on GitHub, blog posts, etc. Budget Estimates will be made at this point.
+We expect that in Wave 1 of the Radworks Grants Program, most RFPs will come from the core Radicle team. Over time, the line between core member based RFPs and community RFPs should blur. This will be a key part of Radicle's progressive decentralization. Canonical RFPs will be organized within RGP's Org in its own Project. Copies will be made available elsewhere, such as mirroring on GitHub, blog posts, etc. Budget Estimates will be made at this point.
 
 ### Scope
 
@@ -268,7 +268,7 @@ Communications will be key and made fairly uniform and consistent. The major ste
 As Radicle-based RFPs become available, they should be posted with their budget through the following channels:
 
 - Twitter + other social
-- RFP + budgets posted on GitHub, Radicle Grants Program's repo, Blog, and the [#garden channel on Discord](https://discord.gg/AejcRxNJ)
+- RFP + budgets posted on GitHub, Radworks Grants Program's repo, Blog, and the [#garden channel on Discord](https://discord.gg/AejcRxNJ)
 
 For community-based RFPs, they will be posted if they pass the initial screening.
 
@@ -297,7 +297,7 @@ The purpose of this entire exercise comes down to three main goals.
 
 First and foremost is **progressive decentralization**. Radicle is meant to enable the decentralization of governance and contributions to FOSS. So Radicle itself should be self-governed, self-funded, and self-built for and by the Radicle community. This also aligns with the third high-level objective of the Radicle Foundation,
 
-Second is that the **team growth** of contributors will mean **product growth**. There is a natural limit to what the Core Dev Team can develop, so new contributors will mean more attention to more features, an improved experience for users, and more innovation. The Radicle Grants Program won't just be a space for peripheral tasks. It will also be a part of Radicle's own recruiting pipeline to bring on new core members.
+Second is that the **team growth** of contributors will mean **product growth**. There is a natural limit to what the Core Dev Team can develop, so new contributors will mean more attention to more features, an improved experience for users, and more innovation. The Radworks Grants Program won't just be a space for peripheral tasks. It will also be a part of Radicle's own recruiting pipeline to bring on new core members.
 
 Lastly, the RGP will become a **model for all DAOs**. It will be a model for building self-sustaining, open source projects, DAO-funded project development, as well as DAO-to-DAO (D2D) "business". The RGP will become a hub for sharing best practices around organizing and funding projects, as well as how best to use Radicle to drive governance and development for FOSS. It will do this in a more codified, automated, and in an on-chain way that only Radicle can do.
 
@@ -313,7 +313,7 @@ https://radicle.community/t/radicle-2021-strategy-objectives/2424#high-level-obj
 
 Radicle is currently run by a couple dozen core members.
 
-The Radicle Grants Program will be a major towards progressive decentralization.
+The Radworks Grants Program will be a major towards progressive decentralization.
 
 The reasoning behind starting a grants program is to add structure, process, and automation to the onboarding of new contributors, all of which is powered by Radicle's software itself. This will help us put our best foot forward in decentralizing Radicle.
 
@@ -351,7 +351,7 @@ At the end of the 6 months, a new grants wave must be announced, go through [the
 
 (Note: summarized from _Implementation & Setup_ above)
 
-The Radicle Grants Program will have its own Org, with a structure like below:
+The Radworks Grants Program will have its own Org, with a structure like below:
 
 ```bash
 RGP-ORG

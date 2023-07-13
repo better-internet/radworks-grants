@@ -39,12 +39,12 @@ The process below covers setting up an Org/Sub-DAO's admin account, community pa
 * Confirm the transaction in your wallet. If using a Gnosis Safe, you'll confirm this back in the _Apps_ -> _Wallet Connect_ app page.
 * Share claim link to your contributors ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/sharing-the-badge-claim-link-with-members)).
 
-### OtterSpace x Radicle Grants x Snapshot Votes
+### OtterSpace x Radworks Grants x Snapshot Votes
 * Create a Snapshot page for your sub-DAO on Optimism network ([Snapshot Docs](https://docs.snapshot.org/spaces/create)).
-  * Radicle Grants: https://snapshot.org/#/radiclegrants.eth
+  * Radworks Grants: https://snapshot.org/#/radiclegrants.eth
 * Go to _Settings_ -> _Strategie(s)_, and add a policy for OtterSpace badges ([OtterSpace docs](https://docs.otterspace.xyz/your-guide-to-otterspace/using-otterspace-badges-with-snapshot) / [Snapshot Docs](https://docs.snapshot.org/strategies/what-is-a-strategy)).
 
-Below is what the strategy for the Radicle Grants Org (RGO) looks like.
+Below is what the strategy for the Radworks Grants Org (RGO) looks like.
 
 In plain English, it says:
 * This is a `BADGES` voting policy for Raft Token `75` (the RGO OtterSpace community).

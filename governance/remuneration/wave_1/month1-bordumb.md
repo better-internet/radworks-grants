@@ -2,7 +2,7 @@
 
 ## Hours worked
 20 hrs: 
-* Initial setup of the Radicle Grants Program repo
+* Initial setup of the Radworks Grants Program repo
 * https://github.com/radicle-dev/radicle-grants/pull/1
 * https://github.com/radicle-dev/radicle-grants/pull/3
 * https://github.com/radicle-dev/radicle-grants/pull/4
