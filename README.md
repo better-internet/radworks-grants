@@ -98,6 +98,7 @@ code, the core development team is available to answer questions via [Discord](h
 This group will act as signers of the Radworks Grant Program's multi-sig, which will ultimately fund projects.
 
 The Radworks Grants Committee is made up of core Radworks team members, Radworks community members, and outside folks who
+
 have some sort of related domain expertise.
 
 - **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radworks Community)
@@ -181,6 +182,7 @@ Below is a list of hackathons Radworks has sponsored in the past:
 | <img src="src/twitter_logo.png?s=50" width="50"> | <img src="src/discord_logo.png?s=50" width="50"> | <img src="src/radicle_text_logo.png?s=50" width="50"> | <img src="src/matrix_logo.svg?s=50" width="50"> | <img src="src/telegram_logo.svg?s=50" width="50"> | <img src="src/gnosis_logo.png?s=50" width="50"> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [@radworks_](https://twitter.com/radworks)  | [Discord](https://discord.com/invite/HRdnwAwGbG) | [Discourse](https://radicle.community/) | [Matrix](https://matrix.radicle.community/) | [Telegram](https://t.me/radicleworld) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
+
 
 ## License
 
