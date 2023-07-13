@@ -98,6 +98,7 @@ code, the core development team is available to answer questions via [Discord](h
 This group will act as signers of the Radworks Grant Program's multi-sig, which will ultimately fund projects.
 
 The Radworks Grants Committee is made up of core Radworks team members, Radworks community members, and outside folks who
+
 have some sort of related domain expertise.
 
 - **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radworks Community)
