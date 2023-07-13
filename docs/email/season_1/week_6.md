@@ -1,4 +1,4 @@
-# Radicle Grants
+# Radworks Grants
 
 ## 🌱 Seed Grants 
 

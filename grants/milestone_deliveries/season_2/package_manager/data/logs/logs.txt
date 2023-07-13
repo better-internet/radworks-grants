@@ -416,7 +416,7 @@ Creating a radicle grant for the package-manager that I discussed with the team 
 
 Grants Discourse post: https://radicle.community/t/readme-applying-for-a-radicle-grant-start-here/2646
 
-Reading through Radicle Grants repo: https://github.com/radicle-dev/radicle-grants
+Reading through Radworks Grants repo: https://github.com/radicle-dev/radicle-grants
 
 11/7
 

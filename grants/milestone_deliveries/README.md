@@ -1,4 +1,4 @@
-# Radicle Grant Milestone Delivery <!-- omit in toc -->
+# Radworks Grant Milestone Delivery <!-- omit in toc -->
 
 > **:loudspeaker:** This section is only for submitting finished milestones for the [Radicle Foundation Grants Program](https://github.com/radicle-dev/radicle-grants).
 
@@ -6,7 +6,7 @@
 
 ## :mailbox: Milestone Delivery Process
 
-The milestone delivery process is part of the [Radicle Grants Program](https://github.com/radicle-dev/radicle-grants). You can find the application process [here](https://github.com/radicle-dev/radicle-grants/tree/main/grants).  
+The milestone delivery process is part of the [Radworks Grants Program](https://github.com/radicle-dev/radicle-grants). You can find the application process [here](https://github.com/radicle-dev/radicle-grants/tree/main/grants).  
 
 :warning: Before you submit a milestone, make sure it complies with our [Guidelines for Milestone Deliverables](https://github.com/radicle-dev/radicle-grants/blob/main/docs/deliverables_guideline.md).
 

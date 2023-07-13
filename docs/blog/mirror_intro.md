@@ -1,12 +1,12 @@
-# Radicle Grants: Funding Open Source to Grow Open Source 🌱
+# Radworks Grants: Funding Open Source to Grow Open Source 🌱
 
-On Monday, January 10, the Radicle community voted to fund the first wave of the Radicle Grants Program. With six months and a $1M budget, the Radicle Grants Program will fund contributions that improve the Radicle ecosystem, and in turn, improve tooling for decentralized, open-source collaboration.
+On Monday, January 10, the Radworks community voted to fund the first wave of the Radworks Grants Program. With six months and a $1M budget, the Radworks Grants Program will fund contributions that improve the Radworks ecosystem, and in turn, improve tooling for decentralized, open-source collaboration.
 
-With these Treasury-funded community grants, we believe we are planting the first seeds of will grow to become a new model for funding open source. The aim is to directly support open source initiatives that help grow the Radicle product, the Radicle community, and the greater FOSS and Web3 community at large.
+With these Treasury-funded community grants, we believe we are planting the first seeds of will grow to become a new model for funding open source. The aim is to directly support open source initiatives that help grow the Radicle product, the Radworks community, and the greater FOSS and Web3 community at large.
 
 In essence: funding open source to grow open source.
 
-The Grants program will be managed by a committee made up of Radicle community members:
+The Grants program will be managed by a committee made up of Radworks community members:
 
 - *Grants Lead:* [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
 - [Abbey Titcomb](https://twitter.com/abbey_titcomb) (Core Team)
@@ -15,7 +15,7 @@ The Grants program will be managed by a committee made up of Radicle community m
 - [Nassar Hayat](https://twitter.com/nassarhayat) (Core Team)
 - [Reverie](https://twitter.com/hi_reverie) (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radicle Community)
 
-This group will act as signers of the [Radicle Grant Program's multi-sig](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances), which will ultimately fund projects. All Radicle Grants operations & budgets will be publicly managed and hosted on Radicle via the [grants.radicle.eth](https://app.radicle.network/orgs/grants.radicle.eth) org. The repositories are also [mirrored on GitHub](https://github.com/radicle-dev/radicle-grants).
+This group will act as signers of the [Radworks Grant Program's multi-sig](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances), which will ultimately fund projects. All Radworks Grants operations & budgets will be publicly managed and hosted on Radicle via the [grants.radicle.eth](https://app.radicle.network/orgs/grants.radicle.eth) org. The repositories are also [mirrored on GitHub](https://github.com/radicle-dev/radicle-grants).
 
 ## How do I apply for a grant?
 
@@ -34,7 +34,7 @@ If you don't want to work on a grant, but have an idea, feel free to create an [
 
 ## What is the scope of these grants?
 
-We are open to anything that improves the Radicle ecosystem or the greater FOSS and Web3 community at large.
+We are open to anything that improves the Radworks ecosystem or the greater FOSS and Web3 community at large.
 
 Generally speaking, we have two categories of grants:
 

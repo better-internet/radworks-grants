@@ -43,7 +43,7 @@ Both may be approved to start on the same date, at which point you will receive 
 
 ## FAQs
 
-*Q: Does the Radicle Grant Program assist with taxes involved in payments?*
+*Q: Does the Radworks Grant Program assist with taxes involved in payments?*
 
 A: No. Any tax or other compliance is the responsibility of the grantee.
 

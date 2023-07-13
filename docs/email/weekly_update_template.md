@@ -1,4 +1,4 @@
-# Radicle Grants
+# Radworks Grants
 
 * Wave: 1
 * Week: 1

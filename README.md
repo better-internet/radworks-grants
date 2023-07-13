@@ -1,4 +1,4 @@
-# Radicle Grants Program
+# Radworks Grants Program
 
 - [Introduction](#introduction)
   - [Guidelines](#guidelines)
@@ -17,7 +17,7 @@
 If you're reading this, you're as interested as we are in promoting Free and Open Source Software (FOSS) and the
 ever growing Web3 ecosystem.
 
-This page will cover the basics of the Radicle Grants Program's ethos, application processes, and structure.
+This page will cover the basics of the Radworks Grants Program's ethos, application processes, and structure.
 
 ### Guidelines
 
@@ -78,7 +78,7 @@ channels.
 
 ### Support
 
-The scope of Radicle Grants includes the following:
+The scope of Radworks Grants includes the following:
 
 - Feedback before/during the application process
 - Funding
@@ -93,11 +93,11 @@ code, the core development team is available to answer questions via [Discord](h
 
 ### Team
 
-#### Radicle Grants Committee
+#### Radworks Grants Committee
 
-This group will act as signers of the Radicle Grant Program's multi-sig, which will ultimately fund projects.
+This group will act as signers of the Radworks Grant Program's multi-sig, which will ultimately fund projects.
 
-The Radicle Grants Committee is made up of core Radicle team members, Radicle community members, and outside folks who
+The Radworks Grants Committee is made up of core Radicle team members, Radworks community members, and outside folks who
 have some sort of related domain expertise.
 
 - **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
