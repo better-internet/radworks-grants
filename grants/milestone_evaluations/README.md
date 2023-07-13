@@ -1,4 +1,4 @@
-# Radicle Grant Milestone Evaluations <!-- omit in toc -->
+# Radworks Grant Milestone Evaluations <!-- omit in toc -->
 
 > **:loudspeaker:** This section is only for submitting evaluations of finished milestones for the [Radicle Foundation Grants Program](https://github.com/radicle-dev/radicle-grants).
 

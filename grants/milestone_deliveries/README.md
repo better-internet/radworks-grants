@@ -1,4 +1,4 @@
-# Radicle Grant Milestone Delivery <!-- omit in toc -->
+# Radworks Grant Milestone Delivery <!-- omit in toc -->
 
 > **:loudspeaker:** This section is only for submitting finished milestones for the [Radicle Foundation Grants Program](https://github.com/radicle-dev/radicle-grants).
 

@@ -1,4 +1,4 @@
-# Radicle Grant Application <!-- omit in toc -->
+# Radworks Grant Application <!-- omit in toc -->
 
 > **:loudspeaker:** This section is only for applying to the [Radicle Foundation Grants Program](https://github.com/radicle-dev/radicle-grants).
 

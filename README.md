@@ -95,9 +95,9 @@ code, the core development team is available to answer questions via [Discord](h
 
 #### Radworks Grants Committee
 
-This group will act as signers of the Radicle Grant Program's multi-sig, which will ultimately fund projects.
+This group will act as signers of the Radworks Grant Program's multi-sig, which will ultimately fund projects.
 
-The Radworks Grants Committee is made up of core Radicle team members, Radicle community members, and outside folks who
+The Radworks Grants Committee is made up of core Radicle team members, Radworks community members, and outside folks who
 have some sort of related domain expertise.
 
 - **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)

@@ -25,7 +25,7 @@ There are 2 stages to voting on proposals, in order:
 The reason for introducing Badge Votes is two-fold.
 
 #### Decentralize Voting Power 
-Adding Grantees into the mix should, over time, add a large multiplier to our ability to review and decide on what is valuable to the community of builders within the Radicle ecosystem.
+Adding Grantees into the mix should, over time, add a large multiplier to our ability to review and decide on what is valuable to the community of builders within the Radworks ecosystem.
 
 As a thought experiment, let's imagine that 2 years from now we've funded 100 separate Grantees, each with their own Badge Vote. If 5% (or 5 Badge holders) of them remain active participants in our community, this will mean essentially doubling the number of people reviewing and providing feedback for our Grants processes. 
 
