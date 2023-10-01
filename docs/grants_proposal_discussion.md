@@ -1,8 +1,8 @@
-> The official structured discussion for the Radicle Grants Program proposal. With this post, the proposal has entered the second phase of the governance process. Please review the drafted proposal and contribute feedback by **Wednesday, October 20th**
+> The official structured discussion for the Radworks Grants Program proposal. With this post, the proposal has entered the second phase of the governance process. Please review the drafted proposal and contribute feedback by **Wednesday, October 20th**
 
 # **Functional Description**
 
-The proposal is to start the Radicle Grants Program (RGP). The purpose of which will be to collect, assess, approve, and fund solutions to problems within the Radicle ecosystem.
+The proposal is to start the Radworks Grants Program (RGP). The purpose of which will be to collect, assess, approve, and fund solutions to problems within the Radworks ecosystem.
 
 In other words, the aim is to directly support open source initiatives that help grow the Radicle product, community, and the greater Free and Open Source Software (FOSS) and Web3 community at large.
 
@@ -21,13 +21,13 @@ Grant funding and compensation will start out simple, controlled by RGP's multi-
 
 **A fundamental goal with the RGP is to dogfood Radicle in order to build a web3-wide model for sustainable software development.** This comes down to 3 main uses of Radicle:
 
-The RGP Committee will be its own [Org](https://radicle.community/t/feature-update-orgs/2132).
+The RGP Committee will be its own [Org](https://community.radworks.org/t/feature-update-orgs/2132).
 Committee members will be added as [members of the Org](https://docs.radicle.xyz/docs/connecting-to-ethereum/adding-members).
 
 Grantees post work to relevant [Projects](https://docs.radicle.xyz/docs/using-radicle/creating-projects) within Radicle's core codebase for assessment by Core Dev maintainers. This workflow would be handled with [forks + patches](https://docs.radicle.xyz/docs/using-radicle/viewing-and-merging-patches) with the final anchored commits acting as the "proof of work" for grantees.
 
 Finally, once Radicle Funding is ready, RGP's Org could pay out to grantee Orgs for their work via
-[Drips](https://radicle.community/t/feedback-on-nft-community-tokens/2455).
+[Drips](https://community.radworks.org/t/feedback-on-nft-community-tokens/2455).
 
 Below is a high-level diagram of the proposed framework.
 
@@ -45,7 +45,7 @@ This group will act as signers of the RGP Org's [multi-sig](https://docs.radicle
 
 The multi-sig votes here will act as both approval of grants as well as the funding of grant projects.
 
-The Radicle Grants Committee is made up of core Radicle team members, Radicle community members, and outside folks who have some related domain expertise within the web3 ecosystem.
+The Radworks Grants Committee is made up of core Radicle team members, Radworks community members, and outside folks who have some related domain expertise within the web3 ecosystem.
 
 Members include:
 
@@ -84,9 +84,9 @@ The Core Development Team may at any time join the process to give feedback or g
 
 As mentioned in the forums, the Radicle Governance Working Group decided it would be best to hire a Grants Lead to create and manage the RGP.
 
-https://radicle.community/t/looking-for-a-radicle-grants-program-lead/2489
+https://community.radworks.org/t/looking-for-a-radicle-grants-program-lead/2489
 
-After applying, I was chosen to lead the program by the RGWP. I've already introduced myself a bit in [the application here](https://radicle.community/t/looking-for-a-radicle-grants-program-lead/2489).
+After applying, I was chosen to lead the program by the RGWP. I've already introduced myself a bit in [the application here](https://community.radworks.org/t/looking-for-a-radicle-grants-program-lead/2489).
 
 The Grants Lead will be responsible for the following:
 
@@ -97,7 +97,7 @@ The Grants Lead will be responsible for the following:
 - Planning milestones/check-ins: milestones expected to be written by the grant candidates in their application. The Grant Lead will be responsible to have regular check-ins, depending on the tier of the project (see tiers below)
 - Multi-Sig voting: the Grant Lead will communicate to relevant Committee Members when a vote for finalized work is in order.
 
-The core goal of the Grants Lead is to scale the progressive decentralization of contributions to the Radicle ecosystem.
+The core goal of the Grants Lead is to scale the progressive decentralization of contributions to the Radworks ecosystem.
 
 ## **Program Structure & Process**
 
@@ -108,7 +108,7 @@ Radicle.
 
 RFPs will be the main source of project ideas. RFPs can come from core Radicle members or can be written by users and other community members (e.g. a feature request that another platform's team is keen to have). RFPs from community members must follow the same format as the format established by Radicle. They cannot be free-form. And the more technical details, the better.
 
-We expect that in Wave 1 of the Radicle Grants Program, most RFPs will come from the core Radicle team. Over time, the line between core member based RFPs and community RFPs should blur. This will be a key part of Radicle's progressive decentralization. Canonical RFPs will be organized within RGP's Org in its own Project. Copies will be made available elsewhere, such as mirroring on GitHub, blog posts, etc. Budget Estimates will be made at this point.
+We expect that in Wave 1 of the Radworks Grants Program, most RFPs will come from the core Radicle team. Over time, the line between core member based RFPs and community RFPs should blur. This will be a key part of Radicle's progressive decentralization. Canonical RFPs will be organized within RGP's Org in its own Project. Copies will be made available elsewhere, such as mirroring on GitHub, blog posts, etc. Budget Estimates will be made at this point.
 
 ### Scope
 
@@ -210,7 +210,7 @@ Grantees will use the Project ID and anchored commit as "proof of work" for fina
 
 > **Note**
 >
-> In the short-term (i.e. this first grant wave) Grantees can expect some flexibility to this process. For example, we will allow you to post your final draft to GitHub for assessment. But we will still end up forking it ourselves to bring it into the Radicle Grant Program's own Org.
+> In the short-term (i.e. this first grant wave) Grantees can expect some flexibility to this process. For example, we will allow you to post your final draft to GitHub for assessment. But we will still end up forking it ourselves to bring it into the Radworks Grant Program's own Org.
 
 **Non-Technical Work**
 
@@ -268,7 +268,7 @@ Communications will be key and made fairly uniform and consistent. The major ste
 As Radicle-based RFPs become available, they should be posted with their budget through the following channels:
 
 - Twitter + other social
-- RFP + budgets posted on GitHub, Radicle Grants Program's repo, Blog, and the [#garden channel on Discord](https://discord.gg/AejcRxNJ)
+- RFP + budgets posted on GitHub, Radworks Grants Program's repo, Blog, and the [#garden channel on Discord](https://discord.gg/AejcRxNJ)
 
 For community-based RFPs, they will be posted if they pass the initial screening.
 
@@ -295,9 +295,9 @@ As grants are approved on a rolling basis,
 
 The purpose of this entire exercise comes down to three main goals.
 
-First and foremost is **progressive decentralization**. Radicle is meant to enable the decentralization of governance and contributions to FOSS. So Radicle itself should be self-governed, self-funded, and self-built for and by the Radicle community. This also aligns with the third high-level objective of the Radicle Foundation,
+First and foremost is **progressive decentralization**. Radicle is meant to enable the decentralization of governance and contributions to FOSS. So Radicle itself should be self-governed, self-funded, and self-built for and by the Radworks community. This also aligns with the third high-level objective of the Radicle Foundation,
 
-Second is that the **team growth** of contributors will mean **product growth**. There is a natural limit to what the Core Dev Team can develop, so new contributors will mean more attention to more features, an improved experience for users, and more innovation. The Radicle Grants Program won't just be a space for peripheral tasks. It will also be a part of Radicle's own recruiting pipeline to bring on new core members.
+Second is that the **team growth** of contributors will mean **product growth**. There is a natural limit to what the Core Dev Team can develop, so new contributors will mean more attention to more features, an improved experience for users, and more innovation. The Radworks Grants Program won't just be a space for peripheral tasks. It will also be a part of Radicle's own recruiting pipeline to bring on new core members.
 
 Lastly, the RGP will become a **model for all DAOs**. It will be a model for building self-sustaining, open source projects, DAO-funded project development, as well as DAO-to-DAO (D2D) "business". The RGP will become a hub for sharing best practices around organizing and funding projects, as well as how best to use Radicle to drive governance and development for FOSS. It will do this in a more codified, automated, and in an on-chain way that only Radicle can do.
 
@@ -307,19 +307,19 @@ The RGP is also an initiative that contributes to two of the Radicle Foundation'
 
 4. Strengthen the core teams #people
 
-https://radicle.community/t/radicle-2021-strategy-objectives/2424#high-level-objectives-2
+https://community.radworks.org/t/radicle-2021-strategy-objectives/2424#high-level-objectives-2
 
 # **Background** (what is the reasoning behind the proposal?)
 
 Radicle is currently run by a couple dozen core members.
 
-The Radicle Grants Program will be a major towards progressive decentralization.
+The Radworks Grants Program will be a major towards progressive decentralization.
 
 The reasoning behind starting a grants program is to add structure, process, and automation to the onboarding of new contributors, all of which is powered by Radicle's software itself. This will help us put our best foot forward in decentralizing Radicle.
 
 # **Link to Temperature Check**
 
-https://radicle.community/t/temperature-check-radicle-grants-program/2461/8
+https://community.radworks.org/t/temperature-check-radicle-grants-program/2461/8
 
 # **Reasoning & analysis** (what is the case for the proposal? what are the pros and cons?)
 
@@ -345,13 +345,13 @@ Cons
 - At the end of the period, the money should be sent back to the Treasury
 - Would need someone from Core Dev Team + Treasury to implement this
 
-At the end of the 6 months, a new grants wave must be announced, go through [the normal governance process](https://radicle.community/t/readme-radicle-governance-process/526).
+At the end of the 6 months, a new grants wave must be announced, go through [the normal governance process](https://community.radworks.org/t/readme-radicle-governance-process/526).
 
 ### Execution of Grant Work
 
 (Note: summarized from _Implementation & Setup_ above)
 
-The Radicle Grants Program will have its own Org, with a structure like below:
+The Radworks Grants Program will have its own Org, with a structure like below:
 
 ```bash
 RGP-ORG

@@ -2,7 +2,7 @@
 
 ## Hours worked
 20 hrs: 
-* Initial setup of the Radicle Grants Program repo
+* Initial setup of the Radworks Grants Program repo
 * https://github.com/radicle-dev/radicle-grants/pull/1
 * https://github.com/radicle-dev/radicle-grants/pull/3
 * https://github.com/radicle-dev/radicle-grants/pull/4
@@ -57,16 +57,16 @@
 * Tested Drips (https://etherscan.io/tx/0xa65b08b47902e2abb83b3b164eeba28724de7da587bb5784a4ad9bbc06577d5f)
 
 30 min:
-* 1:1 call with Grantee + review (https://radicle.community/t/ethanglia-0-to-web3/2688/9)
+* 1:1 call with Grantee + review (https://community.radworks.org/t/ethanglia-0-to-web3/2688/9)
 
 15 min:
-* Grant Review + funding setup (https://radicle.community/t/learnweb3-dao-grant-application/2697)
+* Grant Review + funding setup (https://community.radworks.org/t/learnweb3-dao-grant-application/2697)
 
 15 min:
-* Milestone Review (https://radicle.community/t/learnweb3-dao-grant-application/2697/8)
+* Milestone Review (https://community.radworks.org/t/learnweb3-dao-grant-application/2697/8)
 
 30 min:
-* Grant Review (https://radicle.community/t/application-radicle-ide-plugins-ux-design/2728/6)
+* Grant Review (https://community.radworks.org/t/application-radicle-ide-plugins-ux-design/2728/6)
 
 Total hours: 30.5
 

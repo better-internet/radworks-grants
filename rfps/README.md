@@ -12,6 +12,6 @@ If you would like any addition to the ecosystem, please do the following:
 - Create a branch with the name of your RFP (e.g. `git checkout -b rfp-myModule`)
 - Duplicate the `template.md` file and rename it to reflect your RFP's content (e.g. `myModule.md`)
 - Start a PR for review
-- Post the finalized RFP to the [Radicle Grants Discourse](https://radicle.community/c/grants/24) for public discussion and applications
+- Post the finalized RFP to the [Radworks Grants Discourse](https://community.radworks.org/c/grants/24) for public discussion and applications
 
 Or if you are less technically inclined, feel free to just copy/paste the content, fill it in, and email to <bordumbb@gmail.com>.

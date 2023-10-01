@@ -1,0 +1,471 @@
+Below are logs of the time I spent on this project, and notes I took while conducting research and interviews.
+
+
+
+1/6
+-* started at 3:30PM. Stopped at 5:30PM. = 2 hrs
+
+Worked on Milestone 1 report.
+
+Part 3 and 4:
+- Link to the discussion thread
+
+Wrote up a rough draft for the final report for Milestone 1, including all 4 parts.
+
+1/2/23
+-* started at 9:30AM. Stopped at 10:15AM. = 0.75 hr
+
+Read through the discussion thread on package security and summariezed my take-aways. I encouraged additional discussion.
+https://community.radworks.org/t/discussion-package-signing-security/3157/8
+
+12/19
+-* started at 2:15PM. Stopped at 3:45PM. = 1.5 hr
+
+Left a question on the Discord heartwood channel to get more guidence on the Collaborative Object concept.
+
+Claimed the Optimism badge the Bordumb sent me.
+
+In the meantime, Cloudhead responded to the forum thread. Here are my brainstormed response:
+- At first I was like "Why didn't I think of that!" when he proposed that the checksum and package should go in the repository. But that does not solve the problem of *distribution*: If everything comes from the same place, then there is no need for a checksum.
+- So what is the problem I'm trying to solve? At this point, I'm not even sure.
+  - If the problem is 'distributing packages', then the problem is not solved by the proposed solution.
+  - If the problem is 'securly retrieving packages', then the problem is solved by simply getting the files from the Radicle repo, but that assumes the repo can be found.
+	- There is no supply-chain attacks because there is no supply chain.
+  - If the problem is 'availability of packages' then file-proxy can still be used to serve files in a way that Verdaccio can cache.
+- So using a combination of file-proxy and Verdaccio makes package retrieval from Radicle repositories both secure and available, assuming the consumer is not trusting a third-party hosting file-proxy.
+
+I'll give the above some time to stew before I edit it into a response.
+
+
+
+12/17
+-* started at 6:15AM. Stopped at 7:15AM. = 1 hr
+
+Read through Yorgos response to my forum thread:
+https://community.radworks.org/t/discussion-package-signing-security/3157/5
+- I need to understand the 'Collaborative Object' is more detail. The conceps in the referenced in the thread do not give a clear picture to me as to how it solves the issue of signed package and avoiding supply chain attacks. From reading that previous thread, I don't understand:
+  - How does a package consumer verify the signature? (or verify that the package has not been tampered with)
+  - How would the package signing be integrated into a Radicle workflow?
+ Is the 'Collaborative Object' an idea that has been worked on, but there just isn't any documentation for it yet? How can I learn more about this idea?
+
+Cloudhead dropped a link in the heartwood Discord channel, which Bordumb passed along to me. This is a very interesting TypeScript project that provides a workflow for signing npm packages:
+https://github.com/47ng/sceau
+
+Posted a response in the discussion thread.
+
+
+
+12/13
+-* started at 4:45PM. Stopped at 5:30PM. = 0.75 hr
+
+Cloudhead responded to my thread on security with some thoughtful notes.
+
+I responded with some additional focused questions.
+
+12/13
+-* started at 10:30AM. Stopped at 12:45PM. = 2.25 hr
+
+I need to post my latest article to the Radicle forum, and solicit input on the security reprecussions. Here is the main topics I want to get feedback on:
+
+- What I'm calling the 'Radicle security model' associates an identity with a git repository. So any files retrieved from that repository is securly attributable to that identity. Is this the correct way to think about it?
+- What do members think about package signing?
+  - Preface that question with links to supply chain attacks and npm's package signing workflow.
+
+
+I created this article on the Radicle discussion forum:
+https://community.radworks.org/t/discussion-package-signing-security/3157
+
+
+
+https://hackmd.io/8-VrEQhZQEqy9iJP4i-zhw
+
+https://github.blog/2022-12-06-new-npm-features-for-secure-publishing-and-safe-consumption/
+
+12/9
+-* started at 7AM. Stopped at 10:30AM. = 3.5 hrs
+
+Got some good feedback from Bordumb on the second video.
+
+Brainstorming an outline based on the video and on Bordumbs feedback:
+- What is Verdaccio & Why Integrate Radicle?
+- What Works
+  - Filecoin upload, but mention potential security concern.
+	- Potential partnership with Arweave
+  - file-proxy app
+- What Does Not Work
+  - git+https
+  - git archive --remote
+
+Wrote up a written summary of the results discussed in the video. I sent a link to Bordumb for early review. I plan to post this report to the Radicle forums to solicit ideas on the security implications, and the check the conclusions I'm drawing for errors.
+
+https://gist.github.com/christroutner/388e49be2bb3c736d65983d94b32fc60
+
+
+12/7
+-* started at 9:45AM. Stopped at 12:30PM. = 2.75 hr
+
+Running through outline to practice what I want to cover in the second video.
+
+Created video and uploaded to YouTube:
+https://youtu.be/8aF2febVy7A
+
+Verdaccio
+- sudo npm install -g verdaccio
+- sudo npm install -g pm2
+- which verdaccio
+- pm2 start /usr/bin/verdaccio
+- pm2 startup
+- pm2 save
+- npm set registry http://localhost:4873
+
+test-add
+- git clone https://pine.radicle.garden/hnrkp3yg4jiw9xs5w4dr8oe8dwziqj5ccdyeo.git
+- npm install - Show that verdaccio has no output because of default git+https URL
+
+git --archive:
+This fails with a timeout error, because git protocol is not supported? Whatever the reason, it fails with a timeout error.
+git archive -v --remote=git://pine.radicle.garden/hnrkcahyaj8apybx4p4px5h4r1r4y1fu7t6fy.git --depth=1 --format=zip --output=./example.zip master
+
+This fails with a fatal: operation not supported by protocol error because of the https:// prefix:
+git archive -v --remote=https://pine.radicle.garden/hnrkcahyaj8apybx4p4px5h4r1r4y1fu7t6fy.git --depth=1 --format=zip --output=./example.zip master
+
+Using the ssh:// prefix also fails.
+
+Filecoin:
+https://bafybeigatd6qj46j2lnym25qvdv6oc6c4tdtl4zdqsoteyzolgangtnooe.ipfs.w3s.link/ipfs/bafybeigatd6qj46j2lnym25qvdv6oc6c4tdtl4zdqsoteyzolgangtnooe/add-1.0.0.tgz
+
+File Proxy:
+https://github.com/christroutner/file-proxy
+http://localhost:5020/files/pine.radicle.garden/hnrkcahyaj8apybx4p4px5h4r1r4y1fu7t6fy/add-1.0.0.tgz
+
+
+
+12/6
+-* started at 2:30PM. Stopped at 4:15PM. = 1.75 hr
+
+Focusing today on setting up Verdaccio to integrate with the simple Radile file-proxy.
+
+Confirmed that the file-proxy app can work with Verdaccio, and that Verdaccio will cache the package.
+
+Redoing my brainstorm session for the report:
+
+Brainstorming on summary report & video:
+- Video 2: Integrating Radicle with Verdaccio
+- Start with part 4 (Verdaccio integration) and then explain parts 2 and 3 within the context of what is needed to make Verdaccio work. Use Verdaccio to segway into npm package signing.
+- Start by picking up where the first video left off. Show loading Verdaccio and show it not cacheing using the git+https format.
+- Also show the suggestion that cloudhead gave for getting files using the git --archive command.
+  - Show that Radicle only supports https and not ssh or git, so the --archive command does not work.
+- Show how I loaded the .tgz file to Filecoin.
+- Show that using the Filecoin URL in package.json will cause Verdaccio to cache it.
+  - Mention that the same thing is probably feasible with Areweave
+- Show the file-proxy app.
+  - Show the code that clones the repo and serves the file.
+  - Show how to retrieve a file using wget.
+  - Show how the URL works with npm and Verdaccio, and show that Verdaccio caches it.
+
+- Video 3: Package signing
+- Segway into Part 2 package signing: If Radicle developed the ability to download binaries, then the existing identity-repository framework could be applied to those binaries? This would leverage existing work.
+  - Good point to call out some of the discussion around security that's been had in Discord and GitHub.
+- ...?
+
+I need to spend some more time looking into Radicle repo signing and what that implies about the security of the files in that repo.
+
+I created a Power Point slide show outline for a screencast I'll record tomorrow on the Verdaccio integration.
+
+12/5
+-* started at 8AM. Stopped at 8:45. = 0.75 hr
+-* started at 12:45PM. Stopped at 3:15PM. = 2.5 hr
+-* started at 3:30PM. Stopped at 4:15PM. = 0.75 hr
+
+Re-reviewing this Discussion thread in light of my self-education around package signing options:
+https://community.radworks.org/t/software-releases-on-radicle/2786/27
+- 'Releases' are:
+  - Tags
+  - Binaries
+	- Possibly signed with a commit hash
+  - (possibly) a social commitment/communication that devs want users to upgrade to a new version (and devs might support it???)
+- One thing I think this discussion is missing, is the realization that most open source projects have a single primary maintainer who does 90%+ of the work. Most projects have a BDFL model. True collaboration is the exception, not the rule. Social commitements between devs and users are the exception, not the rule. This was the conclusion of the Request for Commits podcast after two seasons of interviewing open source maintainers.
+- The discussion at the end about schema is largely solved by npm signing. There would need to be some work to integrate an existing scheme, like npm package signing. But I would encourage Radicle to minimize the amount of innovation and custom code, and maximize the level of integration to existing package signing systems like npm.
+
+Brainstorming on summary report & video:
+- Start with part 4 (Verdaccio integration) and then explain parts 2 and 3 within the context of what is needed to make Verdaccio work. Use Verdaccio to segway into npm package signing.
+- Start by picking up where the first video left off. Show loading Verdaccio and show it not cacheing using the git+https format.
+- Show how I loaded the .tgz file to Filecoin.
+- Show that using the Filecoin URL in package.json will cause Verdaccio to cache it.
+  - Mention that the same thing is probably feasible with Areweave
+- Segway into Part 2 package signing: If Radicle developed the ability to download binaries, then the existing identity-repository framework could be applied to those binaries? This would leverage existing work.
+  - Good point to call out some of the discussion around security that's been had in Discord and GitHub.
+  - I think I could build a simple file serving node.js app that could download a git repo and serve a file from it. I have a lot of code I could leverage, could probably build a prototype in about 4-6 hours.
+
+
+Started working on the file proxy prototype at 1:45. I'm tracking my time so that I don't spend too much time on it.
+Got basic functionality working.
+
+
+12/2
+-* started at 4:15AM. Stopped at 6:45AM. = 2.5 hr
+
+Finished reading this article. This implies that no amount of package signing can be very effective against npm supply chain attacks. At best, there are tools that security-minded QA devs can leverage. But there is no automatic, easy way to prevent malicious attacks in large open source projects.
+https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/
+
+This article from 2020 has a good background on the state of package signing for several different programming lanaguages and package managers:
+https://blog.tidelift.com/the-state-of-package-signing-across-package-managers
+
+Cloudhead referred me to this specification document on how Radicle Identities are established:
+https://github.com/radicle-dev/radicle-link/blob/master/docs/spec/sections/identities.adoc
+
+pkgsign is an old, deprecated project for signing npm tarball packages. Even though the project is archived, it provides a framework for how Radicle signing of repositories could be applied to signing npm packages. pkgsign uses keybase or PGP signatures, whereas Radicle uses ed25519 signatures. But those are just low-level details. At a high level, the concepts are the same.
+- Article: https://medium.com/@hq/introducing-pkgsign-package-signing-and-verification-for-npm-5b833e0ec2d4
+- Repository: https://github.com/RedpointGames/pkgsign
+
+npm v8.13.0 introduce the `npm audit signatures` command:
+https://github.blog/2022-07-26-introducing-even-more-security-enhancements-to-npm/
+
+These use ECDSA signatures. The details are in this article. With these details, the Radicle way of signing might be able to be adapted for signing npm packages:
+https://docs.npmjs.com/about-registry-signatures
+
+I ran a test with Verdaccio, using the `light-cycle` npm package. When installing with the default npm registry, I was able to run `npm audit signatures` and everything passed. But when using Verdaccio as an npm proxy to install dependencies, `npm audit signatures` failed when trying to audit the dependencies.
+
+Apparently there is a plugin that can add the audit support to Verdaccio:
+https://www.npmjs.com/package/verdaccio-audit
+- I played with it a little bit, but couldn't get it working. I didn't spend much time on this, as I'm getting the sense I'm going too far down the package signing rabbit hole.
+
+Advantages to the Verdaccio/Filecoin setup:
+- Let's devs ease into decentralized package hosting, one package at at time.
+- The local mirroring of packages protects against downtimes with web3.storage or npm.
+- Packages can be mirrored locally with an IPFS node, so that there is less dependency of web3.storage or any specific Filecoin provider.
+
+Summarizing my research:
+- It is possible to manually package a Radicle code repository into a tarball compliant with npm package standards.
+- It is possible to publish a Radicle code repository to npm.
+- It is possible to publish a Radicle code repository to Verdaccio.
+- It is possible to include a Radicle git repository directly as an npm dependency.
+- It is possible to upload an npm package tarball to Filecoin, and then include that URL as an npm dependency.
+  - This method works well with Verdaccio, to locally mirror the package.
+- If seed nodes were adapted slightly, then npm packages could be downloaded from them directly.
+  - One modification would be to retrieve a single file from within a repo using http(s).
+	- This method would allow Verdaccio to mirror the package locally.
+	- This method would leverage the existing repo signing used by Radicle.
+  - A second modification would be to support `git archive --remote=...` git or ssh protocols.
+- Great article on supply chain attacks indicates that package signing is a great step to take, but not a panacea for supply chain attacks. There are many subtle attack vectors.
+  - Package signing isn't a 'hill to die on'. Even if it's done perfectly, there are several other attack vectors.
+- npm has a new `npm audit signatures` feature that lets users audit package signatures, in v8.13.0+
+  - npm uses ECDSA signatures, whereas Radicle uses ed25519 signatures.
+  - Verdaccio does not currently supports the `npm audit signatures` functionality, but it might with some additional configuration and add-on packages.
+- Another way to approach package signing is to copy what pkgsign did and adapt it for use with ed25519 signatures. This would be a way to integrate package signing within Radicle.
+
+
+12/1
+-* started at 7:45AM. Stopped at 10:30AM. = 2.75 hr
+
+Researching some of the info that I got from Cloudhead.
+
+I can clone my 'add' repo with this command:
+git clone https://pine.radicle.garden/hnrkcahyaj8apybx4p4px5h4r1r4y1fu7t6fy.git
+
+I can clone the 'test-add' repo with this command
+git clone https://pine.radicle.garden/hnrkp3yg4jiw9xs5w4dr8oe8dwziqj5ccdyeo.git
+
+The `git archive --remote=...` only works with git:// protocol, and will not work with https:// protocol. However, the 'pine' Seed server does not work with git:// protocol, and will only work with https:// protocol. So it does not appear that I can use the `git archive` command to retrieve a repo.
+
+I can manually (or as part of a release) publish the .tgz archive to Filecoin. Here is a link from a manual upload:
+https://bafybeigatd6qj46j2lnym25qvdv6oc6c4tdtl4zdqsoteyzolgangtnooe.ipfs.w3s.link/ipfs/bafybeigatd6qj46j2lnym25qvdv6oc6c4tdtl4zdqsoteyzolgangtnooe/add-1.0.0.tgz
+- Confirmed that this does work with npm.
+
+Switching gears to research Verdaccio:
+
+Verdaccio allows creation of private npm repositories and publishing them directly with Verdaccio.
+
+I was able to install Verdaccio on the local VM:
+sudo npm install -g verdaccio
+
+I was then able to run it with 'forever':
+sudo npm install -g forever
+forever start /usr/bin/verdaccio
+
+I took a VM snapshot after installing verdaccio. I'll monitor the network calls on the VM and see if Verdaccio will cache and store a Radicle-published package, using different combinations of package format.
+
+I was able to use this command in the Ubuntu VM to monitor network traffic:
+lsof -i TCP:80,443 -r 1
+
+With Verdaccio running, I was able to confirm the following:
+- using the `git+https://` method did *not* cache with Verdaccio. This made a network call each time `npm install` was run.
+- using the Filecoin link to the package (w3s.link), Verdaccio *does* cache the package. I can turn off the internet, and successfully reinstall the npm package using the Verdaccio cache.
+
+Have to stop focusing on this. Here is where I left off:
+- researching npm package signing and it might overlap with Radicle signing of repos.
+- Reading this recently published article on supply chain attacks:
+https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/?utm_campaign=AOM-2022&utm_medium=Paid-Email&utm_source=Cooperpress-Node-Weekly&utm_content=npm-security-preventing-supply-chain-attacks
+
+
+
+11/29
+-* started at 9AM. Stopped at 9:30AM. = 0.5 hr
+
+Reviewing replies and responses on Discord in the #clients channel, about retrieving specific files.
+
+Cloudhead says that it's not safe to retrieve single files from a repo, because "if you're fetching the file from an untrusted node, there's no way to verify it's the correct file".
+
+Bordumb suggests that we could anchor the commit on-chain, to which Cloudhead responded that it's too expensive, which he's right if they are only considering ETH. But it would not be expensive on a chain like BCH or XEC.
+
+Cloudhead suggested on way to retrieve a file would be like this:
+git archive --remote=https://<address>/repo.git <branch|HEAD> /some/path/file.txt | tar -xO /some/path/file.txt > /tmp/file.txt
+
+I need to look into those comamnds. One option would be to create a REST API that could translate GET requests into a command like the above, in order to deliver a file.
+
+
+
+11/28
+-* started at 10AM. Stopped at 10:30AM. = 0.5 hr
+
+At Bordumb's direction, I reached out the clients team on Discord, asking about retrieving specific files from a Radicle repo.
+
+Waiting on a response from them. Used the time to catch up on the Discord discussions.
+
+11/22
+-* started at 12:30PM. Stopped at 1:45PM. = 1.25 hr
+
+I was directed by Bordumb to submit a PR to this repo:
+https://github.com/radicle-dev/radicle-grants/tree/main/grants/milestone_deliveries
+
+Reviewing milestone submission guidelines:
+https://github.com/radicle-dev/radicle-grants/blob/main/docs/deliverables_guideline.md
+
+Created this PR for the first part of the first milestone:
+https://github.com/radicle-dev/radicle-grants/pull/78
+
+11/21
+-* started at 9:45AM. Stopped at 10:15AM. = 0.5 hr
+-* started at 10:45AM. Stopped at 12:45PM. = 2 hrs
+-* started at 2:15PM. Stopped at 3PM. = 0.75 hr
+
+Summarizing my findings and hours in a GitHub gist.
+
+Radicle repository for the test-add program:
+rad:git:hnrkp3yg4jiw9xs5w4dr8oe8dwziqj5ccdyeo
+https://app.radicle.xyz/seeds/pine.radicle.garden/rad:git:hnrkp3yg4jiw9xs5w4dr8oe8dwziqj5ccdyeo/tree
+
+Got stuck with the lack of ability to serve .tgz files directly from a Radicle repo, but then I discoverd that the Git format works. Spent signficant time researching it, and summarizing my findings in a gist. Also shot a video summary.
+
+Edited and finalized the gist with my research thus far.
+
+11/21
+-* started at 6:15AM. Stopped at 7:30AM. = 1.25 hr
+
+Focus for today is to create a simple npm library from a radicle repository, the dissect it.
+
+Created GitHub repo for simple add library:
+https://github.com/christroutner/add
+
+Radicle project ID:
+rad:git:hnrkcahyaj8apybx4p4px5h4r1r4y1fu7t6fy
+https://app.radicle.xyz/seeds/pine.radicle.garden/rad:git:hnrkcahyaj8apybx4p4px5h4r1r4y1fu7t6fy/tree
+
+When running `npm publish` the contents of the repo are added to a .tgz (tar + gzip) archive, and that is uploaded to npm. This is the 'release' package.
+
+https://askubuntu.com/questions/83868/compress-in-tgz
+- To create `backup.tgz` from folder `/home/user/project`:
+  - tar -cvzf backup.tgz /home/user/project
+- To exact:
+  - tar -xvzf backup.tgz
+
+Using the above command, I was able to manually create a .tgz file from the add directory. I then created a new `test-add` directory with a new JS program, and I was able to include the .tgz file as a dependency.
+
+If I download the .tgz file locally, I can include it just fine. However, that is not the standard development workflow.
+
+I tried to add the .tgz file to the `add` library repository and retrieve it that way. Here is the URL for that file:
+https://app.radicle.xyz/seeds/pine.radicle.garden/rad:git:hnrkcahyaj8apybx4p4px5h4r1r4y1fu7t6fy/tree/master/add-1.0.0.tgz
+
+I tried to add that URL to the package.json file for the `test-add` test app, but it was not able to download the .tgz file when I ran `npm install`. The reason is that that URL downloads HTML content, not the raw binary file. I asked in the Discord channel, and it appears there is no way (currently) to download raw file content with a URL from a seed node.
+
+11/20
+-* started at 7AM. Stopped at 8AM. = 1 hr
+
+Reading up on heartwood:
+https://app.radicle.xyz/seeds/clients.radicle.xyz/rad:git:hnrkx7ruakgb9ozzi7atwb1rh6moq8pjonp6o/tree/8cd1561688462e2fcb234956b6f5916c42bdf4fa/0001-heartwood.md
+
+Notes:
+- signed refs - identifies a repository. Is a signed message by the maintainer of the repo contents.
+- project - a repository with an identity document
+- seed - a node that hosts and serves projects
+
+
+Started researching npm packages:
+https://docs.npmjs.com/about-packages-and-modules
+
+
+11/18
+-* started at 8AM. Stopped at 9AM. = 1 hr
+
+The first 10% ($1,200) of the grant came through. Reviewing additional threads on the forum that everyone suggest I read.
+
+package manager grant application:
+https://community.radworks.org/t/grant-application-package-manager/3122/4?u=bordumb
+
+"Software releases on Radicle" thread:
+https://community.radworks.org/t/software-releases-on-radicle/2786
+- This thread tries to reach consensus on what makes a 'release'. General consensus is that any Git tag can be a release. And the release can be made more official by including signing from one or more people.
+
+Scope of this first milestone (and payment) is npm compatibility. So the goal is to generate an npm package from a Radicle code repository, and then disect the result in order to understand how a raw repository is turned into an NPM package.
+
+11/7
+
+-* started at 10AM. Stopped at 1PM = 3 hrs Radicle
+
+Creating a radicle grant for the package-manager that I discussed with the team this morning.
+
+Grants Discourse post: https://community.radworks.org/t/readme-applying-for-a-radicle-grant-start-here/2646
+
+Reading through Radworks Grants repo: https://github.com/radicle-dev/radicle-grants
+
+11/7
+
+-* started at 7AM. Stopped at 8AM. = 1 hr
+
+Meeting with bordum and Radicle team about the package manager.
+
+I've briefly evaluated the following package managers:
+
+	npm
+	tea
+	apt
+	GitHub
+	Filecoin
+	Verdaccio
+
+Notes:
+
+	Same key used in Radicle can be used for package signing.
+	GitHub has a blueprint for modifying existing package managers to use a new service.
+	We discussed using Verdaccio and modifying it to pull from Radicle instead of npm.
+		We would need a mapping between npm packages and Radicle repositories
+		It is possible to retrieve a single file from a Radible repo, without downloading the whole repo (yes, but feature needs to be built)
+
+Open questions:
+
+	Can Verdaccio be modified to use a Radicle middleware?
+	Can we leverage npm's vulnerability scanning?
+	How would package signing work?
+	Can this system be used for arbitrary binaries?
+	How to handle naming conflicts?
+		Github package manager is the blueprint to follow here.
+
+
+10/28
+
+-* started at 8AM. Stopped at 8:45AM. = 0.75 hr
+
+Meeting with bordumb.eth about Areweave + Radicle grant.
+
+Notes:
+
+	Want package manager feature, with package signing.
+	Needs a road to desired features, even if not fully featured at first.
+	We should have another meeting with one of the guys interested in code attestation
+	Development -> Clients + Heartwood on Discord
+		Clients is the web client and other clients
+		heartwood is p2p protocol
+		https://github.com/radicle-dev/heartwood/
+	Web interface: https://github.com/radicle-dev/radicle-interface
+
+We're going to schedule another meeting with the technical guys, to figure out what is desired in a package manager.

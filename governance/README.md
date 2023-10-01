@@ -19,7 +19,7 @@ Responsibilities:
 * **Planning milestones/check-ins**: milestones expected to be written by the grant candidates in their application. The Grant Lead will be responsible to have regular check-ins, depending on the tier of the project (see tiers below)
 * **Multi-Sig voting**: the Grant Lead will communicate to relevant Committee Members when a vote for finalized work is in order.
 
-The core goal of the Grants Lead is to build the Radicle ecosystem.
+The core goal of the Grants Lead is to build the Radworks ecosystem.
 
 ### Committee Members
 

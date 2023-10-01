@@ -12,5 +12,5 @@ This section for grants in progress that are either waiting for final PR review 
 #### 💰 Waiting for vote
 
 * Retroactive Grant for ENS integration for Orgs 
-  * Read [application/milestone delivery here](https://radicle.community/t/retroactive-grant-application-naming-radicle-orgs-in-upstream/2659/2)
+  * Read [application/milestone delivery here](https://community.radworks.org/t/retroactive-grant-application-naming-radicle-orgs-in-upstream/2659/2)
   * [Vote on Gnosis here](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/transactions/queue). If abstaining or need more info, please communicate this on Discourse above.

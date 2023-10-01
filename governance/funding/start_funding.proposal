@@ -1,15 +1,15 @@
-# Radicle Grants Wave 1 - Start Funding
+# Radworks Grants Wave 1 - Start Funding
 
 If executed, this proposal will:
 
-1. Transfer 1.0M USDC from the Radicle Foundation to the Radicle Grant Program's multi-sig
-2. Transfer 44,108 RAD from the Radicle Foundation to the Radicle Grant Program's multi-sig
+1. Transfer 1.0M USDC from the Radicle Foundation to the Radworks Grant Program's multi-sig
+2. Transfer 44,108 RAD from the Radicle Foundation to the Radworks Grant Program's multi-sig
 
 **How was this proposal discussed?**
 Please see discussions here:
-* Temperature Check: https://radicle.community/t/temperature-check-radicle-grants-program/2461/8
-* Formal Discussion (V1): https://radicle.community/t/formal-review-radicle-grants-program-v1/2548
-* Formal Discussion (V2): https://radicle.community/t/formal-review-radicle-grants-program-v2/2582/22
+* Temperature Check: https://community.radworks.org/t/temperature-check-radicle-grants-program/2461/8
+* Formal Discussion (V1): https://community.radworks.org/t/formal-review-radicle-grants-program-v1/2548
+* Formal Discussion (V2): https://community.radworks.org/t/formal-review-radicle-grants-program-v2/2582/22
 * Snapshot Poll (94% Approval): https://snapshot.org/#/gov.radicle.eth/proposal/0xe9158c0e656918f207f76af0b05feefce2cf07c02e582944825373eebd4ddaff
 
 Please see Grants Program repo here (to be mirrored on Radicle in future):
@@ -19,9 +19,9 @@ Please see Grants Program repo here (to be mirrored on Radicle in future):
 * `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48).
 * `0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3` is the RAD contract (https://etherscan.io/token/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3).
 * `0x8da8f82d2bbdd896822de723f55d6edf416130ba` is the Radicle Treasury address.
-* `0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c` is the Radicle Grants Program's multi-sig address.
+* `0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c` is the Radworks Grants Program's multi-sig address.
 
-## Radicle Grants Org
+## Radworks Grants Org
 Please find pertinent metadata for the Org here: https://app.radicle.network/orgs/0x8e9c37cc9a8fbb96400954c1ef2b351176fe0803
 
 ## ACTIONS ##

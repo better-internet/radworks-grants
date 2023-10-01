@@ -24,17 +24,17 @@ It seems like something like Drips could be useful in this space.
 notification when your project is funded).
 
 60 min:
-* Application review (https://radicle.community/t/application-radicle-discovery-analytics/2768/4)
+* Application review (https://community.radworks.org/t/application-radicle-discovery-analytics/2768/4)
 
 30 min:
-* Application review (https://radicle.community/t/grant-application-for-widelens/2719)
+* Application review (https://community.radworks.org/t/grant-application-for-widelens/2719)
 
 180 min:
-* Application review (https://radicle.community/t/ethanglia-0-to-web3/2688/10)
+* Application review (https://community.radworks.org/t/ethanglia-0-to-web3/2688/10)
 * Included meeting with that team
 
 30 min:
-* Application review (https://radicle.community/t/grant-application-for-freeform-grant/2693/2)
+* Application review (https://community.radworks.org/t/grant-application-for-freeform-grant/2693/2)
 
 60 min:
 * Community Call

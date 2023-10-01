@@ -1,6 +1,6 @@
 # Remuneration
 
-This area is meant to provide complete transparency on the Radicle Grant Program's committee remunerations.
+This area is meant to provide complete transparency on the Radworks Grant Program's committee remunerations.
 
 We plan on using this process only for the first grants wave.
 

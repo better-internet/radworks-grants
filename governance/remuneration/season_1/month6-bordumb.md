@@ -16,15 +16,15 @@
 
 540 min: 
 * Grant Reviews
-* https://radicle.community/t/expanding-nft-and-metaverse-ecosystem-on-radicle-by-creating-nft-search-engine/2872/3
-* https://radicle.community/t/yieldgate-grant-application/2848/4
-* https://radicle.community/t/drips-cli-sdk-tutorial-for-node-js/2839/5
-* https://radicle.community/t/application-radicle-ide-plugins-ux-design/2728/26
-* https://radicle.community/t/devnode-aggregating-developer-learning-and-support-communities-across-discords/2875/6
-* https://radicle.community/t/communitybuild-x-radicle-grant-proposal/2897/2
-* https://radicle.community/t/jokedao-grant-application/2884/7
-* https://radicle.community/t/otterspace-soulbound-contributor-badges-for-daos-grant-application/2868/6
-* https://radicle.community/t/application-radicle-jetbrains-ide-plugin-implementation-phase-1/2887/6
+* https://community.radworks.org/t/expanding-nft-and-metaverse-ecosystem-on-radicle-by-creating-nft-search-engine/2872/3
+* https://community.radworks.org/t/yieldgate-grant-application/2848/4
+* https://community.radworks.org/t/drips-cli-sdk-tutorial-for-node-js/2839/5
+* https://community.radworks.org/t/application-radicle-ide-plugins-ux-design/2728/26
+* https://community.radworks.org/t/devnode-aggregating-developer-learning-and-support-communities-across-discords/2875/6
+* https://community.radworks.org/t/communitybuild-x-radicle-grant-proposal/2897/2
+* https://community.radworks.org/t/jokedao-grant-application/2884/7
+* https://community.radworks.org/t/otterspace-soulbound-contributor-badges-for-daos-grant-application/2868/6
+* https://community.radworks.org/t/application-radicle-jetbrains-ide-plugin-implementation-phase-1/2887/6
 
 20 hrs: 
 * Discord 

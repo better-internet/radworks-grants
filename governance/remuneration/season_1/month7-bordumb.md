@@ -9,10 +9,10 @@
 
 2 hrs: 
 * Grant Reviews
-* https://radicle.community/t/yieldgate-development-badges-and-drips-integration-research/2941/2
-* https://radicle.community/t/devnode-aggregating-developer-learning-and-support-communities-across-discords/2875/10
-* https://radicle.community/t/ourtube-grant-application/2934/2
-* https://radicle.community/t/yubiai-d-marketplace-grant-application/2927/2
+* https://community.radworks.org/t/yieldgate-development-badges-and-drips-integration-research/2941/2
+* https://community.radworks.org/t/devnode-aggregating-developer-learning-and-support-communities-across-discords/2875/10
+* https://community.radworks.org/t/ourtube-grant-application/2934/2
+* https://community.radworks.org/t/yubiai-d-marketplace-grant-application/2927/2
 
 20 hrs: 
 * Discord 

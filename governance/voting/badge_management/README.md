@@ -2,7 +2,7 @@
 
 If you are the member of a DAO's multi-sig and help manage governance and interested in badge management, this is the page for you.
 
-> Note: for more context on badge-based governance, see the [OtterSpace Temperature Check here](https://radicle.community/t/temperature-check-use-otterspace-non-transferable-tokens-for-distribution-of-influence-mechanism/3055).
+> Note: for more context on badge-based governance, see the [OtterSpace Temperature Check here](https://community.radworks.org/t/temperature-check-use-otterspace-non-transferable-tokens-for-distribution-of-influence-mechanism/3055).
 
 > Note: all the details below assume we are on the Optimism Network, which OtterSpace is using prior to moving to Ethereum Mainnet. 
 
@@ -39,12 +39,12 @@ The process below covers setting up an Org/Sub-DAO's admin account, community pa
 * Confirm the transaction in your wallet. If using a Gnosis Safe, you'll confirm this back in the _Apps_ -> _Wallet Connect_ app page.
 * Share claim link to your contributors ([more docs](https://docs.otterspace.xyz/your-guide-to-otterspace/sharing-the-badge-claim-link-with-members)).
 
-### OtterSpace x Radicle Grants x Snapshot Votes
+### OtterSpace x Radworks Grants x Snapshot Votes
 * Create a Snapshot page for your sub-DAO on Optimism network ([Snapshot Docs](https://docs.snapshot.org/spaces/create)).
-  * Radicle Grants: https://snapshot.org/#/radiclegrants.eth
+  * Radworks Grants: https://snapshot.org/#/radiclegrants.eth
 * Go to _Settings_ -> _Strategie(s)_, and add a policy for OtterSpace badges ([OtterSpace docs](https://docs.otterspace.xyz/your-guide-to-otterspace/using-otterspace-badges-with-snapshot) / [Snapshot Docs](https://docs.snapshot.org/strategies/what-is-a-strategy)).
 
-Below is what the strategy for the Radicle Grants Org (RGO) looks like.
+Below is what the strategy for the Radworks Grants Org (RGO) looks like.
 
 In plain English, it says:
 * This is a `BADGES` voting policy for Raft Token `75` (the RGO OtterSpace community).
@@ -53,18 +53,18 @@ In plain English, it says:
 
 ``` 
 {
+  "symbol": "BADGES",
+  "raftTokenId": "75",
   "specs": [
     {
-      "id": "badges/bafyreiesiztwxc3gzi3asjggpey7symzwnihf3viz7k6rkaqtbvebavfwm",
-      "weight": "1"
+      "id": "bafyreiesiztwxc3gzi3asjggpey7symzwnihf3viz7k6rkaqtbvebavfwm",
+      "weight": 1
     },
     {
-      "id": "badges/bafyreicev2vael2hl52ww52k54ujn4roewzifelwmpe4mlfxng4bvqsq3a",
-      "weight": "1"
+      "id": "bafyreicev2vael2hl52ww52k54ujn4roewzifelwmpe4mlfxng4bvqsq3a",
+      "weight": 1
     }
-  ],
-  "symbol": "BADGES",
-  "raftTokenId": "75"
+  ]
 }
 ```
 
