@@ -1,4 +1,4 @@
-# Radicle Grants Program
+# Radworks Grants Program
 
 - [Introduction](#introduction)
   - [Guidelines](#guidelines)
@@ -17,12 +17,15 @@
 If you're reading this, you're as interested as we are in promoting Free and Open Source Software (FOSS) and the
 ever growing Web3 ecosystem.
 
-This page will cover the basics of the Radicle Grants Program's ethos, application processes, and structure.
+This page will cover the basics of the Radworks Grants Program's ethos, application processes, and structure.
 
 ### Guidelines
 
-The focus is on technical projects, such as additions to core Radicle software or components of Web3 infrastructure 
-that interact with Radicle, or adoption of some part of the [Radicle stack](https://github.com/radicle-dev) (e.g. [Radicle Drips SDK](https://github.com/radicle-dev/drips-js-sdk)).
+The focus is on technical projects that support the developmet of the Radicle & Drips networks. This include: 
+- Additions to core Radicle software or components of Web3 infrastructure 
+that interact with Radicle
+- Adoption of some part of the [Radicle stack](https://github.com/radicle-dev) (e.g. [Radicle Drips SDK](https://github.com/radicle-dev/drips-js-sdk))
+- [Insert Drips note]
 
 Below are high level things we look for:
 
@@ -78,7 +81,7 @@ channels.
 
 ### Support
 
-The scope of Radicle Grants includes the following:
+The scope of support offered by the Radworks Grants Committee includes the following:
 
 - Feedback before/during the application process
 - Funding
@@ -99,11 +102,11 @@ For inquiries with the Radicle team, please join their [Zulip here](https://radi
 
 ### Team
 
-#### Radicle Grants Committee
+#### Radworks Grants Committee
 
-This group will act as signers of the Radicle Grant Program's multi-sig, which will ultimately fund projects.
+The Grants Committee is the governing body of the Grants Org. This group will act as signers of the Radworks Grant Program's multi-sig, which will ultimately fund projects.
 
-The Radicle Grants Committee is made up of core Radicle team members, Radicle community members, and outside folks who
+The Radworks Grants Committee is made up of core Radicle team members, Radicle community members, and outside folks who
 have some sort of related domain expertise.
 
 - **Grants Lead:** [Bordumb](https://twitter.com/bordumbb) (Radicle Community)
@@ -111,6 +114,11 @@ have some sort of related domain expertise.
 - [Nader Dabit](https://twitter.com/dabit3) (Ecosystem)
 - [Nassar Hayat](https://twitter.com/nassarhayat) (Core Team)
 - Reverie (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radicle Community)
+
+Below is a record of all of the proposals the Grants Org has submitted to receive funding from Radworks:
+- [Radicle Grants Program v1](https://community.radworks.org/t/formal-review-radicle-grants-program-v1/2548)
+- [Radicle Grants Program v2](https://community.radworks.org/t/formal-review-radicle-grants-program-v2/2582)
+- [2024 Grants Org Proposal](https://community.radworks.org/t/formal-review-rgp-20-grants-org-proposal-2024-v2/3464/2)
 
 #### Radicle Operations Team<!-- omit in toc -->
 
@@ -134,6 +142,8 @@ The entire process includes these 3 steps:
 #### 3. [Payment](https://github.com/radicle-dev/radicle-grants/tree/main/grants#payment)
 
 ## Grant Categories
+
+The community has mandated the Grants Org focuses on funding work that falls within the following categories in 2024:
 
 ![grant_categories.png](src/grant_categories.png)
 
