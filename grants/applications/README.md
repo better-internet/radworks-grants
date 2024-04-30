@@ -12,7 +12,7 @@ Regardless of your grant [category](https://github.com/radicle-dev/radicle-grant
    1. Copy/paste the markdown file ([`applications/template.md`](template.md)). 
    2. Fill out the template with the details of your project. The more technically detailed, the less back-and-forth 
       we'll have, and the faster we can make a decision. 
-   3. Make a post on [Radicle's Discourse in the Grants category](https://community.radworks.org/c/grants/24)
+   3. Make a post on [Radworks' Discourse under the Grants category](https://community.radworks.org/c/grants/24)
 
 The committee and community members may ask questons there.
 
