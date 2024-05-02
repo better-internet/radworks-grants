@@ -23,9 +23,9 @@ This page will cover the basics of the Radworks Grants Program's ethos, applicat
 
 The focus is on technical projects that support the developmet of the Radicle & Drips networks. This include: 
 - Additions to core Radicle software or components of Web3 infrastructure 
-that interact with Radicle
-- [Insert Drips note]
-- Adoption of some part of the [Radicle stack](https://github.com/radicle-dev) (e.g. [Radicle Drips SDK](https://github.com/radicle-dev/drips-js-sdk))
+that interact with the [Radicle stack](https://github.com/radicle-dev) 
+- Additions to core Drips software or components, or compelling adoption of tooling, such as [Radicle Drips SDK](https://github.com/radicle-dev/drips-js-sdk)
+- Adoption of Radicle & Drips
 
 Below are high level things we look for:
 
@@ -76,8 +76,7 @@ grant. Where it makes sense, we may also award one grant across multiple teams.
 > 💰 If you write an RFP, you may collect a referral bonus equal to 5% of the total size of any 
 associated grant in $RAD that is accepted _**and**_ completed.
 
-No matter the source of the project idea, the entire application process will be transparent and public on Radworks 
-channels (e.g. Discourse, Github).
+Regardless of the source of the project idea, the entire RFP and application process will be public on [Radicle](https://radicle.xyz/).
 
 ### Support
 
