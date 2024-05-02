@@ -2,14 +2,14 @@
 
 | <img src="../src/radicle_logo.png?s=50" width="50"> | <img src="../src/gnosis_logo.png?s=50" width="50"> |
 | :-: | :-: |
-| [Radicle Org](https://app.radicle.network/orgs/0x8e9c37cc9a8fbb96400954c1ef2b351176fe0803) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
+| [Radicle Org](LINK BROKEN) | [Gnosis Safe](https://gnosis-safe.io/app/eth:0x394B920c5d39E0Ca40fCa2871569B6B90D750c7c/balances) |
 
 ## Team Roles
 
 ### Grants Lead
 
 Current Grants Lead:
-[Bordumb](https://twitter.com/bordumbb) (Radicle Community)
+[Bordumb](https://twitter.com/bordumbb) (Radworks Community)
 
 Responsibilities:
 * **Organizing and disseminating project ideas**: this will include RFPs from core Radicle members or open applications from the community (e.g. product requests from partners or straight from individual users)
@@ -28,7 +28,7 @@ Current Members:
 - [Kei Kreutler](https://twitter.com/keikreutler) (Ecosystem)
 - [Nader Dabit](https://twitter.com/dabit3) (Ecosystem)
 - [Nassar Hayat](https://twitter.com/nassarhayat) (Core Team)
-- Reverie (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radicle Community)
+- Reverie (comprised of [Derek Hsue](https://twitter.com/derek_hsue) and [Larry Sukernik](https://twitter.com/lsukernik) from the Radworks Community)
 
 Responsibilities:
 * **Understanding RFPs**: committee members are expected to be well versed in the running backlog of projects 
@@ -80,4 +80,4 @@ A: I could not agree more. This is largely due to us launching the grants progra
 
 We will keep this process for the 1st wave of grants. It will also help to inform us on the general line item costs of running such a program. For example, once Drips are online, we might use all the data here to make a flat monthly rate for drips based on the median monthly cost per committee member, learned from the 1st wave of grants.
 
-But aim is to fully adopt Radicle's native financial rails to move towards a more programmatic, automated, and transparent process.
+But aim is to fully adopt Radworks' native financial rails to move towards a more programmatic, automated, and transparent process.
