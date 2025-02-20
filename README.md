@@ -1,5 +1,7 @@
 # Radworks Grants Program
 
+IMPORTANT NOTE: as of July 2024, the [Radworks Grants Org has been sunset](https://community.radworks.org/t/introducing-retroactive-grants-and-sunsetting-the-grants-org/3573). The Foundation Org, as part of its [2025 annual proposal](https://community.radworks.org/t/formal-review-foundation-org-proposal-2025/3611) to Radworks, will operationalize grant cycles to retroactively award individuals who contribute meaningful content that supports Radworks' peer-to-peer technologies, as requested and funded by Orgs. Therefore this "radworks-grants" repository will be archived, as it no longer reflects the setup for grant-giving within the Radworks ecosystem.
+
 - [Introduction](#introduction)
   - [Guidelines](#guidelines)
   - [Requirements](#requirements)
